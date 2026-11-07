@@ -2,7 +2,7 @@
 
 ## Auf einen Blick
 
-Lieder, Musikvideos, Rap und Slam sind kurze, authentische und emotional wirksame Texte. Sie verbinden Hören, Sprechen und Singen mit Aussprache, Wortschatz, Grammatik und Kultur und öffnen den Blick auf die Frankophonie und auf aktuelle Jugendkultur. Ein Lied ist zugleich Hörtext, lyrischer Text und Musikstück. Slam ist gesprochene Poesie, die ohne Musik auskommt und zum eigenen Schreiben und Vortragen einlädt. Didaktisch lohnt der Einsatz, wenn das Lied eine Sprachhandlung oder eine Deutung trägt und nicht nur als Belohnung läuft.
+Lieder, Musikvideos, Rap und Slam sind kurze, authentische und emotional wirksame Texte. Sie verbinden Hören, Sprechen und Singen mit Aussprache, Wortschatz, Grammatik und Kultur und öffnen den Blick auf die Frankophonie und auf aktuelle Jugendkultur. Ein Lied ist zugleich Hörtext, lyrischer Text und Musikstück. Slam ist gesprochene Poesie, die ohne Musik auskommt und zum eigenen Schreiben und Vortragen einlädt. Didaktisch lohnt der Einsatz, wenn das Lied eine Sprachhandlung oder eine Deutung trägt und nicht nur als Belohnung läuft. Zwei Zugänge ergänzen sich: Mit einem Lied lernen heißt, es als Material für Hören, Aussprache, Wortschatz oder Grammatik zu nutzen. Am Lied lernen heißt, Text, Musik und Bild selbst zu untersuchen und die Form für eigene Texte und Vorträge zu nutzen.
 
 | Format | Französisch | Didaktische Chance |
 | --- | --- | --- |
@@ -12,30 +12,34 @@ Lieder, Musikvideos, Rap und Slam sind kurze, authentische und emotional wirksam
 | Slam | *le slam, la scène ouverte* | Gesprochene Poesie, eigenes Schreiben und Vortragen |
 | Kinderlied, Abzählreim | *la comptine* | Anfangsunterricht, Laute, Zahlen und Rituale |
 
-- **Begriffe:** chanson, refrain, couplet, paroles, clip, rap, slam, scène ouverte, rime, comptine (frz.); song-based learning, lyrics, music video, spoken word (engl.)
+- **Begriffe:** chanson, refrain, couplet, paroles, clip, rap, slam, scène ouverte, mise en voix, rime, comptine (frz.); song-based learning, lyrics, music video, spoken word (engl.)
 - **Abgrenzung:** Hör-Sehverstehen siehe B1, Gedichte als Literatur siehe D2, Musikvideos und Filmsprache siehe D3, Aussprache siehe C3, Frankophonie und Varietäten siehe D5.
 - **Tags:** #TMK #IKK #FKK #SekI #SekII #Praxiswissen
-- **Stand:** Entwurf Claude mit eigener Recherche (November 2026), Deep Research ausstehend
+- **Stand:** Entwurf Claude mit eigener Recherche (November 2026), erster Teil der Deep Research eingearbeitet, Rest ausstehend
 
 ## Haltung
 
 1. Ein Lied ist ein Text, kein Pausenfüller. Es bekommt einen Auftrag, der zum Lernziel der Stunde passt.
-2. Musik verankert Sprache im Gedächtnis: Gesungene Wendungen bleiben oft besser haften als gesprochene (Ludke, Ferreira & Overy 2014; Good, Russo & Sullivan 2015).
+2. Musik verankert Sprache im Gedächtnis: Gesungene Wendungen bleiben oft besser haften als gesprochene (Ludke, Ferreira & Overy 2014; Good, Russo & Sullivan 2015). Singen ersetzt aber weder Verstehen noch Üben: Ein kurzes Training mit einem französischen Lied verbesserte die Aussprache, nicht aber das Behalten der Wortbedeutungen (Baills et al. 2021).
 3. Die Auswahl ist eine fachliche Entscheidung. Aktuelle Musik der Lernenden, frankophone Vielfalt jenseits von Paris und Klassiker der *chanson française* haben ihren Platz; Text, Tempo und Aussprache werden vorher geprüft.
 4. Verstehen geht vor Vollständigkeit. Lernende müssen nicht jedes Wort verstehen; globale und selektive Aufträge entlasten, der Liedtext wird erst danach gelesen.
-5. Lernende werden selbst produktiv: mit eigenen Strophen, Slam-Texten oder Clips. Slam zeigt, dass Französisch eine Sprache für eigene Gedanken ist.
+5. Lernende werden selbst produktiv: mit eigenen Strophen, Slam-Texten oder Clips. Slam zeigt, dass Französisch eine Sprache für eigene Gedanken ist. Niemand muss vorsingen oder vor der Klasse auftreten; bewertet werden sprachliche und kommunikative Leistungen, nicht musikalisches Talent.
 
 ## Handlungshinweise
 
-- **Auswählen:** deutliche Aussprache, mäßiges Tempo, wiederkehrender Refrain, ein Thema mit Anschluss an die Reihe. Den Text auf problematische Inhalte prüfen. Lernende dürfen Vorschläge machen, die Auswahl wird gemeinsam begründet.
+- **Auswählen:** zuerst klären, was das Lied leisten soll: Hörverstehen, Aussprache, Deutung oder eigene Produktion. Dann auf deutliche Aussprache, mäßiges Tempo, einen wiederkehrenden Refrain und ein Thema mit Anschluss an die Reihe achten und den Text auf problematische Inhalte prüfen. Lernende dürfen Vorschläge machen, die Auswahl wird gemeinsam begründet. Lieber einen aussagekräftigen Ausschnitt gründlich bearbeiten als ein ganzes Lied Wort für Wort übersetzen.
 - **Vor dem Hören:** Titel, Cover oder ein Standbild aus dem Clip deuten, Erwartungen formulieren, wenige Schlüsselwörter vorentlasten.
 - **Beim Hören:** zuerst Stimmung und Thema erfassen (*Quelle ambiance ? De quoi parle la chanson ?*), dann selektive Aufträge: Lücken nur im Refrain, Wörter eines Wortfelds markieren, Strophen ordnen, im Clip Bezüge zwischen Bild und Text notieren.
+- **Clip oder Ton zuerst:** Für eine echte Höraufgabe den Clip zunächst zurückhalten, damit die Lernenden die Informationen aus dem Gehörten gewinnen. Ist die Bildsprache selbst Thema, kann der Clip zuerst ohne Ton laufen.
 - **Nach dem Hören:** Inhalt zusammenfassen, Stellung nehmen, eine Strophe umschreiben oder weiterschreiben, eine Szene des Clips nachstellen, eine Playlist mit Begründung zusammenstellen.
+- **Clip analysieren (Sek II):** Text, Klang und Bild erst getrennt beobachten, dann aufeinander beziehen, etwa in einer Tabelle mit den Spalten *paroles*, *son et voix*, *images* und *effet produit*. Die Lernenden zeigen, wie ein Schnitt, eine Farbe oder ein Perspektivwechsel die Aussage verstärkt oder ihr widerspricht. Das dreifache Raster aus Text, Musik und Klang sowie visueller Performance stammt von Dufays (2022), der es an Stromaes *Carmen* und Mauranes *Sur un prélude de Bach* vorführt.
 - **Aussprache und Rhythmus:** den Refrain mitsingen oder rhythmisch sprechen, Bindungen (*liaison*, *enchaînement*) und stumme Endungen hörbar machen, das Lied als Modell für die Satzmelodie nutzen (siehe C3).
+- **Vom Singen zum Sprechen:** Eine mögliche Folge ist hören, unterscheiden, markieren, nachsprechen, rhythmisch sprechen, singen und zum Schluss ohne Musik sprechen. Die Rückmeldung beschränkt sich auf zwei oder drei Merkmale. Was im Lied gelingt, muss beim Sprechen eigens geübt werden: Im Gesang folgen Rhythmus und Betonung der Melodie, und ein stummes *e* wird oft mitgesungen.
+- **Wortschatz sichern:** Nach dem Hören ausgewählte Wendungen ohne Lied abrufen und in eigenen Sätzen verwenden, etwa *Cette chanson me rend… parce que…* oder *Quand je suis triste, je…*. In einer Studie mit englischen Popsongs waren die Zuwächse bei explizitem Vorgehen dauerhafter als bei implizitem (Mannarelli & Serrano 2022; siehe C1).
 - **Grammatik im Kontext:** Lieder mit wiederkehrenden Strukturen wählen, etwa *futur proche*, Verneinung oder *conditionnel*. Die Form erst nach dem Verstehen in den Blick nehmen.
 - **Ritual:** eine regelmäßige *chanson de la semaine* oder *pause musicale* zu Stundenbeginn, abwechselnd von Lernenden vorgestellt.
 - **Slam und Rap in Sek II:** Texte etwa von Grand Corps Malade oder Abd al Malik auf Bilder, Klang, Wiederholung und Rhythmus untersuchen, dann eigene Texte schreiben, in einer Schreibkonferenz überarbeiten und in einer *scène ouverte* vortragen. Der Vortrag bleibt freiwillig; eine Audioaufnahme ist eine gleichwertige Alternative.
-- **Frankophonie:** Lieder aus Belgien, Québec, der Schweiz oder afrikanischen Ländern nutzen, um Varietäten, Themen und Lebenswelten zu entdecken (siehe D5).
+- **Frankophonie:** Lieder aus Belgien, Québec, der Schweiz oder afrikanischen Ländern nutzen, um Varietäten, Themen und Lebenswelten zu entdecken (siehe D5). Akzente, *français familier* und regionale Wörter sind Gegenstand des Verstehens, keine Fehler. Ein Lied zeigt eine Perspektive, kein Abbild eines Landes; Leitfrage: *Qu'est-ce que cette chanson nous apprend sur un point de vue particulier, et qu'est-ce qu'elle ne permet pas de généraliser ?*
 - **Rechte beachten:** Für Kopien von Liedtexten, das Hochladen auf Lernplattformen und Aufführungen bei Schulveranstaltungen gelten eigene Regeln (§ 60a UrhG, bei Veranstaltungen gegebenenfalls GEMA). Im Zweifel bei Schulleitung oder Medienzentrum nachfragen.
 
 ## Best Practice Französisch
@@ -87,10 +91,14 @@ Lieder, Musikvideos, Rap und Slam sind kurze, authentische und emotional wirksam
 - **Singen und Gedächtnis:** In einem Experiment mit 60 Erwachsenen schnitten diejenigen, die ungarische Wendungen sangen, nach 15 Minuten besser ab als jene, die sie sprachen oder rhythmisch sprachen; signifikant war der Vorteil beim Erinnern und Sprechen der Wendungen (Ludke, Ferreira & Overy 2014).
 - Spanischsprachige Kinder in Ecuador, die einen englischen Text zwei Wochen lang als Lied lernten, erinnerten ihn genauer, sprachen Vokale besser aus und übersetzten Zielwörter besser als Kinder, die ihn als gesprochenes Gedicht lernten. Der Vorteil hielt sechs Monate an (Good, Russo & Sullivan 2015).
 - In einer Kunstsprache erkannten Erwachsene Wortgrenzen leichter, wenn die Silbenfolge gesungen statt gesprochen wurde (Schön et al. 2008).
+- **Französisch als Zielsprache:** In zwei Experimenten lernten 108 chinesische Lernende in vier Minuten 14 französische Wörter für Körperteile. Wer sie als Lied hörte, sprach sie danach mit weniger Akzent aus als nach rhythmisch gesprochener Vorlage; Singen wirkte nicht stärker als Zuhören. Beim Behalten der Bedeutungen brachten weder das Lied noch das Singen einen Vorteil; Arbeitsgedächtnis und Imitationsfähigkeit beeinflussten die Ergebnisse (Baills et al. 2021).
 - **Wortschatz:** Eine Meta-Analyse über 28 Studien mit 1.864 Teilnehmenden aus den Jahren 1990 bis 2020 fand Vorteile englischer Lieder für das Wortschatzlernen. Popsongs wirkten stärker als Lehrwerkslieder, Erwachsene profitierten mehr als Kinder, und am günstigsten war eine Unterrichtszeit von etwa 200 bis 600 Minuten (Murphy Odo 2022).
+- In zwei achten Klassen in Italien förderten englische Popsongs den Wortschatz bei explizitem wie bei implizitem Vorgehen; dauerhafter waren die Zuwächse bei explizitem Vorgehen (Mannarelli & Serrano 2022).
 - **Überblick:** Die Literatur zum Musikeinsatz im Englischunterricht begründet ihn vor allem mit Motivation, Gedächtnis und Aussprache; viele Arbeiten sind Erfahrungsberichte (Engh 2013). Deutschsprachige Beiträge verbinden Musik mit Hörverstehen und *audio literacy* (Blell & Kupetz 2010).
-- **Französisch:** Die genannten Wirksamkeitsstudien stammen aus Labor und Englischunterricht. Für den Französischunterricht liegen vor allem fachdidaktische Unterrichtsvorschläge zu Chansons, Clips und Slam vor.
-- **Offen:** wie stark Lieder über das Behalten von Wendungen hinaus das freie Sprechen fördern und wie sich Slam-Projekte auf Schreibkompetenz und Sprechangst auswirken.
+- **Belastbarkeit:** Ein systematischer Review über 60 Interventionsstudien aus 23 Ländern mit Lernenden zwischen 2 und 18 Jahren findet überwiegend positive Wirkungsbehauptungen, aber kaum Studiendesigns, die kausale Schlüsse tragen. Belastbare Aussagen über die sprachliche Wirkung von Liedern sind danach derzeit nicht möglich (Hamilton et al. 2024).
+- **Slam:** Eine Analyse von zwölf Studioaufnahmen aus dem Umfeld der offenen Bühne La Zone in Lüttich unterscheidet vier Vortragsstile: *parlé* (weder Reime noch Skandierung), *poétique* (Reime und metrische Struktur, im Vortrag ohne regelmäßige Skandierung), *accentué* (Passagen mit hoher Akzentdichte) und *élaboré* (gereimter oder assonierender Text mit regelmäßiger Skandierung) (Simon 2020). Für eigene Vorträge der Lernenden lassen sich die Stile als Beobachtungsraster nutzen.
+- **Französisch:** Die Wirksamkeitsstudien stammen überwiegend aus Labor und Englischunterricht; mit Französisch als Zielsprache gibt es etwa die Laborstudie von Baills et al. (2021). Für den Französischunterricht liegen vor allem fachdidaktische Vorschläge vor, darunter ein Analyseraster, das Text, Musik und Klang sowie die visuelle Performance unterscheidet und aufeinander bezieht (Dufays 2022).
+- **Offen:** wie stark Lieder über das Behalten von Wendungen hinaus das freie Sprechen fördern, ob Effekte über kurze Interventionen hinaus anhalten und wie sich Slam-Projekte auf Schreibkompetenz und Sprechangst auswirken. Dafür fehlen robust angelegte Interventionsstudien (Hamilton et al. 2024).
 
 ## Querverweise
 
@@ -105,11 +113,16 @@ B1 Hör- und Hör-Sehverstehen, B4 Schreiben, C1 Wortschatzarbeit, C3 Aussprache
 
 **Aktuell und international**
 
+- Baills, F., Zhang, Y., Cheng, Y., Bu, Y. & Prieto, P. (2021). Listening to songs and singing benefitted initial stages of second language pronunciation but not recall of word meaning. *Language Learning, 71*(2), 369–413. https://doi.org/10.1111/lang.12442
+- Dufays, J.-L. (2022). Littérature et chanson, un dialogue stratégique pour la classe de français. *Carnets, 24*. https://doi.org/10.4000/carnets.13983
 - Engh, D. (2013). Why use music in English language learning? A survey of the literature. *English Language Teaching, 6*(2), 113–127.
 - Good, A. J., Russo, F. A. & Sullivan, J. (2015). The efficacy of singing in foreign-language learning. *Psychology of Music, 43*(5), 627–640.
+- Hamilton, C., Schulz, J., Chalmers, H. & Murphy, V. (2024). Investigating the substantive linguistic effects of using songs for teaching second or foreign languages to preschool, primary and secondary school learners: A systematic review of intervention research. *System, 124*, 103350. https://doi.org/10.1016/j.system.2024.103350
 - Ludke, K. M., Ferreira, F. & Overy, K. (2014). Singing can facilitate foreign language learning. *Memory & Cognition, 42*(1), 41–52.
+- Mannarelli, P. & Serrano, R. (2022). "Thank you for the music": Examining how songs can promote vocabulary learning in an EFL class. *The Language Learning Journal.* https://doi.org/10.1080/09571736.2022.2092198
 - Murphy Odo, D. (2022). Examining the influence of English songs on English L2 lexical learning: A quantitative meta-analytic review. *Language, Culture and Curriculum, 35*(4), 386–403.
 - Schön, D., Boyer, M., Moreno, S., Besson, M., Peretz, I. & Kolinsky, R. (2008). Songs as an aid for language acquisition. *Cognition, 106*(2), 975–983.
+- Simon, A.-C. (2020). Les rythmes dans le slam. *Langage et société, 171*, 139–169.
 
 **Praxis und Online**
 
@@ -117,4 +130,4 @@ B1 Hör- und Hör-Sehverstehen, B4 Schreiben, C1 Wortschatzarbeit, C3 Aussprache
 - FrancoMusiques: jährlich aktualisierte Auswahl aktueller französischsprachiger Lieder mit Unterrichtsmaterial (Institut français Deutschland mit Cornelsen).
 - TV5MONDE (Apprendre et enseigner le français): Übungen und Unterrichtsmaterial, auch zu Musikvideos.
 
-*Hinweis: Eigener Entwurf, Deep Research steht noch aus. Die Studien von Engh, Good et al., Ludke et al., Murphy Odo und Schön et al., der Band von Blell & Kupetz, die Hefte von Unterricht Französisch und das Angebot FrancoMusiques sind im November 2026 einzeln geprüft. Die Moderatoren bei Murphy Odo (2022) stammen aus der Pressemitteilung der Universität. Murphey (1992) stammt aus Fachwissen. Liedbeispiele sind Vorschläge; Texte vor dem Einsatz prüfen.*
+*Hinweis: Eigener Entwurf, ergänzt um die Abschnitte 1 bis 3.6 eines Deep-Research-Berichts; der Rest des Berichts steht noch aus. Im November 2026 einzeln geprüft: die Studien von Engh, Good et al., Ludke et al., Murphy Odo und Schön et al., der Band von Blell & Kupetz, die Hefte von Unterricht Französisch und das Angebot FrancoMusiques; aus dem Bericht neu Baills et al. und Hamilton et al. (bibliografische Angaben und Abstract), Mannarelli & Serrano (Abstract, Jahrgang der Druckausgabe nicht ermittelt), Dufays (Abstract) und Simon (Volltext). Simons Stilnamen sind nach dem Original angegeben, der Bericht nannte sie abweichend. Nicht übernommen, weil nicht auffindbar: Ben Boudjema (2021). Die Moderatoren bei Murphy Odo (2022) stammen aus der Pressemitteilung der Universität. Murphey (1992) und der Hinweis zum gesungenen stummen e stammen aus Fachwissen. Die Angaben zum Lehrplan Französisch 2026 sind am Text der Erprobungsfassung geprüft. Liedbeispiele sind Vorschläge; Texte vor dem Einsatz prüfen.*
