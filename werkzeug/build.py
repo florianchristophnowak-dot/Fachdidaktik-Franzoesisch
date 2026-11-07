@@ -494,10 +494,13 @@ def main():
     if not data["entries"]:
         sys.exit("Keine Einträge gefunden in " + str(inhalt))
 
-    template = (HERE / "template.html").read_text(encoding="utf-8")
-    payload = json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
-    page = (template.replace("/*__FONTS__*/", font_css(HERE / "fonts"))
-                    .replace("__DATA_JSON__", payload))
+    template = (HERE / "template.html").read_text(encoding="utf-8").replace("/*__FONTS__*/", font_css(HERE / "fonts"))
+
+    def seite(daten):
+        payload = json.dumps(daten, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+        return template.replace("__DATA_JSON__", payload)
+
+    page = seite(data)
 
     robots = "" if args.suchmaschinen else '<meta name="robots" content="noindex, nofollow">\n'
     head_extra = ('<!doctype html>\n<html lang="de">\n<head>\n<meta charset="utf-8">\n'
@@ -514,7 +517,9 @@ def main():
     (out / "robots.txt").write_text("User-agent: *\n%s\n" % ("Allow: /" if args.suchmaschinen else "Disallow: /"),
                                     encoding="utf-8")
     if args.artifact:
-        (out / "artifact.html").write_text(page.replace("<!--BODY-->", "", 1), encoding="utf-8")
+        # Vorschau als Claude-Artifact: dort lassen sich keine Dateien herunterladen, also ohne Offline-Link.
+        vorschau = dict(data, offlineFile=None)
+        (out / "artifact.html").write_text(seite(vorschau).replace("<!--BODY-->", "", 1), encoding="utf-8")
 
     n_edges = len({tuple(sorted((e["id"], q))) for e in data["entries"] for q in e["qv"]})
     print("Einträge:", len(data["entries"]), "| Bereiche:", len(data["areas"]), "| Verbindungen:", n_edges,
