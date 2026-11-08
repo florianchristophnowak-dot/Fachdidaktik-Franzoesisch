@@ -14,6 +14,8 @@
   --f-sc:'Spectral SC','Spectral','Iowan Old Style',Georgia,serif;
   --f-sans:'IBM Plex Sans',system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
   --header-h:58px; --toc-h:0px;
+  /* Knopf hell/dunkel: im Hellen eine Sonne */
+  --m-core:translate(0,0) scale(.56); --m-cut:translate(10px,-10px); --m-rays:1; --m-rays-t:rotate(0deg) scale(1);
 }
 @media (prefers-color-scheme: dark){
   :root:not([data-theme="light"]){
@@ -22,6 +24,7 @@
     --accent:#9db0ff; --accent-soft:#1f2645;
     --mark:#5a5220; --stamp:#ff8a92;
     --shadow:0 12px 32px rgba(0,0,0,.5),0 1px 3px rgba(0,0,0,.4);
+    --m-core:translate(1px,-1px) scale(1.08); --m-cut:translate(0,0); --m-rays:0; --m-rays-t:rotate(-70deg) scale(.4);
     color-scheme:dark;
   }
 }
@@ -31,6 +34,7 @@
   --accent:#9db0ff; --accent-soft:#1f2645;
   --mark:#5a5220; --stamp:#ff8a92;
   --shadow:0 12px 32px rgba(0,0,0,.5),0 1px 3px rgba(0,0,0,.4);
+  --m-core:translate(1px,-1px) scale(1.08); --m-cut:translate(0,0); --m-rays:0; --m-rays-t:rotate(-70deg) scale(.4);
   color-scheme:dark;
 }
 
@@ -91,6 +95,16 @@ mark{background:var(--mark);color:inherit;padding:0 .1em;border-radius:.7em .25e
 .dice svg{width:21px;height:21px;display:block;flex:none}
 .dice.roll svg{animation:roll .55s cubic-bezier(.3,1.35,.5,1)}
 @keyframes roll{0%{transform:rotate(0) scale(1)}45%{transform:rotate(210deg) scale(.82)}100%{transform:rotate(360deg) scale(1)}}
+/* Hell oder dunkel: die Sonne zieht ihre Strahlen ein und wird zum Mond */
+.mode{display:inline-grid;place-items:center;flex:none;background:none;border:1px solid var(--line);border-radius:10px;
+  padding:6px 7px;cursor:pointer;color:var(--ink-2);line-height:0}
+.mode:hover{color:var(--ink);border-color:var(--ink-3)}
+.mode svg{width:21px;height:21px;display:block}
+.mode .m-core,.mode .m-cut,.mode .m-rays{transform-box:view-box;transform-origin:12px 12px;
+  transition:transform .55s cubic-bezier(.3,1.35,.5,1),opacity .3s ease}
+.mode .m-core{transform:var(--m-core)}
+.mode .m-cut{transform:var(--m-cut)}
+.mode .m-rays{opacity:var(--m-rays);transform:var(--m-rays-t)}
 @media (max-width:760px){
   .top{position:static}
   .top-inner{display:grid;grid-template-columns:minmax(0,1fr);gap:8px}
@@ -99,6 +113,9 @@ mark{background:var(--mark);color:inherit;padding:0 .1em;border-radius:.7em .25e
   .results{left:0;right:auto}
 }
 @media (max-width:520px){.dice span{display:none}.dice{padding:6px 8px}}
+.modes{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:0 0 1.7rem;max-width:44rem}
+.modes-l{font-size:.875rem;color:var(--ink-3);margin-right:4px}
+.modes .chip{font-size:.875rem;padding:5px 13px}
 
 /* ---------- Daumenregister ---------- */
 .thumbs{display:none}
@@ -298,12 +315,15 @@ main{min-height:60vh;display:block}
 
 @media (prefers-reduced-motion: reduce){*{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
 @media print{
-  .top,.toc,.thumbs,.foot,.pn,.q-controls,.results,.dice,.qdj{display:none!important}
+  .top,.toc,.thumbs,.foot,.pn,.q-controls,.results,.dice,.mode,.modes,.qdj{display:none!important}
   .entry{display:block;padding-top:0}
   .sec{break-inside:auto;padding-block:12px}
   body{font-size:11pt}
 }
 </style>
+<script>/* Gewählte Darstellung vor dem ersten Zeichnen setzen, damit nichts aufblitzt */
+(function(){ var r = document.documentElement; window.ENZ_HOST_THEME = r.getAttribute('data-theme');
+  try { var t = localStorage.getItem('enz-theme'); if (t === 'dark' || t === 'light') r.setAttribute('data-theme', t); } catch (err) {} })();</script>
 <!--BODY-->
 <header class="top" lang="de">
   <div class="wrap gutter top-inner">
@@ -322,6 +342,9 @@ main{min-height:60vh;display:block}
       </div>
       <button class="dice" id="dice" type="button" title="Einen Eintrag zufällig aufschlagen" aria-label="Zufälligen Eintrag öffnen">
         <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="17" height="17" rx="4.5" fill="none" stroke="currentColor" stroke-width="1.6"/><g id="dice-pips" fill="currentColor"></g></svg><span>Au hasard</span>
+      </button>
+      <button class="mode" id="mode" type="button" title="Zur dunklen Darstellung wechseln" aria-label="Zur dunklen Darstellung wechseln">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><mask id="m-mask"><rect width="24" height="24" fill="#fff"/><circle class="m-cut" cx="15.5" cy="8.5" r="7" fill="#000"/></mask><circle class="m-core" cx="12" cy="12" r="8" fill="currentColor" mask="url(#m-mask)"/><path class="m-rays" d="M12 2.5V5M12 19v2.5M2.5 12H5M19 12h2.5M5.28 5.28l1.77 1.77M16.95 16.95l1.77 1.77M5.28 18.72l1.77-1.77M16.95 7.05l1.77-1.77" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
       </button>
     </div>
   </div>
@@ -412,6 +435,30 @@ dice.addEventListener('click', function(){
   setTimeout(go, 500);
 });
 dice.addEventListener('animationend', function(){ dice.classList.remove('roll'); });
+
+/* ---------- Hell oder dunkel: folgt zunächst dem Gerät, eine Wahl bleibt gespeichert ---------- */
+var htmlEl = document.documentElement, modeBtn = $('#mode');
+var darkMq = window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)') : null;
+var mode = (function(){ try { var t = localStorage.getItem('enz-theme'); return t === 'dark' || t === 'light' ? t : ''; } catch (err) { return ''; } })();
+function effTheme(){ var t = htmlEl.getAttribute('data-theme'); return t === 'dark' || t === 'light' ? t : (darkMq && darkMq.matches ? 'dark' : 'light'); }
+function syncMode(){
+  var label = effTheme() === 'dark' ? 'Zur hellen Darstellung wechseln' : 'Zur dunklen Darstellung wechseln';
+  modeBtn.setAttribute('aria-label', label); modeBtn.title = label;
+  $$('.modes .chip').forEach(function(b){ b.setAttribute('aria-pressed', b.getAttribute('data-mode') === mode ? 'true' : 'false'); });
+}
+function setMode(m){
+  mode = m;
+  if (m) htmlEl.setAttribute('data-theme', m);
+  else if (window.ENZ_HOST_THEME) htmlEl.setAttribute('data-theme', window.ENZ_HOST_THEME);
+  else htmlEl.removeAttribute('data-theme');
+  try { if (m) localStorage.setItem('enz-theme', m); else localStorage.removeItem('enz-theme'); } catch (err) {}
+  syncMode();
+}
+modeBtn.addEventListener('click', function(){ setMode(effTheme() === 'dark' ? 'light' : 'dark'); });
+view.addEventListener('click', function(ev){ var b = ev.target.closest('.modes .chip'); if (b) setMode(b.getAttribute('data-mode')); });
+if (darkMq) { if (darkMq.addEventListener) darkMq.addEventListener('change', syncMode); else if (darkMq.addListener) darkMq.addListener(syncMode); }
+if (window.MutationObserver) new MutationObserver(syncMode).observe(htmlEl, { attributes: true, attributeFilter: ['data-theme'] });
+syncMode();
 
 /* ---------- Startseite ---------- */
 var QS = null;
@@ -647,6 +694,10 @@ function viewBenutzung(){
     ' erzeugt, Stand ' + esc(D.stand) + '. Zum Bearbeiten auf einer Eintragsseite „Auf GitHub bearbeiten“ wählen, den Text ändern und mit „Commit changes“ speichern. ' +
     'Nach etwa einer Minute ist die Website aktualisiert, und jede Änderung bleibt im Versionsverlauf erhalten.' +
     (OFFLINE ? ' ' + offlineLink() + ': eine einzelne Datei, die ohne Internet im Browser läuft.' : '') + '</div>';
+  h += '<div class="modes" role="group" aria-label="Darstellung"><span class="modes-l">Darstellung</span>' +
+    [['', 'Wie das Gerät'], ['light', 'Hell'], ['dark', 'Dunkel']].map(function(o){
+      return '<button type="button" class="chip" data-mode="' + o[0] + '" aria-pressed="' + (mode === o[0]) + '">' + o[1] + '</button>';
+    }).join('') + '</div>';
   h += '<div class="about">' + secs.map(function(s){ return '<section class="sec"><h2>' + esc(s.title) + '</h2><div class="body">' + s.html + '</div></section>'; }).join('') + '</div>';
   view.innerHTML = h;
   window.scrollTo(0, 0);
