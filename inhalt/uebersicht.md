@@ -32,7 +32,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 
 ## Systematik
 
-41 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
+42 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
 
 | Kürzel | Eintrag | Bereich | Status |
 | --- | --- | --- | --- |
@@ -50,6 +50,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 | C1 | Wortschatzarbeit | Sprachliche Mittel | Deep Research eingearbeitet |
 | C2 | Grammatikvermittlung | Sprachliche Mittel | Deep Research eingearbeitet |
 | C3 | Aussprache und Intonation | Sprachliche Mittel | Deep Research eingearbeitet |
+| C5 | Pragmatik und Gesprächsstrategien | Sprachliche Mittel | Entwurf Claude mit eigener Recherche |
 | D1 | Inter- und transkulturelle Kompetenz | Kultur, Literatur, Medien | Deep Research eingearbeitet |
 | D2 | Literatur | Kultur, Literatur, Medien | Deep Research eingearbeitet |
 | D3 | Film und Bildmedien | Kultur, Literatur, Medien | Deep Research eingearbeitet |
