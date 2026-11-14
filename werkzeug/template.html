@@ -292,6 +292,7 @@ main{min-height:60vh;display:block}
 .body table{border-collapse:collapse;width:100%;font:400 .9375rem/1.45 var(--f-sans)}
 .body th{text-align:left;font-weight:600;color:var(--ink);border-bottom:1.5px solid var(--ink-3);padding:7px 12px 7px 0;vertical-align:bottom}
 .body td{border-bottom:1px solid var(--line);padding:8px 12px 8px 0;vertical-align:top}
+.body th:last-child,.body td:last-child{padding-right:0}
 .sec-stolpersteine td:first-child{font-weight:600;color:var(--ink);width:36%}
 .sec-beobachten .body li:last-child{font-style:italic}
 .sec-bibliografie .body{font-size:1rem;line-height:1.55}
@@ -1057,9 +1058,9 @@ function applyMarks(){
 /* ---------- Breite Tabellen, die seitlich scrollen, mit der Tastatur erreichbar machen ---------- */
 /* Geprüft wird nach jedem Zeichnen und erneut, sobald sich die Breite einer Tabelle oder ihres Rahmens ändert:
    Die eingebetteten Schriften laden erst nach dem ersten Zeichnen (font-display: swap) und können eine Tabelle
-   breiter machen, ebenso ein schmaleres Fenster. */
+   breiter machen, ebenso ein schmaleres Fenster. Schon ein Pixel Überstand zählt, so prüft es auch axe-core. */
 function markScrollable(w){
-  if (w.scrollWidth > w.clientWidth + 1) {
+  if (w.scrollWidth > w.clientWidth) {
     w.setAttribute('tabindex', '0'); w.setAttribute('role', 'region'); w.setAttribute('aria-label', 'Tabelle, seitlich verschiebbar');
   } else { w.removeAttribute('tabindex'); w.removeAttribute('role'); w.removeAttribute('aria-label'); }
 }

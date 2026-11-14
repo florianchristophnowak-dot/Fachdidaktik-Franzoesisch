@@ -27,9 +27,34 @@ async function axe(page, label) {
   const v = await page.evaluate(async (tags) => {
     const r = await window.axe.run(document, { runOnly: { type: 'tag', values: tags }, resultTypes: ['violations'] });
     return r.violations.filter((x) => x.impact === 'serious' || x.impact === 'critical')
-      .map((x) => x.id + ' (' + x.nodes.length + '×): ' + x.nodes.slice(0, 2).map((n) => n.target.join(' ')).join(', '));
+      .map((x) => ({ id: x.id, n: x.nodes.length, ziele: x.nodes.slice(0, 2).map((n) => n.target.join(' ')) }));
   }, AXE_TAGS);
-  v.forEach((x) => fail(label + ': ' + x));
+  for (const x of v) {
+    fail(label + ': ' + x.id + ' (' + x.n + '×): ' + x.ziele.join(', '));
+    // Bei scrollbaren Bereichen die Maße ausgeben, damit sich die Ursache aus dem Protokoll ablesen lässt
+    if (x.id === 'scrollable-region-focusable') console.log(await masse(page, x.ziele));
+  }
+}
+
+async function masse(page, ziele) {
+  const vorher = await page.evaluate((sels) => sels.map((sel) => {
+    const w = document.querySelector(sel);
+    if (!w) return sel + ': nicht gefunden';
+    const t = w.firstElementChild;
+    const probe = document.createElement('div');
+    probe.lang = 'de';
+    probe.style.cssText = 'position:absolute;width:60px;hyphens:auto;visibility:hidden;font:16px sans-serif';
+    probe.textContent = 'Unterrichtsbesuche';
+    document.body.appendChild(probe);
+    const trennung = probe.scrollWidth <= 61;
+    probe.remove();
+    return '        ' + sel + ': Breite ' + w.scrollWidth + ' von ' + w.clientWidth + ', Höhe ' + w.scrollHeight + ' von ' + w.clientHeight +
+      ', Tabelle ' + (t ? t.getBoundingClientRect().width.toFixed(1) : '-') + ' px, tabindex ' + w.getAttribute('tabindex') +
+      ', Silbentrennung ' + (trennung ? 'ja' : 'nein') + ', Schriften ' + document.fonts.status;
+  }), ziele);
+  const danach = await page.evaluate((sels) => new Promise((fertig) => requestAnimationFrame(() => requestAnimationFrame(() =>
+    fertig(sels.map((sel) => { const w = document.querySelector(sel); return w ? w.getAttribute('tabindex') : '-'; }))))), ziele);
+  return vorher.join('\n') + '\n        tabindex zwei Bilder später: ' + danach.join(', ') + ' | ' + (await page.evaluate(() => navigator.userAgent));
 }
 
 // Wechselt die Ansicht über die Adresse und wartet, bis die neue Ansicht gezeichnet ist
@@ -89,7 +114,7 @@ async function seitlich(page, label) {
       const erreichbar = w.getAttribute('tabindex') === '0';
       breit.remove();
       warte(() => {
-        const stimmt = (w.scrollWidth > w.clientWidth + 1) === w.hasAttribute('tabindex');
+        const stimmt = (w.scrollWidth > w.clientWidth) === w.hasAttribute('tabindex');
         fertig(!erreichbar ? 'eine nachträglich breitere Tabelle wird nicht mit der Tastatur erreichbar'
           : !stimmt ? 'die Tabelle ist danach falsch markiert' : '');
       });
