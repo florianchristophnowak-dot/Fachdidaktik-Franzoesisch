@@ -1,5 +1,6 @@
 # Baut bei jeder Änderung auf main die Website aus inhalt/ und veröffentlicht sie über GitHub Pages.
-# Bei Pull Requests wird nur gebaut und geprüft, nicht veröffentlicht.
+# Bei Pull Requests wird nur gebaut und geprüft, nicht veröffentlicht: Hinweise zum Format brechen ab,
+# ein Browsertest schlägt jede Seite auf, und die fertige Website liegt zum Herunterladen bereit.
 name: Website
 
 on:
@@ -21,16 +22,39 @@ jobs:
   bauen:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
       - name: Website erzeugen
-        run: python3 werkzeug/build.py --out _site
+        run: python3 werkzeug/build.py --out _site ${{ github.event_name == 'pull_request' && '--streng' || '' }}
       - name: Ergebnis für GitHub Pages bereitstellen
         if: github.event_name != 'pull_request'
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: _site
+      - name: Vorschau zum Herunterladen bereitstellen
+        if: github.event_name == 'pull_request' && !cancelled()
+        uses: actions/upload-artifact@v7
+        with:
+          name: website-vorschau
+          path: _site/enzyklopaedie-fachdidaktik-franzoesisch.html
+          retention-days: 14
+      - name: Browser und axe-core installieren
+        if: github.event_name == 'pull_request'
+        run: |
+          npm install --no-save --no-package-lock playwright@1.63.0 axe-core@4.10.2
+          npx playwright install --with-deps chromium
+      - name: Im Browser prüfen
+        if: github.event_name == 'pull_request'
+        run: node werkzeug/browsertest.js _site/index.html
+      - name: Hinweis zur Vorschau
+        if: github.event_name == 'pull_request' && !cancelled()
+        run: |
+          {
+            echo "## Vorschau"
+            echo
+            echo "Unten unter *Artifacts* liegt **website-vorschau**: herunterladen, entpacken und die HTML-Datei im Browser öffnen."
+          } >> "$GITHUB_STEP_SUMMARY"
 
   veroeffentlichen:
     if: github.event_name != 'pull_request'
@@ -41,4 +65,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

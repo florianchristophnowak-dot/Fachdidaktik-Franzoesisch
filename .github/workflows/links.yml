@@ -1,0 +1,45 @@
+# Prüft einmal im Monat alle Links in inhalt/. Sind Links sicher defekt, legt der Lauf ein Issue an
+# oder aktualisiert das offene. Sind wieder alle erreichbar, schließt er es mit einem Kommentar.
+# Von Hand starten: Actions, Linkprüfung, Run workflow.
+name: Linkprüfung
+
+on:
+  schedule:
+    - cron: "17 5 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  pruefen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Links prüfen
+        id: links
+        continue-on-error: true
+        run: python3 werkzeug/linkcheck.py --bericht bericht.md
+      - name: Issue anlegen, aktualisieren oder schließen
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ERGEBNIS: ${{ steps.links.outcome }}
+          LAUF: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          gh label create linkpruefung --color c43b46 --description "Defekte Links aus der monatlichen Prüfung" 2>/dev/null || true
+          nr=$(gh issue list --state open --label linkpruefung --json number --jq '.[0].number // empty')
+          if [ "$ERGEBNIS" = "failure" ] && [ -s bericht.md ]; then
+            printf '\n\n[Lauf mit allen Einzelheiten](%s)\n' "$LAUF" >> bericht.md
+            if [ -n "$nr" ]; then
+              gh issue edit "$nr" --body-file bericht.md
+            else
+              gh issue create --title "Defekte Links in der Enzyklopädie" --label linkpruefung --body-file bericht.md
+            fi
+          elif [ "$ERGEBNIS" = "failure" ]; then
+            echo "Die Linkprüfung ist abgebrochen, siehe den Schritt davor."
+            exit 1
+          elif [ "$ERGEBNIS" = "success" ] && [ -n "$nr" ]; then
+            gh issue close "$nr" --comment "Bei der Prüfung am $(date +%d.%m.%Y) waren alle Links erreichbar oder nur unklar. [Lauf]($LAUF)"
+          fi
