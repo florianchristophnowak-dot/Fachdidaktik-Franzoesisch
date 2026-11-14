@@ -32,7 +32,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 
 ## Systematik
 
-39 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
+40 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
 
 | Kürzel | Eintrag | Bereich | Status |
 | --- | --- | --- | --- |
@@ -52,33 +52,34 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 | D1 | Inter- und transkulturelle Kompetenz | Kultur, Literatur, Medien | Deep Research eingearbeitet |
 | D2 | Literatur | Kultur, Literatur, Medien | Deep Research eingearbeitet |
 | D3 | Film und Bildmedien | Kultur, Literatur, Medien | Deep Research eingearbeitet |
-| D4 | Chansons, Musik und Slam | Kultur, Literatur, Medien | Entwurf Claude |
-| D5 | Frankophonie und Varietäten | Kultur, Literatur, Medien | Entwurf Claude |
-| D6 | Austausch und Begegnung | Kultur, Literatur, Medien | Entwurf Claude |
-| D7 | Bande dessinée | Kultur, Literatur, Medien | Entwurf Claude |
+| D4 | Chansons, Musik und Slam | Kultur, Literatur, Medien | Deep Research eingearbeitet |
+| D5 | Frankophonie und Varietäten | Kultur, Literatur, Medien | Deep Research eingearbeitet |
+| D6 | Austausch und Begegnung | Kultur, Literatur, Medien | Deep Research eingearbeitet |
+| D7 | Bande dessinée | Kultur, Literatur, Medien | Deep Research eingearbeitet |
 | E1 | Differenzierung und Inklusion | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | E2 | Fehlerkultur und Korrektur | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | E3 | Feedback und Lernbegleitung | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | E4 | Kooperatives Lernen und Unterrichtsgespräch | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | E5 | Lehrwerk und Materialauswahl | Methoden und Lernprozesse | Deep Research eingearbeitet |
-| E6 | Gamification und Lernspiele | Methoden und Lernprozesse | Entwurf Claude |
-| E7 | Anfangsunterricht | Methoden und Lernprozesse | Entwurf Claude |
-| E8 | Üben und Wiederholen | Methoden und Lernprozesse | Entwurf Claude |
-| E9 | Szenisches Lernen und Theater | Methoden und Lernprozesse | Entwurf Claude |
+| E6 | Gamification und Lernspiele | Methoden und Lernprozesse | Deep Research eingearbeitet |
+| E7 | Anfangsunterricht | Methoden und Lernprozesse | Deep Research eingearbeitet |
+| E8 | Üben und Wiederholen | Methoden und Lernprozesse | Deep Research eingearbeitet |
+| E9 | Szenisches Lernen und Theater | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | F1 | Leistungsfeststellung und Bewertung | Leistung | Deep Research eingearbeitet |
 | F2 | Diagnose | Leistung | Deep Research eingearbeitet |
-| F3 | DELF scolaire und Zertifikate | Leistung | Entwurf Claude |
+| F3 | DELF scolaire und Zertifikate | Leistung | Deep Research eingearbeitet |
+| F4 | Oberstufe und Abitur | Leistung | Entwurf Claude mit eigener Recherche |
 | G1 | Digitale Medien | Digitalität | Deep Research eingearbeitet |
 | G2 | Künstliche Intelligenz | Digitalität | Deep Research eingearbeitet |
 | H1 | Unterrichtsplanung | Professionalisierung | Deep Research eingearbeitet |
 | H2 | Unterrichtsqualität und Beobachtung | Professionalisierung | Deep Research eingearbeitet |
 | H3 | Beratung und Nachbesprechung | Professionalisierung | Deep Research eingearbeitet |
 | H4 | Professionelle Identität | Professionalisierung | Deep Research eingearbeitet |
-| H5 | Sprachenwahl und Fachprofil | Professionalisierung | Entwurf Claude |
+| H5 | Sprachenwahl und Fachprofil | Professionalisierung | Deep Research eingearbeitet |
 
 ## Vorschläge für neue Unterkapitel
 
-Dreizehn kleinere Themen wurden als Ergänzung der Systematik vorgeschlagen. Die Spalte Entscheidung legt fest, welche als eigene Einträge angelegt werden. Die zehn aufgenommenen Themen stehen seit November 2026 als Entwurf in der Systematik und am Ende ihres Bereichs.
+Dreizehn kleinere Themen wurden als Ergänzung der Systematik vorgeschlagen. Die Spalte Entscheidung legt fest, welche als eigene Einträge angelegt werden. Die zehn aufgenommenen Themen sind seit November 2026 eigene Einträge am Ende ihres Bereichs; bei allen ist Deep Research eingearbeitet.
 
 | Vorschlag | Worum es geht | Warum es sich lohnt | Entscheidung |
 | --- | --- | --- | --- |
@@ -108,3 +109,35 @@ Tags stehen in jedem Eintrag unter "Auf einen Blick" und lassen sich auf der Web
 | Evidenz | #empirischGut (gut belegt), #kontrovers, #Praxiswissen |
 
 Querverweise nennen das Kürzel aus der Systematik, z. B. "siehe B5 Sprachmittlung". Die Kompetenzbereiche folgen den KMK-Bildungsstandards; die Bezüge ordnen sie dem Thüringer Lehrplan Französisch 2026 zu, dessen Kompetenzmodell Fremdsprachen die Bereiche der KMK-Bildungsstandards von 2023 aufnimmt (Abschnitt 1.2).
+
+## Suchbegriffe
+
+Die Suche auf der Website findet neben dem eingegebenen Wort auch die gleichbedeutenden Wörter und Abkürzungen aus dieser Tabelle. Jede Zeile gilt in beide Richtungen: Wer „UB“ sucht, findet „Unterrichtsbesuch“, und umgekehrt. Weitere Zeilen lassen sich hier ergänzen.
+
+| Suchwort | findet auch |
+| --- | --- |
+| KI | künstliche Intelligenz |
+| UB | Unterrichtsbesuch |
+| LAA | Lehramtsanwärter, Referendar, Referendariat, Vorbereitungsdienst |
+| GeR | Gemeinsamer europäischer Referenzrahmen, CECRL, CEFR |
+| Sprachmittlung | Mediation |
+| Hörverstehen | Hör-Sehverstehen |
+| Vokabeln | Wortschatz, vocabulaire |
+| Feedback | Rückmeldung |
+| Fehlerkorrektur | Korrektur |
+| Notengebung | Noten, Benotung, Leistungsbewertung |
+| Klassenarbeit | Klausur |
+| Erwartungshorizont | Bewertungsraster, Kriterienraster, grille d'évaluation |
+| Stundenentwurf | Unterrichtsentwurf, Unterrichtsplanung |
+| Unterrichtsstörung | Klassenführung, Classroom Management |
+| Lehrerrolle | Lehrerpersönlichkeit, professionelle Identität |
+| Lehrbuch | Lehrwerk, Schulbuch |
+| Differenzierung | Heterogenität, Individualisierung |
+| Aussprache | Phonetik, prononciation |
+| Chanson | Lied, Lieder, Song |
+| BD | Bande dessinée, Comic |
+| Lernspiel | Gamification, Escape Room |
+| Theater | Dramapädagogik, szenisches Lernen |
+| Erklärvideo | Lernvideo, Flipped Classroom, classe inversée |
+| Lernplattform | Moodle, Schulcloud |
+| DFJW | OFAJ, Jugendwerk |

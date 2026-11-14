@@ -7,6 +7,7 @@ Startseite der Website (index.html) und zugleich als Offline-Fassung zum Herunte
 Aufruf (im Repository):
     python3 werkzeug/build.py                 # schreibt nach _site/
     python3 werkzeug/build.py --out ausgabe   # anderer Zielordner
+    python3 werkzeug/build.py --streng        # bricht mit Fehler ab, wenn es Hinweise zum Format gibt
 Nur Python-Standardbibliothek. GitHub Actions ruft das Skript bei jeder Änderung auf.
 """
 import argparse
@@ -27,6 +28,13 @@ TITLE = "Enzyklopädie Fachdidaktik Französisch"
 OFFLINE_NAME = "enzyklopaedie-fachdidaktik-franzoesisch.html"
 MONATE = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August",
           "September", "Oktober", "November", "Dezember"]
+ZAHLWORT = ["null", "eins", "zwei", "drei", "vier", "fünf", "sechs", "sieben", "acht", "neun", "zehn", "elf", "zwölf"]
+WOERTER_PRO_MINUTE = 200
+# Sprachen für die Auszeichnung [Text]{fr}: Screenreader lesen den Text dann in dieser Sprache vor.
+SPRACHEN = ("fr", "en", "de", "es", "it", "la")
+LANG_RE = re.compile(r"\[([^\]\n]+)\]\{(%s)\}" % "|".join(SPRACHEN))
+BEGRIFFE_RE = re.compile(r"^([-*] \*\*Begriffe:\*\*\s*)(.+)$")
+MARKER_LANG = {"frz.": "fr", "engl.": "en"}
 
 RUBRIC_SLUGS = {
     "Auf einen Blick": "blick",
@@ -50,6 +58,8 @@ SIEHE_RE = re.compile(
 )
 CODE_RE = re.compile(CODE)
 LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^\s)]+(?:\([^\s)]*\)[^\s)]*)*)\)")
+# Nackte Adressen im Text, etwa DOIs in der Bibliografie; Satzzeichen am Ende gehören nicht dazu.
+BARE_RE = re.compile(r"https?://[^\s<>\"]+")
 
 WARNUNGEN = []
 
@@ -84,6 +94,15 @@ def berlin():
         return datetime.timezone(datetime.timedelta(hours=1))
 
 
+def bare_url(url):
+    """Kürzt eine im Text gefundene Adresse um Satzzeichen und nicht geöffnete Klammern am Ende."""
+    while url and url[-1] in ".,;:!?'\u201c\u201d\u00bb":
+        url = url[:-1]
+    while url.endswith(")") and url.count(")") > url.count("("):
+        url = url[:-1]
+    return url
+
+
 class Renderer:
     """Kleiner Markdown-Renderer für die Formen, die in den Einträgen vorkommen."""
 
@@ -96,6 +115,7 @@ class Renderer:
         s = (s.replace("\\[", "\x00LB\x00").replace("\\]", "\x00RB\x00")
               .replace("\\*", "\x00AST\x00").replace("\\|", "\x00PIPE\x00"))
         s = html.escape(s, quote=False)
+        s = LANG_RE.sub(r'<span lang="\2">\1</span>', s)
         s = LINK_RE.sub(
             lambda m: '<a class="ext" href="%s" target="_blank" rel="noopener">%s</a>'
             % (m.group(2).replace('"', "%22"), m.group(1)),
@@ -122,7 +142,18 @@ class Renderer:
             if depth_a:
                 out.append(p)
                 continue
-            out.append(SIEHE_RE.sub(self._siehe, p))
+            out.append(self.link_bare(p))
+        return "".join(out)
+
+    def link_bare(self, text):
+        """Macht nackte Adressen klickbar und Verweise wie „siehe B3“ zu Links."""
+        out, pos = [], 0
+        for m in BARE_RE.finditer(text):
+            url = bare_url(m.group(0))
+            out.append(SIEHE_RE.sub(self._siehe, text[pos:m.start()]))
+            out.append('<a class="ext bare" href="%s" target="_blank" rel="noopener">%s</a>' % (url.replace('"', "%22"), url))
+            pos = m.start() + len(url)
+        out.append(SIEHE_RE.sub(self._siehe, text[pos:]))
         return "".join(out)
 
     def _siehe(self, m):
@@ -203,7 +234,7 @@ class Renderer:
                 continue
             hm = re.match(r"^#{3,6} (.+)$", line)
             if hm:
-                out.append('<h4 class="sub">%s</h4>' % self.inline(hm.group(1).strip()))
+                out.append('<h3 class="sub">%s</h3>' % self.inline(hm.group(1).strip()))
                 i += 1
                 continue
             para = [line.strip()]
@@ -213,7 +244,7 @@ class Renderer:
                 i += 1
             text = " ".join(para)
             if re.fullmatch(r"\*\*[^*]+\*\*", text):
-                out.append('<h4 class="sub">%s</h4>' % self.inline(text[2:-2]))
+                out.append('<h3 class="sub">%s</h3>' % self.inline(text[2:-2]))
             elif text.startswith("*") and not text.startswith("**") and text.endswith("*"):
                 out.append('<p class="note">%s</p>' % self.inline(text))
             elif text.startswith("**"):
@@ -234,7 +265,8 @@ class Renderer:
 
 
 def plain(md_text):
-    t = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", md_text)
+    t = LANG_RE.sub(r"\1", md_text)
+    t = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", t)
     t = t.replace("**", "").replace("\\*", "\x00")
     t = re.sub(r"(?<![\w])\*(?=\S)(.+?)(?<=\S)\*(?![\w])", r"\1", t)
     t = t.replace("\x00", "*").replace("\\[", "[").replace("\\]", "]")
@@ -249,6 +281,38 @@ def shorten(text, limit=240):
     if dot > 90:
         return cut[:dot + 1]
     return cut[:cut.rfind(" ")] + " …"
+
+
+def lang_begriffe(line):
+    """Zeichnet in der Zeile „Begriffe“ die Abschnitte mit (frz.) und (engl.) als Französisch und Englisch aus.
+
+    Aus „- **Begriffe:** évaluation, grille (frz.); rubric (engl.)“ wird
+    „- **Begriffe:** [évaluation, grille]{fr} (frz.); [rubric]{en} (engl.)“.
+    """
+    m = BEGRIFFE_RE.match(line)
+    if not m:
+        return line
+    teile = []
+    for teil in m.group(2).split(";"):
+        tm = re.match(r"^\s*(.*?)\s*\((frz\.|engl\.)\)\s*$", teil)
+        if tm and tm.group(1) and "[" not in tm.group(1) and "]" not in tm.group(1):
+            teile.append("[%s]{%s} (%s)" % (tm.group(1), MARKER_LANG[tm.group(2)], tm.group(2)))
+        else:
+            teile.append(teil.strip())
+    return m.group(1) + "; ".join(teile)
+
+
+def begriffe_text(rmd):
+    """Fachbegriffe aus „Auf einen Blick“ als Suchwörter, ohne die Sprachvermerke."""
+    for line in rmd.split("\n"):
+        m = BEGRIFFE_RE.match(line)
+        if m:
+            return re.sub(r"\s*\((?:dt|frz|engl)\.\)", "", plain(m.group(2)))
+    return ""
+
+
+def woerter(md_text):
+    return len(re.findall(r"\w+", plain(re.sub(r"^\|?\s*:?-{3,}.*$", "", md_text, flags=re.M))))
 
 
 def split_sections(text, level):
@@ -273,7 +337,7 @@ def rel(path):
 
 
 def parse_overview(path, renderer):
-    data = {"sections": [], "tag_groups": [], "template": {}}
+    data = {"sections": [], "tag_groups": [], "template": {}, "synonyms": []}
     if not path.exists():
         warn("Die Übersicht fehlt; Tag-Filter und Benutzung bleiben leer.", rel(path))
         return data
@@ -288,6 +352,13 @@ def parse_overview(path, renderer):
                         for tm in re.finditer(r"#(\w+)(?:\s*\(([^)]*)\))?", cells[1]):
                             tags.append({"tag": tm.group(1), "desc": tm.group(2) or ""})
                         data["tag_groups"].append({"group": cells[0], "tags": tags})
+        if title.startswith("Suchbegriffe"):
+            for line in body.split("\n"):
+                if line.startswith("|") and not renderer.is_sep(line):
+                    cells = renderer.split_row(line)
+                    if len(cells) >= 2 and cells[0] and cells[0] != "Suchwort":
+                        gruppe = [plain(cells[0])] + [plain(x) for x in cells[1].split(",") if x.strip()]
+                        data["synonyms"].append([g for g in gruppe if g])
         if title.startswith("Eintragsvorlage"):
             for line in body.split("\n"):
                 if line.startswith("|") and not renderer.is_sep(line):
@@ -295,6 +366,46 @@ def parse_overview(path, renderer):
                     if len(cells) >= 3 and cells[0] != "Rubrik":
                         data["template"][cells[0]] = {"inhalt": cells[1], "nutzen": cells[2]}
     return data
+
+
+def check_systematik(path, entries, n_areas):
+    """Vergleicht die Tabelle unter „Systematik“ in der Übersicht mit den Einträgen: Kürzel, Titel, Status, Anzahl."""
+    if not path.exists():
+        return
+    body = next((b for t, b in split_sections(read_md(path), 2) if t.startswith("Systematik")), None)
+    where = rel(path)
+    if body is None:
+        warn("In der Übersicht fehlt der Abschnitt Systematik.", where)
+        return
+    rows = {}
+    for line in body.split("\n"):
+        if line.startswith("|") and not Renderer.is_sep(line):
+            cells = Renderer.split_row(line)
+            if len(cells) >= 4 and re.fullmatch(KUERZEL, cells[0]):
+                rows[cells[0]] = cells
+    by_id = {e["id"]: e for e in entries}
+    for code, cells in rows.items():
+        e = by_id.get(code)
+        if not e:
+            warn("Systematik nennt %s, diesen Eintrag gibt es nicht." % code, where)
+            continue
+        if plain(cells[1]) != e["title"]:
+            warn("Systematik: %s heißt dort „%s“, in der Datei „%s“." % (code, plain(cells[1]), e["title"]), where)
+        eingearbeitet = "Deep Research eingearbeitet" in cells[3]
+        if eingearbeitet != (e["status"] == "dr"):
+            soll = "Deep Research eingearbeitet" if e["status"] == "dr" else "Entwurf Claude"
+            warn("Systematik: Status von %s ist „%s“, laut Stand im Eintrag sollte dort „%s“ stehen."
+                 % (code, cells[3], soll), where)
+    for e in entries:
+        if e["id"] not in rows:
+            warn("Systematik: %s %s fehlt in der Tabelle." % (e["id"], e["title"]), where)
+    m = re.search(r"(\d+) Einträge in (\w+) Bereichen", body)
+    if m:
+        n_bereiche = ZAHLWORT.index(m.group(2)) if m.group(2) in ZAHLWORT else (
+            int(m.group(2)) if m.group(2).isdigit() else None)
+        if int(m.group(1)) != len(entries) or (n_bereiche is not None and n_bereiche != n_areas):
+            warn("Systematik: Der Satz „%s“ passt nicht, es sind %d Einträge in %s Bereichen."
+                 % (m.group(0), len(entries), ZAHLWORT[n_areas] if n_areas < len(ZAHLWORT) else n_areas), where)
 
 
 def read_areas(inhalt):
@@ -343,8 +454,9 @@ def build(inhalt, stand, source, changed):
     out_entries = []
     for e in all_entries:
         rubrics = []
-        tags, stand_line, summary = [], "", ""
+        tags, stand_line, summary, begriffe = [], "", "", ""
         qv = []
+        n_woerter = 0
         renderer.refs_found = []
         sections = split_sections(e["md"], 2)
         names = [s[0] for s in sections]
@@ -366,8 +478,9 @@ def build(inhalt, stand, source, changed):
                     elif sm:
                         stand_line = sm.group(1).strip()
                     else:
-                        keep.append(line)
+                        keep.append(lang_begriffe(line))
                 rmd = "\n".join(keep)
+                begriffe = begriffe_text(rmd)
                 first = next((l for l in rmd.split("\n")
                               if l.strip() and not l.startswith("|") and not re.match(r"^[-*] ", l)), "")
                 summary = shorten(plain(first))
@@ -390,12 +503,15 @@ def build(inhalt, stand, source, changed):
                 html_q.append("</ul>")
                 rubrics.append({"name": rname, "slug": slug, "html": "".join(html_q)})
                 continue
+            if slug != "bibliografie":
+                n_woerter += woerter(rmd)
             rubrics.append({"name": rname, "slug": slug, "html": renderer.render(rmd)})
         inline_refs = sorted(set(r for r in renderer.refs_found if r != e["id"]), key=lambda c: (c[0], int(c[1:])))
         status = "dr" if "ergänzt um Deep Research" in stand_line else "draft"
         out_entries.append({
             "id": e["id"], "title": e["title"], "area": e["area"], "tags": tags,
-            "stand": stand_line, "status": status, "summary": summary,
+            "stand": stand_line, "status": status, "summary": summary, "begriffe": begriffe,
+            "lesezeit": max(1, round(n_woerter / WOERTER_PRO_MINUTE)),
             "qv": [q["id"] for q in qv if q["known"] and q["id"] != e["id"]],
             "qvMissing": [q["id"] for q in qv if not q["known"]],
             "inline": inline_refs, "rubrics": rubrics,
@@ -403,6 +519,8 @@ def build(inhalt, stand, source, changed):
         })
 
     overview = parse_overview(inhalt / "uebersicht.md", renderer)
+    check_systematik(inhalt / "uebersicht.md", out_entries, len(areas))
+    synonyms = overview.pop("synonyms", [])
     return {
         "stand": stand,
         "source": source,
@@ -411,6 +529,7 @@ def build(inhalt, stand, source, changed):
         "entries": out_entries,
         "overview": overview,
         "rubricOrder": [{"name": k, "slug": v} for k, v in RUBRIC_SLUGS.items()],
+        "synonyms": synonyms,
     }
 
 
@@ -486,6 +605,8 @@ def main():
     ap.add_argument("--suchmaschinen", action="store_true",
                     help="Suchmaschinen erlauben (ohne diese Angabe bleibt die Website aus Suchergebnissen heraus)")
     ap.add_argument("--artifact", action="store_true", help="zusätzlich artifact.html ohne Seitengerüst schreiben")
+    ap.add_argument("--streng", action="store_true",
+                    help="mit Fehler beenden, wenn es Hinweise zum Format gibt (für Pull Requests)")
     args = ap.parse_args()
 
     inhalt = pathlib.Path(args.inhalt)
@@ -524,11 +645,30 @@ def main():
         (out / "artifact.html").write_text(seite(vorschau).replace("<!--BODY-->", "", 1), encoding="utf-8")
 
     n_edges = len({tuple(sorted((e["id"], q))) for e in data["entries"] for q in e["qv"]})
+    kb = round(len(full.encode("utf-8")) / 1024)
     print("Einträge:", len(data["entries"]), "| Bereiche:", len(data["areas"]), "| Verbindungen:", n_edges,
           "| Stand:", stand)
-    print("Website:", out / "index.html", round(len(full.encode("utf-8")) / 1024), "KB")
+    print("Website:", out / "index.html", kb, "KB")
     if WARNUNGEN:
         print(len(WARNUNGEN), "Hinweis(e), siehe oben.")
+    zusammenfassung(len(data["entries"]), len(data["areas"]), stand, kb)
+    if args.streng and WARNUNGEN:
+        sys.exit("Abbruch wegen --streng: %d Hinweis(e) zum Format, siehe oben." % len(WARNUNGEN))
+
+
+def zusammenfassung(n_entries, n_areas, stand, kb):
+    """Schreibt Ergebnis und Hinweise in die Zusammenfassung des Laufs auf GitHub (Actions, Summary)."""
+    ziel = os.environ.get("GITHUB_STEP_SUMMARY")
+    if not ziel:
+        return
+    zeilen = ["## Website", "", "%d Einträge in %d Bereichen, Stand %s, %d KB." % (n_entries, n_areas, stand, kb), ""]
+    if WARNUNGEN:
+        zeilen += ["### %d Hinweis(e) zum Format" % len(WARNUNGEN), ""]
+        zeilen += ["- %s%s" % (msg, " (`%s`)" % path if path else "") for msg, path in WARNUNGEN]
+    else:
+        zeilen.append("Keine Hinweise zum Format.")
+    with open(ziel, "a", encoding="utf-8") as fh:
+        fh.write("\n".join(zeilen) + "\n")
 
 
 if __name__ == "__main__":
