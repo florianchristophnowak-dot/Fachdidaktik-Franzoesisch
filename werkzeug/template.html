@@ -816,6 +816,7 @@ function viewQuer(rub){
     $('#qlist').innerHTML = out ? out + printLine({ text: 'Querschnitt ' + name, hash: 'querschnitt-' + rub }) :
       '<p class="empty">' + HELAS + ', kein Eintrag passt zu dieser Auswahl. Weniger Bereiche oder ein anderer Tag helfen weiter.</p>';
     $$('#qlist a.ref[data-ref]').forEach(function(a){ var t = byId[a.getAttribute('data-ref')]; if (t) a.title = t.id + ' ' + t.title; });
+    markScrollables();
   }
   $('#qfilter').addEventListener('click', function(ev){
     var b = ev.target.closest('.chip'); if (!b) return;
@@ -1053,6 +1054,17 @@ function applyMarks(){
   if (first && !location.hash.split('-')[1]) { var sec = first.closest('.sec'); if (sec) sec.scrollIntoView({ block: 'start' }); }
 }
 
+/* ---------- Breite Tabellen, die seitlich scrollen, mit der Tastatur erreichbar machen ---------- */
+function markScrollables(){
+  $$('.table-wrap', view).forEach(function(w){
+    if (w.scrollWidth > w.clientWidth + 1) {
+      w.setAttribute('tabindex', '0'); w.setAttribute('role', 'region'); w.setAttribute('aria-label', 'Tabelle, seitlich verschiebbar');
+    } else { w.removeAttribute('tabindex'); w.removeAttribute('role'); w.removeAttribute('aria-label'); }
+  });
+}
+var scrollablesFrame = 0;
+window.addEventListener('resize', function(){ cancelAnimationFrame(scrollablesFrame); scrollablesFrame = requestAnimationFrame(markScrollables); });
+
 /* ---------- Handy: Knöpfe nach oben und zur Suche, Sprunglink, Drucken ---------- */
 var fab = $('#fab');
 function updateFab(){ var show = window.innerWidth <= 760 && window.scrollY > window.innerHeight * 2; if (fab.hidden === show) fab.hidden = !show; }
@@ -1081,6 +1093,7 @@ function route(){
     else if (h.indexOf('bereich-') === 0) target = viewStart({ area: h.slice(8) });
     else target = viewStart();
   }
+  markScrollables();
   /* Beim ersten Aufruf bleibt der Fokus, wo der Browser ihn setzt */
   if (!firstRoute) focusEl(target || view);
   firstRoute = false;

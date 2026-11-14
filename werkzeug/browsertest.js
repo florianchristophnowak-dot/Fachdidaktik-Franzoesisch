@@ -119,8 +119,9 @@ async function seitlich(page, label) {
   const aktiv = await d.evaluate(() => document.getElementById('q').getAttribute('aria-activedescendant'));
   if (!aktiv) fail('Pfeiltaste in der Suche setzt aria-activedescendant nicht');
   await d.keyboard.press('Enter');
-  await d.waitForFunction(() => /^#[a-h]\d/.test(location.hash));
-  const marks = await d.evaluate(() => document.querySelectorAll('mark.found').length);
+  await d.waitForFunction(() => /^#[a-h]\d/.test(location.hash) && document.querySelector('#view .entry'));
+  const marks = await d.waitForFunction(() => document.querySelectorAll('mark.found').length, null, { timeout: 3000 })
+    .then((h) => h.jsonValue()).catch(() => 0);
   if (!marks) fail('Nach dem Öffnen eines Treffers ist nichts markiert');
   if (meldungen.length) fail('Skriptfehler: ' + meldungen.join(' | '));
   await desk.close();
