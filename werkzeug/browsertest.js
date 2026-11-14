@@ -32,7 +32,8 @@ async function axe(page, label) {
   v.forEach((x) => fail(label + ': ' + x));
 }
 
-// Wechselt die Ansicht über die Adresse und wartet, bis die neue Ansicht gezeichnet ist.
+// Wechselt die Ansicht über die Adresse und wartet, bis die neue Ansicht gezeichnet ist
+// und die eingebetteten Schriften geladen sind, damit geprüft wird, was Lesende am Ende sehen.
 async function gehe(page, hash) {
   await page.evaluate((h) => {
     const alt = document.querySelector('#view > *');
@@ -40,6 +41,7 @@ async function gehe(page, hash) {
     location.hash = h;
   }, hash);
   await page.waitForFunction(() => !document.querySelector('#view > [data-alt]') && document.querySelector('#view h1'));
+  await page.evaluate(() => document.fonts.ready.then(() => new Promise((r) => requestAnimationFrame(() => requestAnimationFrame(r)))));
 }
 
 async function seitlich(page, label) {
@@ -73,6 +75,27 @@ async function seitlich(page, label) {
     if (meldungen.length > vorher) fail('#' + h + ': Skriptfehler ' + meldungen.slice(vorher).join(' | '));
     geprueft++;
   }
+  // Wird eine Tabelle erst nach dem Zeichnen breiter (etwa wenn die Schriften fertig geladen sind),
+  // muss sie trotzdem mit der Tastatur erreichbar werden und danach wieder richtig markiert sein.
+  await gehe(m, 'benutzung');
+  const spaet = await m.evaluate(() => new Promise((fertig) => {
+    const w = document.querySelector('#view .table-wrap');
+    if (!w) { fertig('keine Tabelle gefunden'); return; }
+    const breit = document.createElement('span');
+    breit.style.cssText = 'display:inline-block;width:1500px';
+    w.querySelector('td, th').appendChild(breit);
+    const warte = (f) => requestAnimationFrame(() => requestAnimationFrame(f));
+    warte(() => {
+      const erreichbar = w.getAttribute('tabindex') === '0';
+      breit.remove();
+      warte(() => {
+        const stimmt = (w.scrollWidth > w.clientWidth + 1) === w.hasAttribute('tabindex');
+        fertig(!erreichbar ? 'eine nachträglich breitere Tabelle wird nicht mit der Tastatur erreichbar'
+          : !stimmt ? 'die Tabelle ist danach falsch markiert' : '');
+      });
+    });
+  }));
+  if (spaet) fail('#benutzung: ' + spaet);
   // Eintrag öffnen: Fenstertitel und Fokus auf der Überschrift
   await gehe(m, 'start');
   await gehe(m, ids[0]);

@@ -1055,15 +1055,29 @@ function applyMarks(){
 }
 
 /* ---------- Breite Tabellen, die seitlich scrollen, mit der Tastatur erreichbar machen ---------- */
+/* Geprüft wird nach jedem Zeichnen und erneut, sobald sich die Breite einer Tabelle oder ihres Rahmens ändert:
+   Die eingebetteten Schriften laden erst nach dem ersten Zeichnen (font-display: swap) und können eine Tabelle
+   breiter machen, ebenso ein schmaleres Fenster. */
+function markScrollable(w){
+  if (w.scrollWidth > w.clientWidth + 1) {
+    w.setAttribute('tabindex', '0'); w.setAttribute('role', 'region'); w.setAttribute('aria-label', 'Tabelle, seitlich verschiebbar');
+  } else { w.removeAttribute('tabindex'); w.removeAttribute('role'); w.removeAttribute('aria-label'); }
+}
+var scrollRO = window.ResizeObserver ? new ResizeObserver(function(entries){
+  entries.forEach(function(e){ var w = e.target.closest('.table-wrap'); if (w) markScrollable(w); });
+}) : null;
 function markScrollables(){
+  if (scrollRO) scrollRO.disconnect();
   $$('.table-wrap', view).forEach(function(w){
-    if (w.scrollWidth > w.clientWidth + 1) {
-      w.setAttribute('tabindex', '0'); w.setAttribute('role', 'region'); w.setAttribute('aria-label', 'Tabelle, seitlich verschiebbar');
-    } else { w.removeAttribute('tabindex'); w.removeAttribute('role'); w.removeAttribute('aria-label'); }
+    markScrollable(w);
+    if (scrollRO) { scrollRO.observe(w); if (w.firstElementChild) scrollRO.observe(w.firstElementChild); }
   });
 }
-var scrollablesFrame = 0;
-window.addEventListener('resize', function(){ cancelAnimationFrame(scrollablesFrame); scrollablesFrame = requestAnimationFrame(markScrollables); });
+if (!scrollRO) {
+  var scrollablesFrame = 0;
+  window.addEventListener('resize', function(){ cancelAnimationFrame(scrollablesFrame); scrollablesFrame = requestAnimationFrame(markScrollables); });
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(markScrollables);
+}
 
 /* ---------- Handy: Knöpfe nach oben und zur Suche, Sprunglink, Drucken ---------- */
 var fab = $('#fab');
