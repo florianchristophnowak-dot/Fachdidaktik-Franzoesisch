@@ -32,7 +32,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 
 ## Systematik
 
-42 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
+43 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
 
 | Kürzel | Eintrag | Bereich | Status |
 | --- | --- | --- | --- |
@@ -58,6 +58,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 | D5 | Frankophonie und Varietäten | Kultur, Literatur, Medien | Entwurf Claude |
 | D6 | Austausch und Begegnung | Kultur, Literatur, Medien | Entwurf Claude |
 | D7 | Bande dessinée | Kultur, Literatur, Medien | Entwurf Claude |
+| D8 | Erinnerungskultur und deutsch-französische Beziehungen | Kultur, Literatur, Medien | Entwurf Claude mit eigener Recherche |
 | E1 | Differenzierung und Inklusion | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | E2 | Fehlerkultur und Korrektur | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | E3 | Feedback und Lernbegleitung | Methoden und Lernprozesse | Deep Research eingearbeitet |
