@@ -108,3 +108,35 @@ Tags stehen in jedem Eintrag unter "Auf einen Blick" und lassen sich auf der Web
 | Evidenz | #empirischGut (gut belegt), #kontrovers, #Praxiswissen |
 
 Querverweise nennen das Kürzel aus der Systematik, z. B. "siehe B5 Sprachmittlung". Die Kompetenzbereiche folgen den KMK-Bildungsstandards; die Bezüge ordnen sie dem Thüringer Lehrplan Französisch 2026 zu, dessen Kompetenzmodell Fremdsprachen die Bereiche der KMK-Bildungsstandards von 2023 aufnimmt (Abschnitt 1.2).
+
+## Suchbegriffe
+
+Die Suche auf der Website findet neben dem eingegebenen Wort auch die gleichbedeutenden Wörter und Abkürzungen aus dieser Tabelle. Jede Zeile gilt in beide Richtungen: Wer „UB“ sucht, findet „Unterrichtsbesuch“, und umgekehrt. Weitere Zeilen lassen sich hier ergänzen.
+
+| Suchwort | findet auch |
+| --- | --- |
+| KI | künstliche Intelligenz |
+| UB | Unterrichtsbesuch |
+| LAA | Lehramtsanwärter, Referendar, Referendariat, Vorbereitungsdienst |
+| GeR | Gemeinsamer europäischer Referenzrahmen, CECRL, CEFR |
+| Sprachmittlung | Mediation |
+| Hörverstehen | Hör-Sehverstehen |
+| Vokabeln | Wortschatz, vocabulaire |
+| Feedback | Rückmeldung |
+| Fehlerkorrektur | Korrektur |
+| Notengebung | Noten, Benotung, Leistungsbewertung |
+| Klassenarbeit | Klausur |
+| Erwartungshorizont | Bewertungsraster, Kriterienraster, grille d'évaluation |
+| Stundenentwurf | Unterrichtsentwurf, Unterrichtsplanung |
+| Unterrichtsstörung | Klassenführung, Classroom Management |
+| Lehrerrolle | Lehrerpersönlichkeit, professionelle Identität |
+| Lehrbuch | Lehrwerk, Schulbuch |
+| Differenzierung | Heterogenität, Individualisierung |
+| Aussprache | Phonetik, prononciation |
+| Chanson | Lied, Lieder, Song |
+| BD | Bande dessinée, Comic |
+| Lernspiel | Gamification, Escape Room |
+| Theater | Dramapädagogik, szenisches Lernen |
+| Erklärvideo | Lernvideo, Flipped Classroom, classe inversée |
+| Lernplattform | Moodle, Schulcloud |
+| DFJW | OFAJ, Jugendwerk |
