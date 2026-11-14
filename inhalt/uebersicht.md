@@ -52,33 +52,33 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 | D1 | Inter- und transkulturelle Kompetenz | Kultur, Literatur, Medien | Deep Research eingearbeitet |
 | D2 | Literatur | Kultur, Literatur, Medien | Deep Research eingearbeitet |
 | D3 | Film und Bildmedien | Kultur, Literatur, Medien | Deep Research eingearbeitet |
-| D4 | Chansons, Musik und Slam | Kultur, Literatur, Medien | Entwurf Claude |
-| D5 | Frankophonie und Varietäten | Kultur, Literatur, Medien | Entwurf Claude |
-| D6 | Austausch und Begegnung | Kultur, Literatur, Medien | Entwurf Claude |
-| D7 | Bande dessinée | Kultur, Literatur, Medien | Entwurf Claude |
+| D4 | Chansons, Musik und Slam | Kultur, Literatur, Medien | Deep Research eingearbeitet |
+| D5 | Frankophonie und Varietäten | Kultur, Literatur, Medien | Deep Research eingearbeitet |
+| D6 | Austausch und Begegnung | Kultur, Literatur, Medien | Deep Research eingearbeitet |
+| D7 | Bande dessinée | Kultur, Literatur, Medien | Deep Research eingearbeitet |
 | E1 | Differenzierung und Inklusion | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | E2 | Fehlerkultur und Korrektur | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | E3 | Feedback und Lernbegleitung | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | E4 | Kooperatives Lernen und Unterrichtsgespräch | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | E5 | Lehrwerk und Materialauswahl | Methoden und Lernprozesse | Deep Research eingearbeitet |
-| E6 | Gamification und Lernspiele | Methoden und Lernprozesse | Entwurf Claude |
-| E7 | Anfangsunterricht | Methoden und Lernprozesse | Entwurf Claude |
-| E8 | Üben und Wiederholen | Methoden und Lernprozesse | Entwurf Claude |
-| E9 | Szenisches Lernen und Theater | Methoden und Lernprozesse | Entwurf Claude |
+| E6 | Gamification und Lernspiele | Methoden und Lernprozesse | Deep Research eingearbeitet |
+| E7 | Anfangsunterricht | Methoden und Lernprozesse | Deep Research eingearbeitet |
+| E8 | Üben und Wiederholen | Methoden und Lernprozesse | Deep Research eingearbeitet |
+| E9 | Szenisches Lernen und Theater | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | F1 | Leistungsfeststellung und Bewertung | Leistung | Deep Research eingearbeitet |
 | F2 | Diagnose | Leistung | Deep Research eingearbeitet |
-| F3 | DELF scolaire und Zertifikate | Leistung | Entwurf Claude |
+| F3 | DELF scolaire und Zertifikate | Leistung | Deep Research eingearbeitet |
 | G1 | Digitale Medien | Digitalität | Deep Research eingearbeitet |
 | G2 | Künstliche Intelligenz | Digitalität | Deep Research eingearbeitet |
 | H1 | Unterrichtsplanung | Professionalisierung | Deep Research eingearbeitet |
 | H2 | Unterrichtsqualität und Beobachtung | Professionalisierung | Deep Research eingearbeitet |
 | H3 | Beratung und Nachbesprechung | Professionalisierung | Deep Research eingearbeitet |
 | H4 | Professionelle Identität | Professionalisierung | Deep Research eingearbeitet |
-| H5 | Sprachenwahl und Fachprofil | Professionalisierung | Entwurf Claude |
+| H5 | Sprachenwahl und Fachprofil | Professionalisierung | Deep Research eingearbeitet |
 
 ## Vorschläge für neue Unterkapitel
 
-Dreizehn kleinere Themen wurden als Ergänzung der Systematik vorgeschlagen. Die Spalte Entscheidung legt fest, welche als eigene Einträge angelegt werden. Die zehn aufgenommenen Themen stehen seit November 2026 als Entwurf in der Systematik und am Ende ihres Bereichs.
+Dreizehn kleinere Themen wurden als Ergänzung der Systematik vorgeschlagen. Die Spalte Entscheidung legt fest, welche als eigene Einträge angelegt werden. Die zehn aufgenommenen Themen sind seit November 2026 eigene Einträge am Ende ihres Bereichs; bei allen ist Deep Research eingearbeitet.
 
 | Vorschlag | Worum es geht | Warum es sich lohnt | Entscheidung |
 | --- | --- | --- | --- |
