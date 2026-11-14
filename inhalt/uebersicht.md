@@ -8,7 +8,7 @@ Diese Enzyklopädie bündelt für die Französisch-Fachleitung zentrale Themen d
 
 - **Aufbau:** Diese Datei erklärt Vorlage, Systematik und Tags. Jeder Bereich (A bis H) hat einen eigenen Ordner mit einer Datei je Eintrag.
 - **Bundesland:** Landesbezüge gelten für **Thüringen**: Lehrplan für das Gymnasium Französisch 2026 in der Erprobungsfassung, Thüringer Schulordnung und Vorbereitungsdienst nach ThürAZStPLVO. Sie stehen in jedem Eintrag unter Bezüge. Der Lehrplan tritt gestaffelt in Kraft (2026/27 für die Klassenstufen 6, 7, 11 und 12, danach jährlich für 8, 9 und 10 bis 2029/30); die Enzyklopädie legt ihn schon jetzt für alle Bereiche und Klassenstufen zugrunde. Abschnittsangaben beziehen sich, wo nicht anders vermerkt, auf Französisch als zweite Fremdsprache (Kapitel 3); die Kapitel zum bilingualen Zug und zur Oberstufe sind parallel aufgebaut. Was sich nicht am Originaltext prüfen ließ, etwa Abiturformate oder die neueste Lesefassung der ThürSchulO, ist mit *prüfen* gekennzeichnet.
-- **Bibliografie:** Quellen aus den Deep-Research-Berichten werden vor der Übernahme per Websuche geprüft. Was sich nicht bestätigen ließ, steht mit dem Vermerk "nicht verifiziert" da. Einträge ohne Deep Research beruhen auf Fachwissen und sind noch nicht einzeln geprüft.
+- **Bibliografie:** Quellen aus den Deep-Research-Berichten werden vor der Übernahme per Websuche geprüft. Was sich nicht bestätigen ließ, steht mit dem Vermerk "nicht verifiziert" da. Einträge ohne Deep Research beruhen auf Fachwissen und sind noch nicht einzeln geprüft. Einträge mit dem Stand „Entwurf Claude mit eigener Recherche“ hat Claude ohne Deep-Research-Bericht selbst recherchiert; am Ende jedes dieser Einträge steht, welche Quellen einzeln geprüft wurden.
 - **Deep Research:** Ergebnisse aus ChatGPT werden pro Eintrag eingearbeitet. Der Status in der Systematik zeigt, wo das schon geschehen ist.
 - **Eigene Ergänzungen:** Direkt in der Datei auf GitHub ändern (auf der Website über „Auf GitHub bearbeiten“) oder Claude damit beauftragen. Gute Beispiele aus Unterrichtsbesuchen lassen sich unter "Best Practice" anhängen.
 
@@ -32,7 +32,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 
 ## Systematik
 
-39 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
+41 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
 
 | Kürzel | Eintrag | Bereich | Status |
 | --- | --- | --- | --- |
@@ -41,6 +41,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 | A3 | Mehrsprachigkeitsdidaktik | Grundlagen | Deep Research eingearbeitet |
 | A4 | Einsprachigkeit und Sprachwahl | Grundlagen | Deep Research eingearbeitet |
 | A5 | Motivation und Lernerautonomie | Grundlagen | Deep Research eingearbeitet |
+| A7 | Spracherwerb und Lernersprache | Grundlagen | Entwurf Claude mit eigener Recherche |
 | B1 | Hör- und Hör-Sehverstehen | Kommunikative Kompetenzen | Deep Research eingearbeitet |
 | B2 | Leseverstehen | Kommunikative Kompetenzen | Deep Research eingearbeitet |
 | B3 | Sprechen | Kommunikative Kompetenzen | Deep Research eingearbeitet |
@@ -68,6 +69,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 | F1 | Leistungsfeststellung und Bewertung | Leistung | Deep Research eingearbeitet |
 | F2 | Diagnose | Leistung | Deep Research eingearbeitet |
 | F3 | DELF scolaire und Zertifikate | Leistung | Entwurf Claude |
+| F4 | Oberstufe und Abitur | Leistung | Entwurf Claude mit eigener Recherche |
 | G1 | Digitale Medien | Digitalität | Deep Research eingearbeitet |
 | G2 | Künstliche Intelligenz | Digitalität | Deep Research eingearbeitet |
 | H1 | Unterrichtsplanung | Professionalisierung | Deep Research eingearbeitet |

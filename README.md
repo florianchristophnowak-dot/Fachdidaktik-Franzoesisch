@@ -1,6 +1,6 @@
 # Enzyklopädie Fachdidaktik Französisch
 
-Arbeitsgrundlage der Französisch-Fachleitung für Fachseminare, Unterrichtsbesuche und Beratungsgespräche: 39 Einträge in acht Bereichen, jeder nach derselben Vorlage mit elf Rubriken und mit Querverweisen untereinander.
+Arbeitsgrundlage der Französisch-Fachleitung für Fachseminare, Unterrichtsbesuche und Beratungsgespräche: 41 Einträge in acht Bereichen, jeder nach derselben Vorlage mit elf Rubriken und mit Querverweisen untereinander.
 
 **Website:** https://florianchristophnowak-dot.github.io/Fachdidaktik-Franzoesisch/ (dort auch die Offline-Fassung zum Herunterladen)
 
