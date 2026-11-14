@@ -794,7 +794,7 @@ function route(){
   if (areaSpy) { areaSpy.disconnect(); areaSpy = null; }
   var h = '';
   try { h = lc(decodeURIComponent(location.hash.slice(1))); } catch (err) { h = ''; }
-  var m = h.match(/^([a-h][1-9])(?:-([a-z]+))?$/);
+  var m = h.match(/^([a-h][1-9][0-9]?)(?:-([a-z]+))?$/);
   if (m && byId[m[1].toUpperCase()]) return viewEntry(m[1].toUpperCase(), m[2]);
   if (spy) { spy.disconnect(); spy = null; }
   state.cur = null;

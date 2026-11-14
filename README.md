@@ -41,7 +41,7 @@ Kurzdefinition in wenigen Sätzen.
 A2 Aufgabenorientierung und Lernaufgaben, B5 Sprachmittlung, E4 Kooperatives Lernen und Unterrichtsgespräch
 ```
 
-- Die erste Zeile ist `# Kürzel Titel`. Das Kürzel (Buchstabe A bis H und Ziffer 1 bis 9) ist die Adresse des Eintrags.
+- Die erste Zeile ist `# Kürzel Titel`. Das Kürzel (Buchstabe A bis H und eine Nummer von 1 bis 99 ohne führende Null, zum Beispiel B3 oder E10) ist die Adresse des Eintrags.
 - Die elf Rubriken der Eintragsvorlage sind Überschriften mit `##`: Auf einen Blick, Haltung, Handlungshinweise, Best Practice Französisch, Stolpersteine, Beobachten und beraten, Reflexionsfragen, Bezüge, Forschungslage, Querverweise, Bibliografie.
 - Querverweise sind eine kommagetrennte Liste aus Kürzel und Titel.
 - Verweise im Text heißen „siehe B3“ oder „siehe B3 und E2“; die Website macht daraus Links. Bloße Kürzel ohne „siehe“ bleiben Text, weil sie mit GeR-Niveaus wie A1 oder B2 verwechselbar sind.
@@ -50,7 +50,7 @@ A2 Aufgabenorientierung und Lernaufgaben, B5 Sprachmittlung, E4 Kooperatives Ler
 
 ## Neuer Eintrag
 
-Im passenden Bereichsordner „Add file“ und „Create new file“ wählen, zum Beispiel `inhalt/C-sprachliche-mittel/C4-orthografie.md`, und den Inhalt nach dem Format oben schreiben. Die Website ordnet den Eintrag selbst ein. Die Systematik-Tabelle in `inhalt/uebersicht.md` wird von Hand ergänzt.
+Im passenden Bereichsordner „Add file“ und „Create new file“ wählen, zum Beispiel `inhalt/C-sprachliche-mittel/C4-orthografie.md`, und den Inhalt nach dem Format oben schreiben. Die Website ordnet den Eintrag selbst ein. Nach der 9 geht es mit 10 weiter, zum Beispiel `E10-projektunterricht.md`; GitHub listet E10 alphabetisch vor E2, die Website ordnet nach der Nummer. Die Systematik-Tabelle in `inhalt/uebersicht.md` wird von Hand ergänzt.
 
 ## Website lokal erzeugen
 

@@ -42,7 +42,9 @@ RUBRIC_SLUGS = {
     "Bibliografie": "bibliografie",
 }
 
-CODE = r"[A-H][1-9](?![0-9A-Za-zÄÖÜäöüß])"
+# Kürzel: Buchstabe des Bereichs und Nummer 1 bis 99 ohne führende Null, zum Beispiel B3 oder E10.
+KUERZEL = r"[A-H][1-9][0-9]?"
+CODE = KUERZEL + r"(?![0-9A-Za-zÄÖÜäöüß])"
 SIEHE_RE = re.compile(
     r"(siehe\s+(?:auch\s+)?)(" + CODE + r"(?:\s*(?:,|und|sowie|oder|bzw\.)\s*" + CODE + r")*)"
 )
@@ -313,7 +315,7 @@ def read_areas(inhalt):
             if f.name == "README.md":
                 continue
             text = read_md(f)
-            m = re.search(r"^# ([A-H][1-9]) (.+)$", text, re.M)
+            m = re.search(r"^# (%s) (.+)$" % KUERZEL, text, re.M)
             if not m:
                 warn("Datei übersprungen: Die erste Überschrift muss so aussehen: # %s1 Titel" % code, rel(f))
                 continue
@@ -371,8 +373,8 @@ def build(inhalt, stand, source, changed):
                 summary = shorten(plain(first))
             if slug == "querverweise":
                 raw = " ".join(l.strip() for l in rmd.split("\n") if l.strip())
-                for item in re.split(r",\s*(?=[A-H][1-9]\s)", raw):
-                    im = re.match(r"^([A-H][1-9])\s+(.+?)\.?$", item.strip())
+                for item in re.split(r",\s*(?=%s\s)" % KUERZEL, raw):
+                    im = re.match(r"^(%s)\s+(.+?)\.?$" % KUERZEL, item.strip())
                     if im:
                         qv.append({"id": im.group(1), "label": im.group(2).strip(),
                                    "known": im.group(1) in titles})
@@ -389,7 +391,7 @@ def build(inhalt, stand, source, changed):
                 rubrics.append({"name": rname, "slug": slug, "html": "".join(html_q)})
                 continue
             rubrics.append({"name": rname, "slug": slug, "html": renderer.render(rmd)})
-        inline_refs = sorted(set(r for r in renderer.refs_found if r != e["id"]))
+        inline_refs = sorted(set(r for r in renderer.refs_found if r != e["id"]), key=lambda c: (c[0], int(c[1:])))
         status = "dr" if "ergänzt um Deep Research" in stand_line else "draft"
         out_entries.append({
             "id": e["id"], "title": e["title"], "area": e["area"], "tags": tags,
