@@ -32,7 +32,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 
 ## Systematik
 
-43 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
+44 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
 
 | Kürzel | Eintrag | Bereich | Status |
 | --- | --- | --- | --- |
@@ -79,6 +79,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 | H3 | Beratung und Nachbesprechung | Professionalisierung | Deep Research eingearbeitet |
 | H4 | Professionelle Identität | Professionalisierung | Deep Research eingearbeitet |
 | H5 | Sprachenwahl und Fachprofil | Professionalisierung | Deep Research eingearbeitet |
+| H6 | Fachseminardidaktik | Professionalisierung | Entwurf Claude mit eigener Recherche |
 
 ## Vorschläge für neue Unterkapitel
 
