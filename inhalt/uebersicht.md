@@ -32,7 +32,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 
 ## Systematik
 
-49 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
+50 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
 
 | Kürzel | Eintrag | Bereich | Status |
 | --- | --- | --- | --- |
@@ -72,6 +72,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 | E7 | Anfangsunterricht | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | E8 | Üben und Wiederholen | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | E9 | Szenisches Lernen und Theater | Methoden und Lernprozesse | Deep Research eingearbeitet |
+| E10 | Projektunterricht und Lernen durch Lehren | Methoden und Lernprozesse | Entwurf Claude mit eigener Recherche |
 | F1 | Leistungsfeststellung und Bewertung | Leistung | Deep Research eingearbeitet |
 | F2 | Diagnose | Leistung | Deep Research eingearbeitet |
 | F3 | DELF scolaire und Zertifikate | Leistung | Deep Research eingearbeitet |
@@ -147,6 +148,8 @@ Die Suche auf der Website findet neben dem eingegebenen Wort auch die gleichbede
 | BD | Bande dessinée, Comic |
 | Lernspiel | Gamification, Escape Room |
 | Theater | Dramapädagogik, szenisches Lernen |
+| Projektunterricht | Projektarbeit, Projektlernen, pédagogie de projet |
+| LdL | Lernen durch Lehren |
 | Erklärvideo | Lernvideo, Flipped Classroom, classe inversée |
 | Lernplattform | Moodle, Schulcloud |
 | DFJW | OFAJ, Jugendwerk |

@@ -13,7 +13,7 @@ Kooperatives Lernen organisiert Gruppenarbeit so, dass alle gebraucht werden: po
 | Redechips | jede Person setzt ihre Chips beim Sprechen ein | gleich verteilte Redeanteile |
 
 - **Begriffe:** apprentissage coopératif, travail de groupe, interaction en classe, questionnement (frz.); cooperative learning, collaborative learning, IRF pattern, wait time, dialogic teaching, negotiation of meaning (engl.)
-- **Abgrenzung:** Kooperatives Lernen ist strukturierte Gruppenarbeit; nicht jede Gruppenarbeit ist kooperativ. Zur Sprachwahl in Gruppen siehe A4.
+- **Abgrenzung:** Kooperatives Lernen ist strukturierte Gruppenarbeit; nicht jede Gruppenarbeit ist kooperativ. Zur Sprachwahl in Gruppen siehe A4, zu Projekten und Lernen durch Lehren siehe E10.
 - **Tags:** #Unterrichtsbesuch #Planung #FKK #Praxiswissen
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober 2026)
 
@@ -89,7 +89,7 @@ Kooperatives Lernen organisiert Gruppenarbeit so, dass alle gebraucht werden: po
 
 ## Querverweise
 
-A4 Einsprachigkeit und Sprachwahl, B3 Sprechen, E1 Differenzierung und Inklusion, E3 Feedback und Lernbegleitung, H2 Unterrichtsqualität und Beobachtung
+A4 Einsprachigkeit und Sprachwahl, B3 Sprechen, E1 Differenzierung und Inklusion, E3 Feedback und Lernbegleitung, E10 Projektunterricht und Lernen durch Lehren, H2 Unterrichtsqualität und Beobachtung
 
 ## Bibliografie
 

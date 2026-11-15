@@ -17,7 +17,7 @@ Erinnerungskultur meint die Formen, in denen eine Gesellschaft ihre Vergangenhei
 | Europa | Weimarer Dreieck (28. August 1991); Partnerregion Hauts-de-France | über das Zweierverhältnis hinaus: Polen, Europa, die eigene Region |
 
 - **Begriffe:** mémoire, mémoire collective, lieux de mémoire, devoir de mémoire, travail de mémoire, commémoration, monument aux morts, Occupation, Collaboration, Résistance, Déportation, Shoah, Libération, armistice, témoin, témoignage, réconciliation, amitié franco-allemande, couple franco-allemand, traité de l'Élysée, traité d'Aix-la-Chapelle, jumelage, lois mémorielles, roman national (frz.); memory culture, collective memory, cultural memory, sites of memory, remembrance education, Holocaust education, testimony, multiperspectivity, reconciliation (engl.)
-- **Abgrenzung:** Austausch und Begegnung allgemein siehe D6, interkulturelle Kompetenz siehe D1, Literatur siehe D2, Film siehe D3, Chansons siehe D4, koloniales Erbe und Frankophonie siehe D5, Bande dessinée siehe D7, Sprachmittlung siehe B5, Sprachwahl im Unterricht siehe A4, Oberstufe und Abitur siehe F4.
+- **Abgrenzung:** Austausch und Begegnung allgemein siehe D6, interkulturelle Kompetenz siehe D1, Literatur siehe D2, Film siehe D3, Chansons siehe D4, koloniales Erbe und Frankophonie siehe D5, Bande dessinée siehe D7, Sprachmittlung siehe B5, Sprachwahl im Unterricht siehe A4, Oberstufe und Abitur siehe F4, Projektarbeit allgemein siehe E10.
 - **Tags:** #SekI #SekII #Abitur #IKK #TMK #Planung #Unterrichtsbesuch #Beratung #kontrovers #Praxiswissen
 - **Stand:** Entwurf Claude mit eigener Recherche (November 2026)
 
@@ -114,7 +114,7 @@ Erinnerungskultur meint die Formen, in denen eine Gesellschaft ihre Vergangenhei
 
 ## Querverweise
 
-A4 Einsprachigkeit und Sprachwahl, A6 Bilingualer Sachfachunterricht, A8 Demokratiebildung und Nachhaltigkeit, B2 Leseverstehen, B5 Sprachmittlung, D1 Inter- und transkulturelle Kompetenz, D2 Literatur, D3 Film und Bildmedien, D4 Chansons, Musik und Slam, D5 Frankophonie und Varietäten, D6 Austausch und Begegnung, D7 Bande dessinée, E9 Szenisches Lernen und Theater, F4 Oberstufe und Abitur, G1 Digitale Medien, G2 Künstliche Intelligenz, G4 Nachrichten und Desinformation, H1 Unterrichtsplanung
+A4 Einsprachigkeit und Sprachwahl, A6 Bilingualer Sachfachunterricht, A8 Demokratiebildung und Nachhaltigkeit, B2 Leseverstehen, B5 Sprachmittlung, D1 Inter- und transkulturelle Kompetenz, D2 Literatur, D3 Film und Bildmedien, D4 Chansons, Musik und Slam, D5 Frankophonie und Varietäten, D6 Austausch und Begegnung, D7 Bande dessinée, E9 Szenisches Lernen und Theater, E10 Projektunterricht und Lernen durch Lehren, F4 Oberstufe und Abitur, G1 Digitale Medien, G2 Künstliche Intelligenz, G4 Nachrichten und Desinformation, H1 Unterrichtsplanung
 
 ## Bibliografie
 

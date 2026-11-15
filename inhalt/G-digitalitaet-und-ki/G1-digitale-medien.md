@@ -14,7 +14,7 @@ Digitale Medien sind Werkzeug und Gegenstand zugleich: Lernen mit Medien und Ler
 | Redefinition (Neubelegung) | Partnerklassen erstellen gemeinsam einen mehrsprachigen Audioguide. | Entsteht notwendige, wechselseitige Kommunikation? |
 
 - **Begriffe:** numérique éducatif, enseignement-apprentissage des langues médiatisé par les technologies, TICE, outils numériques, compétence numérique, littératie numérique, capsule vidéo, balado (frz.); computer-assisted language learning (CALL), technology-enhanced language learning (TELL), mobile-assisted language learning (MALL), digital literacies, explainer video, TPACK, SAMR (engl.)
-- **Abgrenzung:** Künstliche Intelligenz siehe G2, Film und Bildmedien siehe D3, Nachrichten und Desinformation siehe G4. Ein Erklärvideo (*capsule vidéo*) erklärt einen begrenzten Zusammenhang; ein authentischer Nachrichtenclip leistet das nicht automatisch. Eine einzelne Schüleraufnahme ist ein *message vocal*, noch kein Podcast; Podcasts (in Québec *balados*) erscheinen als Serie.
+- **Abgrenzung:** Künstliche Intelligenz siehe G2, Film und Bildmedien siehe D3, Nachrichten und Desinformation siehe G4, Projekte mit digitalen Produkten siehe E10. Ein Erklärvideo (*capsule vidéo*) erklärt einen begrenzten Zusammenhang; ein authentischer Nachrichtenclip leistet das nicht automatisch. Eine einzelne Schüleraufnahme ist ein *message vocal*, noch kein Podcast; Podcasts (in Québec *balados*) erscheinen als Serie.
 - **Tags:** #Planung #Unterrichtsbesuch #TMK #kontrovers
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (November 2026)
 
@@ -159,7 +159,7 @@ Digitale Medien sind Werkzeug und Gegenstand zugleich: Lernen mit Medien und Ler
 
 ## Querverweise
 
-B1 Hör- und Hör-Sehverstehen, B3 Sprechen, B4 Schreiben, C1 Wortschatzarbeit, C3 Aussprache und Intonation, D3 Film und Bildmedien, E1 Differenzierung und Inklusion, E3 Feedback und Lernbegleitung, E5 Lehrwerk und Materialauswahl, G2 Künstliche Intelligenz, G4 Nachrichten und Desinformation, H1 Unterrichtsplanung
+B1 Hör- und Hör-Sehverstehen, B3 Sprechen, B4 Schreiben, C1 Wortschatzarbeit, C3 Aussprache und Intonation, D3 Film und Bildmedien, E1 Differenzierung und Inklusion, E3 Feedback und Lernbegleitung, E5 Lehrwerk und Materialauswahl, E10 Projektunterricht und Lernen durch Lehren, G2 Künstliche Intelligenz, G4 Nachrichten und Desinformation, H1 Unterrichtsplanung
 
 ## Bibliografie
 

@@ -14,7 +14,7 @@ Austausch und Begegnung machen Französisch zur Sprache echter Beziehungen. Die 
 | Erasmus+ Schulbildung | Gruppen 2 bis 30 Tage; einzeln kurzfristig 10 bis 29 Tage, langfristig 30 bis 365 Tage | über den PAD als Nationale Agentur, auch mit Akkreditierung der Schule |
 
 - **Begriffe:** échange scolaire, échange réciproque, appariement, jumelage, correspondant(e), famille d'accueil, séjour linguistique, rencontre, rencontre en tiers-lieu, animation linguistique, tandem (réciprocité, autonomie), échange virtuel, télécollaboration, mobilité hybride (frz.); virtual exchange, telecollaboration, blended mobility, study abroad, intercultural learning, tandem language learning (engl.)
-- **Abgrenzung:** Interkulturelle Kompetenz als Ziel siehe D1, Frankophonie außerhalb Frankreichs siehe D5, digitale Werkzeuge siehe G1, Werbung für das Fach bei der Sprachenwahl siehe H5.
+- **Abgrenzung:** Interkulturelle Kompetenz als Ziel siehe D1, Frankophonie außerhalb Frankreichs siehe D5, digitale Werkzeuge siehe G1, Werbung für das Fach bei der Sprachenwahl siehe H5, Projektarbeit allgemein siehe E10.
 - **Tags:** #IKK #FKK #SekI #SekII #Fachseminar #Praxiswissen
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (November 2026)
 
@@ -131,7 +131,7 @@ Austausch und Begegnung machen Französisch zur Sprache echter Beziehungen. Die 
 
 ## Querverweise
 
-A5 Motivation und Lernerautonomie, A8 Demokratiebildung und Nachhaltigkeit, B3 Sprechen, B5 Sprachmittlung, D1 Inter- und transkulturelle Kompetenz, D5 Frankophonie und Varietäten, D8 Erinnerungskultur und deutsch-französische Beziehungen, E2 Fehlerkultur und Korrektur, G1 Digitale Medien, H5 Sprachenwahl und Fachprofil
+A5 Motivation und Lernerautonomie, A8 Demokratiebildung und Nachhaltigkeit, B3 Sprechen, B5 Sprachmittlung, D1 Inter- und transkulturelle Kompetenz, D5 Frankophonie und Varietäten, D8 Erinnerungskultur und deutsch-französische Beziehungen, E2 Fehlerkultur und Korrektur, E10 Projektunterricht und Lernen durch Lehren, G1 Digitale Medien, H5 Sprachenwahl und Fachprofil
 
 ## Bibliografie
 
