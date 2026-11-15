@@ -81,7 +81,7 @@ Leseverstehen ist zielgerichtete Bedeutungskonstruktion aus Text, Vorwissen, Spr
 - **KMK 2023:** Für den MSA (im Wesentlichen B1) unter anderem: in Gebrauchstexten wichtige Informationen finden und Informationen aus verschiedenen Texten zusammentragen, vertraute (digitale) Hilfsmittel beim Lesen nutzen, unbekannte Wörter aus Bestandteilen und Kontext erschließen, Vorhersagen treffen und beim Lesen anpassen, Wissen und Strategien aus anderen Sprachen aktivieren.
 - **KMK 2012 Abitur:** weiterhin gültig; Leseverstehen authentischer Texte unterschiedlicher Textsorten.
 - **GeR-Begleitband 2020:** Lesen nach Zwecken, unter anderem *reading for orientation* mit skimming und scanning und Lesen zur Unterhaltung. Die Rezeptionsstrategie *identifying cues and inferring* reicht von Bild- und Kontexthilfen (A1/A2) bis zu Konnektoren und Textorganisation (B1/B2).
-- **Thüringen:** Leseverstehen gehört im Lehrplan Französisch 2026 zum Lernbereich Texte rezipieren und meint die aktive (Re-)Konstruktion der Bedeutung linearer und nicht linearer Texte (Abschnitt 1.3.2); der Umgang mit literarischen und Sachtexten berührt zudem die Text- und Medienkompetenz. Als Hilfsmittel nennt er zweisprachige Wörterbücher ab Klassenstufe 7/8 und KI-Tools ab Klassenstufe 9 (Abschnitte 3.2.2 und 3.3.2). Bewertet wird vor allem die Rezeptionsleistung (Abschnitt 7.2). Aufgabenformat und zugelassene Wörterbücher im Thüringer Abitur in den aktuellen Festlegungen prüfen.
+- **Thüringen:** Leseverstehen gehört im Lehrplan Französisch 2026 zum Lernbereich Texte rezipieren und meint die aktive (Re-)Konstruktion der Bedeutung linearer und nicht linearer Texte (Abschnitt 1.3.2); der Umgang mit literarischen und Sachtexten berührt zudem die Text- und Medienkompetenz. Als Hilfsmittel nennt er zweisprachige Wörterbücher ab Klassenstufe 7/8 und KI-Tools ab Klassenstufe 9 (Abschnitte 3.2.2 und 3.3.2). Bewertet wird vor allem die Rezeptionsleistung (Abschnitt 7.2). Zum Aufgabenformat im Thüringer Abitur siehe F4; die zugelassenen Wörterbücher stehen in den jährlichen Hinweisen des Ministeriums.
 
 ## Forschungslage
 
@@ -94,7 +94,7 @@ Leseverstehen ist zielgerichtete Bedeutungskonstruktion aus Text, Vorwissen, Spr
 
 ## Querverweise
 
-A3 Mehrsprachigkeitsdidaktik, B1 Hör- und Hör-Sehverstehen, B4 Schreiben, C1 Wortschatzarbeit, D2 Literatur, E1 Differenzierung und Inklusion, F1 Leistungsfeststellung und Bewertung
+A3 Mehrsprachigkeitsdidaktik, B1 Hör- und Hör-Sehverstehen, B4 Schreiben, C1 Wortschatzarbeit, D2 Literatur, E1 Differenzierung und Inklusion, F1 Leistungsfeststellung und Bewertung, F4 Oberstufe und Abitur
 
 ## Bibliografie
 

@@ -15,7 +15,7 @@ Im Französischunterricht kommen fachspezifische Fragen hinzu: Wie verständlich
 
 - **Begriffe:** qualité de l'enseignement, gestion de classe, activation cognitive, soutien pédagogique, étayage, engagement cognitif, observation de classe, grille d'observation (frz.); teaching quality, classroom management, cognitive activation, student support, scaffolding, cognitive engagement, subject-specific instructional quality, classroom observation (engl.)
 - **Unterscheidungen:** Angebot, Nutzung und Ertrag; Sicht- und Tiefenstrukturen; "guter" Unterricht (normativ, etwa über Bildungsziele und respektvolle Beziehungen) und "wirksamer" Unterricht (empirisch feststellbare Wirkungen auf bestimmte Zielgrößen). Ein einzelner Leistungstest erfasst nicht alle legitimen Bildungsziele.
-- **Abgrenzung:** Planung siehe H1, Nachbesprechung siehe H3.
+- **Abgrenzung:** Planung siehe H1, Nachbesprechung siehe H3, Gestaltung von Fachseminarsitzungen siehe H6.
 - **Tags:** #Unterrichtsbesuch #Beratung #Fachseminar #empirischGut #kontrovers
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (November 2026)
 
@@ -185,7 +185,7 @@ Bildungsstandards und GeR beschreiben Ziele und Kompetenzprofile. Sie belegen ni
 
 ## Querverweise
 
-A3 Mehrsprachigkeitsdidaktik, A4 Einsprachigkeit und Sprachwahl, B1 Hör- und Hör-Sehverstehen, B3 Sprechen, C3 Aussprache und Intonation, D1 Inter- und transkulturelle Kompetenz, D2 Literatur, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, E4 Kooperatives Lernen und Unterrichtsgespräch, E5 Lehrwerk und Materialauswahl, G1 Digitale Medien, G2 Künstliche Intelligenz, H1 Unterrichtsplanung, H3 Beratung und Nachbesprechung
+A3 Mehrsprachigkeitsdidaktik, A4 Einsprachigkeit und Sprachwahl, B1 Hör- und Hör-Sehverstehen, B3 Sprechen, C3 Aussprache und Intonation, D1 Inter- und transkulturelle Kompetenz, D2 Literatur, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, E4 Kooperatives Lernen und Unterrichtsgespräch, E5 Lehrwerk und Materialauswahl, G1 Digitale Medien, G2 Künstliche Intelligenz, H1 Unterrichtsplanung, H3 Beratung und Nachbesprechung, H6 Fachseminardidaktik
 
 ## Bibliografie
 

@@ -13,7 +13,7 @@ Grammatik hat im kompetenzorientierten Unterricht dienende Funktion: Sie hilft, 
 | Processing Instruction | Input so gestalten, dass die Form für das Verstehen nötig ist (VanPatten) |
 
 - **Begriffe:** grammaire inductive / déductive, démarche de découverte, conceptualisation, grammaire fonctionnelle (frz.); focus on form, focus on forms, noticing, explicit / implicit instruction, processability (engl.)
-- **Abgrenzung:** Korrektur von Grammatikfehlern siehe E2, Grammatik in Lernaufgaben siehe A2.
+- **Abgrenzung:** Korrektur von Grammatikfehlern siehe E2, Grammatik in Lernaufgaben siehe A2, Erwerbsreihenfolgen und Lernersprache siehe A7.
 - **Tags:** #SB #Planung #Unterrichtsbesuch #kontrovers
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober 2026)
 
@@ -91,7 +91,7 @@ Grammatik hat im kompetenzorientierten Unterricht dienende Funktion: Sie hilft, 
 
 ## Querverweise
 
-A1 Kompetenzorientierung, A2 Aufgabenorientierung und Lernaufgaben, A4 Einsprachigkeit und Sprachwahl, C1 Wortschatzarbeit, E2 Fehlerkultur und Korrektur, E8 Üben und Wiederholen, F2 Diagnose
+A1 Kompetenzorientierung, A2 Aufgabenorientierung und Lernaufgaben, A4 Einsprachigkeit und Sprachwahl, A7 Spracherwerb und Lernersprache, C1 Wortschatzarbeit, E2 Fehlerkultur und Korrektur, E8 Üben und Wiederholen, F2 Diagnose
 
 ## Bibliografie
 

@@ -16,7 +16,7 @@ Eine Besprechung kann beim beobachtbaren Handeln ansetzen (*Was haben Sie in die
 
 - **Begriffe:** entretien post-leçon, accompagnement, mentorat, conseil pédagogique, rétroaction, pratique réflexive, analyse de pratiques, évaluation certificative (frz.); post-observation conference, post-lesson conference, mentoring, coaching, feedback, reflective practice, summative assessment (engl.)
 - **Unterscheidungen:** Mentoring meint eine längerfristige Begleitung, Feedback die Rückmeldung zu einem Ziel. Bei einer summativen Beurteilung verantwortet die zuständige Person ein Urteil anhand ausgewiesener Kriterien.
-- **Abgrenzung:** Beobachtung siehe H2, Feedback an Lernende siehe E3, Entwicklung der Berufsrolle siehe H4.
+- **Abgrenzung:** Beobachtung siehe H2, Feedback an Lernende siehe E3, Entwicklung der Berufsrolle siehe H4, Gestaltung von Fachseminarsitzungen siehe H6.
 - **Tags:** #Beratung #Unterrichtsbesuch #Fachseminar #Praxiswissen #kontrovers
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (November 2026)
 
@@ -158,7 +158,7 @@ Diese Signale betreffen auch die Fachleitung: Wer alle Themen setzt oder eine ge
 
 ## Querverweise
 
-A3 Mehrsprachigkeitsdidaktik, A4 Einsprachigkeit und Sprachwahl, B1 Hör- und Hör-Sehverstehen, B3 Sprechen, B5 Sprachmittlung, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, F1 Leistungsfeststellung und Bewertung, H1 Unterrichtsplanung, H2 Unterrichtsqualität und Beobachtung, H4 Professionelle Identität
+A3 Mehrsprachigkeitsdidaktik, A4 Einsprachigkeit und Sprachwahl, B1 Hör- und Hör-Sehverstehen, B3 Sprechen, B5 Sprachmittlung, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, F1 Leistungsfeststellung und Bewertung, H1 Unterrichtsplanung, H2 Unterrichtsqualität und Beobachtung, H4 Professionelle Identität, H6 Fachseminardidaktik
 
 ## Bibliografie
 

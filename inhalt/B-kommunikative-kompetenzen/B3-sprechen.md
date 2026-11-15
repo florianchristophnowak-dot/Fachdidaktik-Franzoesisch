@@ -5,7 +5,7 @@
 Sprechen umfasst mündliche Produktion (zusammenhängend erzählen, beschreiben, präsentieren, Stellung nehmen) und mündliche Interaktion (an Gesprächen teilnehmen, nachfragen, reagieren, aushandeln, reparieren). Interaktion ist eine eigene Kompetenz und nicht die Summe zweier Monologe. In der zweiten Fremdsprache ist die Sprechzeit pro Person knapp und die Lücke zwischen Mitteilungsabsicht und Repertoire groß. Gute Sprechförderung schafft deshalb viele echte Gelegenheiten, stützt mit Gerüsten, die wieder abgebaut werden, und senkt die Hemmschwelle.
 
 - **Begriffe:** production orale en continu, interaction orale, prise de parole, aisance, correction, anxiété langagière (frz.); spoken production, spoken interaction, interactional competence, fluency, accuracy, complexity, scaffolding, speaking anxiety (engl.)
-- **Abgrenzung:** Flüssigkeit (Redefluss, Pausen, Länge zusammenhängender Phasen) und Korrektheit (lexikalisch, grammatisch, phonologisch richtig) sind getrennte Qualitätsdimensionen. Der GeR nennt daneben Spektrum, Interaktion und Kohärenz.
+- **Abgrenzung:** Flüssigkeit (Redefluss, Pausen, Länge zusammenhängender Phasen) und Korrektheit (lexikalisch, grammatisch, phonologisch richtig) sind getrennte Qualitätsdimensionen. Der GeR nennt daneben Spektrum, Interaktion und Kohärenz. Gesprächsstrategien und angemessenes Sprechen siehe C5.
 - **Tags:** #FKK #Unterrichtsbesuch #Prüfung #SekI #SekII #Abitur
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober 2026)
 
@@ -94,7 +94,7 @@ Sprechen umfasst mündliche Produktion (zusammenhängend erzählen, beschreiben,
 
 ## Querverweise
 
-A2 Aufgabenorientierung und Lernaufgaben, A4 Einsprachigkeit und Sprachwahl, C3 Aussprache und Intonation, D4 Chansons, Musik und Slam, E2 Fehlerkultur und Korrektur, E4 Kooperatives Lernen und Unterrichtsgespräch, E9 Szenisches Lernen und Theater, F1 Leistungsfeststellung und Bewertung
+A2 Aufgabenorientierung und Lernaufgaben, A4 Einsprachigkeit und Sprachwahl, C3 Aussprache und Intonation, C5 Pragmatik und Gesprächsstrategien, D4 Chansons, Musik und Slam, E2 Fehlerkultur und Korrektur, E4 Kooperatives Lernen und Unterrichtsgespräch, E9 Szenisches Lernen und Theater, F1 Leistungsfeststellung und Bewertung
 
 ## Bibliografie
 

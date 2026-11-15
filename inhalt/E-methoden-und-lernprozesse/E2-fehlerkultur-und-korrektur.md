@@ -2,7 +2,7 @@
 
 ## Auf einen Blick
 
-Fehler sind Lernspuren: Sie zeigen, welche Hypothesen Lernende über die neue Sprache bilden (Lernersprache, interlangue). Fehlerkultur meint, wie eine Lerngruppe mit Fehlern umgeht: als Lerngelegenheit oder als Versagen. Korrektur ist das Werkzeug: mündlich oder schriftlich, sofort oder verzögert, explizit oder implizit, durch Lehrkraft, Mitlernende oder selbst.
+Fehler sind Lernspuren: Sie zeigen, welche Hypothesen Lernende über die neue Sprache bilden (Lernersprache, interlangue; siehe A7). Fehlerkultur meint, wie eine Lerngruppe mit Fehlern umgeht: als Lerngelegenheit oder als Versagen. Korrektur ist das Werkzeug: mündlich oder schriftlich, sofort oder verzögert, explizit oder implizit, durch Lehrkraft, Mitlernende oder selbst.
 
 | Korrekturform (nach Lyster & Ranta) | Beispiel |
 | --- | --- |
@@ -100,7 +100,7 @@ Fehler sind Lernspuren: Sie zeigen, welche Hypothesen Lernende über die neue Sp
 
 ## Querverweise
 
-B3 Sprechen, B4 Schreiben, C2 Grammatikvermittlung, E3 Feedback und Lernbegleitung, F1 Leistungsfeststellung und Bewertung, F2 Diagnose
+A7 Spracherwerb und Lernersprache, B3 Sprechen, B4 Schreiben, C2 Grammatikvermittlung, E3 Feedback und Lernbegleitung, F1 Leistungsfeststellung und Bewertung, F2 Diagnose
 
 ## Bibliografie
 
