@@ -26,7 +26,7 @@ Im Vorbereitungsdienst ist die schriftliche Planung zugleich Ausbildungs- und Pr
 | Aufgabe und Übung (*tâche*, *exercice*) | Eine kommunikative Aufgabe zielt auf eine bedeutungsvolle Handlung oder ein Ergebnis, eine Übung auf Teilfähigkeiten oder sprachliche Mittel. Beide haben in einer Reihe begründete Funktionen (siehe A2). |
 
 - **Begriffe:** planification, séquence didactique, séance, objectif d'apprentissage, compétence visée, tâche finale, planification à rebours, alignement pédagogique, progression des apprentissages, scénario pédagogique (frz.); lesson planning, unit of work, backward design, learning objectives, constructive alignment, learning progression, task-based und task-supported teaching (engl.)
-- **Abgrenzung:** Lernaufgaben siehe A2, Lehrwerksarbeit siehe E5, Beobachtung von Unterricht siehe H2, Nachbesprechung siehe H3.
+- **Abgrenzung:** Lernaufgaben siehe A2, Projekte siehe E10, Lehrwerksarbeit siehe E5, Beobachtung von Unterricht siehe H2, Nachbesprechung siehe H3.
 - **Tags:** #Planung #Unterrichtsbesuch #Prüfung #Praxiswissen
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (November 2026)
 
@@ -239,7 +239,7 @@ Standards und Lehrpläne begründen Zielrichtungen und Anforderungen. Eine besti
 
 ## Querverweise
 
-A1 Kompetenzorientierung, A2 Aufgabenorientierung und Lernaufgaben, A4 Einsprachigkeit und Sprachwahl, A6 Bilingualer Sachfachunterricht, B3 Sprechen, C1 Wortschatzarbeit, C2 Grammatikvermittlung, D3 Film und Bildmedien, E1 Differenzierung und Inklusion, E3 Feedback und Lernbegleitung, E5 Lehrwerk und Materialauswahl, F1 Leistungsfeststellung und Bewertung, F2 Diagnose, H2 Unterrichtsqualität und Beobachtung, H3 Beratung und Nachbesprechung
+A1 Kompetenzorientierung, A2 Aufgabenorientierung und Lernaufgaben, A4 Einsprachigkeit und Sprachwahl, A6 Bilingualer Sachfachunterricht, B3 Sprechen, C1 Wortschatzarbeit, C2 Grammatikvermittlung, D3 Film und Bildmedien, E1 Differenzierung und Inklusion, E3 Feedback und Lernbegleitung, E5 Lehrwerk und Materialauswahl, E10 Projektunterricht und Lernen durch Lehren, F1 Leistungsfeststellung und Bewertung, F2 Diagnose, H2 Unterrichtsqualität und Beobachtung, H3 Beratung und Nachbesprechung
 
 ## Bibliografie
 

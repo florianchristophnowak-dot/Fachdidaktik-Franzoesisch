@@ -17,7 +17,7 @@ Szenische Verfahren lassen Lernende Französisch mit Stimme, Körper und Raum er
 | Szenen schreiben | Lernende schreiben eine kurze Szene, etwa zu einer Leerstelle eines Textes, überarbeiten sie sprachlich und spielen sie. | Schreiben, Sprechen und Textdeutung verbinden |
 
 - **Begriffe:** jeu de rôle, saynète, improvisation, match d'impro, tableau vivant, arrêt sur image, lecture théâtralisée, lecture mise en voix, mise en scène, théâtre-forum, simulation globale, atelier théâtre (frz.); drama in education, role play, still image, freeze frame, readers theatre, process drama, teacher in role, forum theatre, global simulation, performative teaching (engl.)
-- **Abgrenzung:** Sprechen siehe B3, Aussprache siehe C3, Literatur siehe D2, Chansons und Slam siehe D4, kooperative Formen siehe E4, Lernspiele siehe E6.
+- **Abgrenzung:** Sprechen siehe B3, Aussprache siehe C3, Literatur siehe D2, Chansons und Slam siehe D4, kooperative Formen siehe E4, Lernspiele siehe E6, Projekte siehe E10.
 - **Tags:** #FKK #IKK #TMK #SekI #SekII #Planung #Praxiswissen
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (November 2026)
 
@@ -135,7 +135,7 @@ Szenische Verfahren lassen Lernende Französisch mit Stimme, Körper und Raum er
 
 ## Querverweise
 
-A5 Motivation und Lernerautonomie, B3 Sprechen, C3 Aussprache und Intonation, D2 Literatur, D4 Chansons, Musik und Slam, D5 Frankophonie und Varietäten, D6 Austausch und Begegnung, E1 Differenzierung und Inklusion, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, E4 Kooperatives Lernen und Unterrichtsgespräch, E6 Gamification und Lernspiele, F1 Leistungsfeststellung und Bewertung, H5 Sprachenwahl und Fachprofil
+A5 Motivation und Lernerautonomie, B3 Sprechen, C3 Aussprache und Intonation, D2 Literatur, D4 Chansons, Musik und Slam, D5 Frankophonie und Varietäten, D6 Austausch und Begegnung, E1 Differenzierung und Inklusion, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, E4 Kooperatives Lernen und Unterrichtsgespräch, E6 Gamification und Lernspiele, E10 Projektunterricht und Lernen durch Lehren, F1 Leistungsfeststellung und Bewertung, H5 Sprachenwahl und Fachprofil
 
 ## Bibliografie
 

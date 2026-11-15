@@ -32,7 +32,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 
 ## Systematik
 
-49 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
+51 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
 
 | Kürzel | Eintrag | Bereich | Status |
 | --- | --- | --- | --- |
@@ -72,12 +72,14 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 | E7 | Anfangsunterricht | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | E8 | Üben und Wiederholen | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | E9 | Szenisches Lernen und Theater | Methoden und Lernprozesse | Deep Research eingearbeitet |
+| E10 | Projektunterricht und Lernen durch Lehren | Methoden und Lernprozesse | Entwurf Claude mit eigener Recherche |
 | F1 | Leistungsfeststellung und Bewertung | Leistung | Deep Research eingearbeitet |
 | F2 | Diagnose | Leistung | Deep Research eingearbeitet |
 | F3 | DELF scolaire und Zertifikate | Leistung | Deep Research eingearbeitet |
 | F4 | Oberstufe und Abitur | Leistung | Entwurf Claude mit eigener Recherche |
 | G1 | Digitale Medien | Digitalität | Deep Research eingearbeitet |
 | G2 | Künstliche Intelligenz | Digitalität | Deep Research eingearbeitet |
+| G3 | Erklärvideos und Flipped Classroom | Digitalität | Entwurf Claude mit eigener Recherche |
 | G4 | Nachrichten und Desinformation | Digitalität | Entwurf Claude mit eigener Recherche |
 | H1 | Unterrichtsplanung | Professionalisierung | Deep Research eingearbeitet |
 | H2 | Unterrichtsqualität und Beobachtung | Professionalisierung | Deep Research eingearbeitet |
@@ -88,7 +90,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 
 ## Vorschläge für neue Unterkapitel
 
-Dreizehn kleinere Themen wurden als Ergänzung der Systematik vorgeschlagen. Die Spalte Entscheidung legt fest, welche als eigene Einträge angelegt werden. Zehn aufgenommene Themen sind seit November 2026 eigene Einträge am Ende ihres Bereichs; bei allen ist Deep Research eingearbeitet. A6 und C4 kamen im November 2026 als Entwürfe mit eigener Recherche hinzu und stehen an ihrem Platz, A6 zwischen A5 und A7, C4 zwischen C3 und C5.
+Dreizehn kleinere Themen wurden als Ergänzung der Systematik vorgeschlagen. Die Spalte Entscheidung legt fest, welche als eigene Einträge angelegt werden. Zehn aufgenommene Themen sind seit November 2026 eigene Einträge am Ende ihres Bereichs; bei allen ist Deep Research eingearbeitet. A6, C4 und G3 kamen im November 2026 als Entwürfe mit eigener Recherche hinzu und stehen an ihrem Platz, A6 zwischen A5 und A7, C4 zwischen C3 und C5, G3 zwischen G2 und G4.
 
 | Vorschlag | Worum es geht | Warum es sich lohnt | Entscheidung |
 | --- | --- | --- | --- |
@@ -103,7 +105,7 @@ Dreizehn kleinere Themen wurden als Ergänzung der Systematik vorgeschlagen. Die
 | E8 Üben und Wiederholen | Übungstypen, verteiltes Üben, Hausaufgaben, Wiederholungsphasen | Nimmt viel Lernzeit ein und ist bisher nur verstreut behandelt (C1, C2) | Aufnehmen |
 | E9 Szenisches Lernen und Theater | Rollenspiel, Improvisation, Standbild, Lesetheater, Theater-AG | Stärkt Sprechen, Aussprache und Sprechmut; verbindet B3, C3 und D2 | Aufnehmen |
 | F3 DELF scolaire und Zertifikate | Aufbau der DELF-Prüfungen A1 bis B2, Vorbereitung im Unterricht, Verhältnis zu Noten | Viele Schulen bieten DELF an; das Format wirkt auf den Unterricht zurück | Aufnehmen |
-| G3 Erklärvideos und Flipped Classroom | Lernvideos nutzen und selbst erstellen, *classe inversée* | Weit verbreitet; Meta-Analysen zeigen kleine Effekte, die von der Präsenzphase abhängen |  |
+| G3 Erklärvideos und Flipped Classroom | Lernvideos nutzen und selbst erstellen, *classe inversée* | Weit verbreitet; Meta-Analysen zeigen kleine Effekte, die von der Präsenzphase abhängen | Aufnehmen |
 | H5 Sprachenwahl und Fachprofil | Französisch bei der Wahl der zweiten Fremdsprache vorstellen, Elternabende, Wettbewerbe, Profil der Fachschaft | Die Belegungszahlen sinken (siehe A5); die Fachschaft kann gegensteuern | Aufnehmen |
 
 ## Tags und Querverweise
@@ -147,6 +149,9 @@ Die Suche auf der Website findet neben dem eingegebenen Wort auch die gleichbede
 | BD | Bande dessinée, Comic |
 | Lernspiel | Gamification, Escape Room |
 | Theater | Dramapädagogik, szenisches Lernen |
+| Projektunterricht | Projektarbeit, Projektlernen, pédagogie de projet |
+| LdL | Lernen durch Lehren |
 | Erklärvideo | Lernvideo, Flipped Classroom, classe inversée |
+| Flipped Classroom | Inverted Classroom, umgedrehter Unterricht, pédagogie inversée |
 | Lernplattform | Moodle, Schulcloud |
 | DFJW | OFAJ, Jugendwerk |

@@ -12,7 +12,7 @@ Eine Aufgabe (task, tâche) ist eine Sprachhandlung mit einem außersprachlichen
 | Es gibt ein klares Ergebnis | Ein Plan, eine Wahl, eine Nachricht. |
 
 - **Begriffe:** tâche, approche par tâches, perspective actionnelle (frz.); task-based / task-supported language teaching, focused / unfocused task, focus on form (engl.)
-- **Varianten:** starkes TBLT (Long: Bedarfsanalyse, Aufgaben als Curriculum) · Willis-Zyklus (pre-task, task cycle, language focus) · TSLT (Aufgaben im lehrwerk- und progressionsgestützten Unterricht). Für die deutsche Schule beschreibt TSLT die Realität meist am besten.
+- **Varianten:** starkes TBLT (Long: Bedarfsanalyse, Aufgaben als Curriculum) · Willis-Zyklus (pre-task, task cycle, language focus) · TSLT (Aufgaben im lehrwerk- und progressionsgestützten Unterricht). Für die deutsche Schule beschreibt TSLT die Realität meist am besten. Längere Vorhaben mit einem Produkt für ein Publikum siehe E10.
 - **Tags:** #Planung #Unterrichtsbesuch #FKK #empirischGut
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober 2026)
 
@@ -97,7 +97,7 @@ Eine Aufgabe (task, tâche) ist eine Sprachhandlung mit einem außersprachlichen
 
 ## Querverweise
 
-A1 Kompetenzorientierung, B5 Sprachmittlung, C2 Grammatikvermittlung (Focus on Form), E1 Differenzierung, H1 Unterrichtsplanung
+A1 Kompetenzorientierung, B5 Sprachmittlung, C2 Grammatikvermittlung (Focus on Form), E1 Differenzierung, E10 Projektunterricht und Lernen durch Lehren, H1 Unterrichtsplanung
 
 ## Bibliografie
 

@@ -31,7 +31,7 @@ Leistungsfeststellung prüft, was Lernende mit der Sprache tun können, und mün
 - Neue Prüfungsformate vorher ohne Note erproben, etwa in einem *contrôle blanc* oder einer Übungsrunde zur mündlichen Prüfung.
 - Beim Schreiben Lern- und Leistungsphase trennen: Rohfassung, Peer-Feedback und Überarbeitung gehören zur Lernphase. Bewertet wird nur die Endfassung, mit einem Raster, das die Lernenden kennen (siehe B4, E3).
 - Laufende Unterrichtsleistungen transparent machen: Kriterien bekannt geben, regelmäßig kurze Notizen machen, in festen Abständen zum Leistungsstand rückmelden.
-- Mündliche Leistungen gezielt erheben: Präsentationen, Rollenspiele, Paarprüfungen statt nur Meldehäufigkeit.
+- Mündliche Leistungen gezielt erheben: Präsentationen, Rollenspiele, Paarprüfungen statt nur Meldehäufigkeit. Zur Bewertung von Projekten siehe E10.
 - Hilfsmittel schrittweise einführen: Wörterbucharbeit üben, bevor das Wörterbuch in Klausuren zugelassen ist.
 - Nachteilsausgleich beachten: Zeitverlängerung oder technische Hilfen ändern die Bedingungen, nicht die Anforderungen.
 - **Sek II:** Abiturformate früh anbahnen. Die schriftliche Abiturprüfung Französisch in Thüringen hat drei Teile, Hörverstehen, Schreiben und Sprachmittlung, mit Aufgaben aus dem gemeinsamen Pool der Länder (siehe F4, B1, B5).
@@ -91,7 +91,7 @@ Leistungsfeststellung prüft, was Lernende mit der Sprache tun können, und mün
 
 ## Querverweise
 
-A1 Kompetenzorientierung, B3 Sprechen, B4 Schreiben, B5 Sprachmittlung, C4 Orthografie, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, F2 Diagnose, F3 DELF scolaire und Zertifikate, F4 Oberstufe und Abitur, G2 Künstliche Intelligenz
+A1 Kompetenzorientierung, B3 Sprechen, B4 Schreiben, B5 Sprachmittlung, C4 Orthografie, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, E10 Projektunterricht und Lernen durch Lehren, F2 Diagnose, F3 DELF scolaire und Zertifikate, F4 Oberstufe und Abitur, G2 Künstliche Intelligenz
 
 ## Bibliografie
 

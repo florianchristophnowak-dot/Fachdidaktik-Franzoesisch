@@ -14,7 +14,7 @@ Ohne Üben keine Sprachkompetenz: Wörter, Formen und Wendungen müssen so oft a
 | Rückmelden | nach dem Abruf die richtige Lösung sehen und erneut abrufen | Partnerabfrage mit Lösungskarte; falsch beantwortete Karten kommen in der nächsten Stunde wieder dran |
 
 - **Begriffe:** exercice, exercice fermé, exercice semi-ouvert, exercice ouvert, entraînement, répétition, répétition espacée, pratique distribuée, rappel actif, pratique de récupération, pratique entrelacée, pratique bloquée, révision, devoirs, réemploi, automatisation, exercice structural, exercice à trous, fiche de révision (frz.); practice, spaced practice, distributed practice, retrieval practice, testing effect, interleaving, blocked practice, desirable difficulties, automatization, proceduralization, homework, skill acquisition (engl.)
-- **Abgrenzung:** Lernaufgaben siehe A2, Wortschatz siehe C1, Grammatik siehe C2, Feedback siehe E3, Spiele siehe E6, Diagnose siehe F2.
+- **Abgrenzung:** Lernaufgaben siehe A2, Wortschatz siehe C1, Grammatik siehe C2, Feedback siehe E3, Spiele siehe E6, Diagnose siehe F2, Erklärvideos zur Vorbereitung im Flipped Classroom siehe G3.
 - **Tags:** #FKK #SLK #SekI #SekII #Planung #empirischGut
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (November 2026)
 
@@ -123,7 +123,7 @@ Ohne Üben keine Sprachkompetenz: Wörter, Formen und Wendungen müssen so oft a
 
 ## Querverweise
 
-A2 Aufgabenorientierung und Lernaufgaben, B5 Sprachmittlung, C1 Wortschatzarbeit, C2 Grammatikvermittlung, E1 Differenzierung und Inklusion, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, E6 Gamification und Lernspiele, E7 Anfangsunterricht, F1 Leistungsfeststellung und Bewertung, F2 Diagnose, G1 Digitale Medien
+A2 Aufgabenorientierung und Lernaufgaben, B5 Sprachmittlung, C1 Wortschatzarbeit, C2 Grammatikvermittlung, E1 Differenzierung und Inklusion, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, E6 Gamification und Lernspiele, E7 Anfangsunterricht, F1 Leistungsfeststellung und Bewertung, F2 Diagnose, G1 Digitale Medien, G3 Erklärvideos und Flipped Classroom
 
 ## Bibliografie
 
