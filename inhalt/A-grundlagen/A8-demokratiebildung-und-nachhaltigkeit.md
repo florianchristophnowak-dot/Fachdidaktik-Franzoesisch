@@ -14,7 +14,7 @@ Drei Bezugsrahmen helfen bei der Planung. Byrams Konzept der interkulturellen B�
 | Institutionen verstehen | politisches System, *laïcité*, Mitbestimmung in der Schule, Europäische Union | die *Charte de la laïcité à l'École* lesen und mit Regelungen in Deutschland vergleichen |
 
 - **Begriffe:** éducation à la citoyenneté, citoyenneté interculturelle, compétences pour une culture de la démocratie, enseignement moral et civique (EMC), valeurs de la République, laïcité, droits de l'Homme, engagement, débat réglé, débat argumenté, éducation au développement durable (EDD), objectifs de développement durable (ODD), éco-délégué (frz.); education for democratic citizenship, intercultural citizenship, competences for democratic culture, global citizenship education, education for sustainable development (ESD), sustainable development goals (SDGs), controversial issues, open classroom climate (engl.)
-- **Abgrenzung:** Interkulturelle Kompetenz siehe D1, Erinnerungskultur und deutsch-französische Beziehungen siehe D8, Nachrichten und Desinformation siehe G4, Austausch und Begegnung siehe D6, Gesprächsstrategien und angemessenes Widersprechen siehe C5, Kompetenzbegriff und seine Grenzen siehe A1. Demokratiebildung im Französischunterricht ergänzt den Politik- und Geschichtsunterricht, ersetzt ihn aber nicht.
+- **Abgrenzung:** Interkulturelle Kompetenz siehe D1, Erinnerungskultur und deutsch-französische Beziehungen siehe D8, Nachrichten und Desinformation siehe G4, Austausch und Begegnung siehe D6, Gesprächsstrategien und angemessenes Widersprechen siehe C5, Diversität und Repräsentation siehe D9, Kompetenzbegriff und seine Grenzen siehe A1. Demokratiebildung im Französischunterricht ergänzt den Politik- und Geschichtsunterricht, ersetzt ihn aber nicht.
 - **Tags:** #SekI #SekII #Abitur #Planung #IKK #FKK #kontrovers
 - **Stand:** Entwurf Claude mit eigener Recherche (November 2026)
 
@@ -47,7 +47,7 @@ Drei Bezugsrahmen helfen bei der Planung. Byrams Konzept der interkulturellen B�
 
 - **Doppelt planen:** Für jede Einheit ein sprachliches Ziel und ein Ziel für Urteil oder Handeln festlegen. Beide gehören in den Stundenentwurf.
 - **Sprache und Begründung bewerten, nie die Meinung:** Bewertet werden sprachliche Mittel, Struktur und Stichhaltigkeit der Argumente. Welche Position jemand vertritt und ob jemand sich außerhalb des Unterrichts engagiert, ist kein Bewertungskriterium.
-- **Betroffenheit beachten:** Bei Migration, Religion oder Diskriminierung können Lernende persönlich betroffen sein. Niemanden als Fachperson für seine Herkunft vorführen; Rollenkarten und Positionen, die nicht die eigenen sein müssen, schaffen Abstand.
+- **Betroffenheit beachten:** Bei Migration, Religion oder Diskriminierung können Lernende persönlich betroffen sein. Niemanden als Fachperson für seine Herkunft vorführen; Rollenkarten und Positionen, die nicht die eigenen sein müssen, schaffen Abstand. Zum Schutz der Lernenden und zum Umgang mit abwertender Sprache siehe D9.
 
 ## Best Practice Französisch
 
@@ -117,7 +117,7 @@ Drei Bezugsrahmen helfen bei der Planung. Byrams Konzept der interkulturellen B�
 
 ## Querverweise
 
-A1 Kompetenzorientierung, A4 Einsprachigkeit und Sprachwahl, B3 Sprechen, B4 Schreiben, B5 Sprachmittlung, C5 Pragmatik und Gesprächsstrategien, D1 Inter- und transkulturelle Kompetenz, D2 Literatur, D5 Frankophonie und Varietäten, D6 Austausch und Begegnung, D8 Erinnerungskultur und deutsch-französische Beziehungen, E4 Kooperatives Lernen und Unterrichtsgespräch, F4 Oberstufe und Abitur, G4 Nachrichten und Desinformation
+A1 Kompetenzorientierung, A4 Einsprachigkeit und Sprachwahl, B3 Sprechen, B4 Schreiben, B5 Sprachmittlung, C5 Pragmatik und Gesprächsstrategien, D1 Inter- und transkulturelle Kompetenz, D2 Literatur, D5 Frankophonie und Varietäten, D6 Austausch und Begegnung, D8 Erinnerungskultur und deutsch-französische Beziehungen, D9 Diversität und Repräsentation, E4 Kooperatives Lernen und Unterrichtsgespräch, F4 Oberstufe und Abitur, G4 Nachrichten und Desinformation
 
 ## Bibliografie
 

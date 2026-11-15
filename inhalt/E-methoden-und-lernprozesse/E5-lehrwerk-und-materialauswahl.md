@@ -21,7 +21,7 @@ Das Lehrwerk ist im Französischunterricht das wichtigste Leitmedium: Es struktu
 
 - **Vom Kompetenzziel aus planen, nicht von der Seitenzahl:** Im Entwurf steht zuerst, was Lernende am Ende können sollen.
 - **Eine Lektion vom Ende her lesen:** Welche Lernaufgabe (*tâche finale*) bietet das Lehrwerk? Welche Übungen führen dorthin, welche sind verzichtbar?
-- **Kriterien für die Auswahl:** Kompetenzziel, sprachliche Zugänglichkeit, Aktualität, Lebensweltbezug, kulturelle Vielfalt (Frankophonie, Diversität), Aufgabenqualität, Differenzierungspotenzial.
+- **Kriterien für die Auswahl:** Kompetenzziel, sprachliche Zugänglichkeit, Aktualität, Lebensweltbezug, kulturelle Vielfalt (Frankophonie, Diversität; Prüffragen siehe D9), Aufgabenqualität, Differenzierungspotenzial.
 - **Adaptieren:** Texte kürzen oder entlasten, Aufgaben öffnen, Lehrwerksdialoge in Informationslücken umbauen, Übungen in eine Situation einbetten.
 - **Sozialformen wechseln:** Lehrwerksaufgaben auch in Partner- und Gruppenarbeit bearbeiten und die Differenzierungsangebote des Lehrwerks nutzen (siehe E1, E4).
 - **Authentisches ergänzen:** Jugendzeitschriften, Kurzvideos, Podcasts, Werbung, Lieder, Social-Media-Beiträge (datenschutzkonform).
@@ -79,7 +79,7 @@ Das Lehrwerk ist im Französischunterricht das wichtigste Leitmedium: Es struktu
 
 ## Querverweise
 
-A1 Kompetenzorientierung, A2 Aufgabenorientierung und Lernaufgaben, D1 Inter- und transkulturelle Kompetenz, E1 Differenzierung und Inklusion, E4 Kooperatives Lernen und Unterrichtsgespräch, G1 Digitale Medien, H1 Unterrichtsplanung
+A1 Kompetenzorientierung, A2 Aufgabenorientierung und Lernaufgaben, D1 Inter- und transkulturelle Kompetenz, D9 Diversität und Repräsentation, E1 Differenzierung und Inklusion, E4 Kooperatives Lernen und Unterrichtsgespräch, G1 Digitale Medien, H1 Unterrichtsplanung
 
 ## Bibliografie
 

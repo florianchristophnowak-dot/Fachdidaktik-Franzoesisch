@@ -13,7 +13,7 @@ Interkulturelle kommunikative Kompetenz (Byram) verbindet Wissen, Einstellungen 
 | Savoir s'engager (kritische kulturelle Bewusstheit) | Eigene und fremde Werte begründet bewerten |
 
 - **Begriffe:** compétence interculturelle, transculturalité, stéréotypes, représentations, francophonie, incident critique (frz.); intercultural communicative competence, critical cultural awareness, critical incident, intercultural citizenship (engl.)
-- **Abgrenzung:** Landeskunde liefert Wissen (savoirs). Interkulturelle Kompetenz umfasst zusätzlich Einstellungen, Deutung und Handeln. Kulturelle Aspekte der Sprachmittlung siehe B5, Literatur und Film als Zugänge siehe D2 und D3, Anrede, Höflichkeit und Gesprächsführung siehe C5, Demokratiebildung und interkulturelle Bürgerschaft siehe A8.
+- **Abgrenzung:** Landeskunde liefert Wissen (savoirs). Interkulturelle Kompetenz umfasst zusätzlich Einstellungen, Deutung und Handeln. Kulturelle Aspekte der Sprachmittlung siehe B5, Literatur und Film als Zugänge siehe D2 und D3, Anrede, Höflichkeit und Gesprächsführung siehe C5, Demokratiebildung und interkulturelle Bürgerschaft siehe A8, Diversität und Repräsentation in Material und Unterricht siehe D9.
 - **Tags:** #IKK #SekI #SekII #Abitur #kontrovers
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober 2026)
 
@@ -22,7 +22,7 @@ Interkulturelle kommunikative Kompetenz (Byram) verbindet Wissen, Einstellungen 
 1. Kultur ist kein Faktenwissen über Nationen, sondern Bedeutungen und Praktiken, die Menschen aushandeln und verändern.
 2. Stereotype werden nicht verschwiegen, sondern bewusst gemacht und befragt.
 3. Die eigene Perspektive gehört zum Lerngegenstand: Wie sehen andere uns, und warum sehen wir sie so?
-4. Die Frankophonie ist vielfältig: Québec, Westafrika, Maghreb, Belgien, Schweiz, die Antillen, La Réunion, die Banlieues. Auch die Lerngruppe selbst ist oft mehrsprachig und mehrkulturell (siehe A3).
+4. Die Frankophonie ist vielfältig: Québec, Westafrika, Maghreb, Belgien, Schweiz, die Antillen, La Réunion, die Banlieues. Auch die Lerngruppe selbst ist oft mehrsprachig und mehrkulturell (siehe A3 und D9).
 5. Begegnung (Austausch, Brief- und Videokontakt, Online-Projekte) ist der stärkste Lernanlass, braucht aber Vor- und Nachbereitung.
 6. Ziel ist nicht Anpassung an eine fremde Norm, sondern Verständigung und ein begründetes eigenes Urteil.
 
@@ -94,7 +94,7 @@ Interkulturelle kommunikative Kompetenz (Byram) verbindet Wissen, Einstellungen 
 
 ## Querverweise
 
-A3 Mehrsprachigkeitsdidaktik, A8 Demokratiebildung und Nachhaltigkeit, B5 Sprachmittlung, C5 Pragmatik und Gesprächsstrategien, D2 Literatur, D3 Film und Bildmedien, E5 Lehrwerk und Materialauswahl, G1 Digitale Medien
+A3 Mehrsprachigkeitsdidaktik, A8 Demokratiebildung und Nachhaltigkeit, B5 Sprachmittlung, C5 Pragmatik und Gesprächsstrategien, D2 Literatur, D3 Film und Bildmedien, D9 Diversität und Repräsentation, E5 Lehrwerk und Materialauswahl, G1 Digitale Medien
 
 ## Bibliografie
 

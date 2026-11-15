@@ -69,7 +69,7 @@ Rechtschreibung dient der Verständlichkeit und gehört zur sprachlichen Korrekt
 
 **Normen im Wandel**
 
-- **Geschlechtergerechte Schreibungen einordnen:** In französischen Schulen ist der Mediopunkt (*les étudiant·es*) seit einem Rundschreiben vom 5. Mai 2021 untersagt; verlangt werden feminisierte Funktionsbezeichnungen und Doppelformen wie *le candidat ou la candidate* (MEN 2021). Der Conseil d'État hat das Rundschreiben 2024 bestätigt (Conseil d'État 2024). In authentischen Texten begegnen Lernende dem Mediopunkt trotzdem; sie sollten ihn verstehen und einordnen können. Eine Thüringer Vorgabe für den Französischunterricht fand sich nicht; die Fachschaft sollte offenlegen, welche Formen sie in Schülertexten akzeptiert.
+- **Geschlechtergerechte Schreibungen einordnen:** In französischen Schulen ist der Mediopunkt (*les étudiant·es*) seit einem Rundschreiben vom 5. Mai 2021 untersagt; verlangt werden feminisierte Funktionsbezeichnungen und Doppelformen wie *le candidat ou la candidate* (MEN 2021). Der Conseil d'État hat das Rundschreiben 2024 bestätigt (Conseil d'État 2024). In authentischen Texten begegnen Lernende dem Mediopunkt trotzdem; sie sollten ihn verstehen und einordnen können. Eine Thüringer Vorgabe für den Französischunterricht fand sich nicht; die Fachschaft sollte offenlegen, welche Formen sie in Schülertexten akzeptiert. Zur *écriture inclusive* als Gesprächsgegenstand und zu nichtbinären Formen siehe D9.
 
 ## Best Practice Französisch
 
@@ -141,7 +141,7 @@ Rechtschreibung dient der Verständlichkeit und gehört zur sprachlichen Korrekt
 
 ## Querverweise
 
-A3 Mehrsprachigkeitsdidaktik, A7 Spracherwerb und Lernersprache, B4 Schreiben, C1 Wortschatzarbeit, C2 Grammatikvermittlung, C3 Aussprache und Intonation, D5 Frankophonie und Varietäten, E1 Differenzierung und Inklusion, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, E7 Anfangsunterricht, E8 Üben und Wiederholen, F1 Leistungsfeststellung und Bewertung, F2 Diagnose, F4 Oberstufe und Abitur, G2 Künstliche Intelligenz
+A3 Mehrsprachigkeitsdidaktik, A7 Spracherwerb und Lernersprache, B4 Schreiben, C1 Wortschatzarbeit, C2 Grammatikvermittlung, C3 Aussprache und Intonation, D5 Frankophonie und Varietäten, D9 Diversität und Repräsentation, E1 Differenzierung und Inklusion, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, E7 Anfangsunterricht, E8 Üben und Wiederholen, F1 Leistungsfeststellung und Bewertung, F2 Diagnose, F4 Oberstufe und Abitur, G2 Künstliche Intelligenz
 
 ## Bibliografie
 

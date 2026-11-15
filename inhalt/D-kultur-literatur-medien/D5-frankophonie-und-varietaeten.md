@@ -12,7 +12,7 @@ Französisch ist eine Weltsprache mit mehreren Zentren. Nach dem Bericht *La lan
 | Medium | *variation diamésique* | gesprochen *on* statt *nous* und die Intonationsfrage *Tu viens ?*; im Chat *slt, mdr, stp* |
 
 - **Begriffe:** francophonie, Francophonie (als Institution, OIF), norme, français standard, français de référence, français parlé, variété, variation diatopique / diastratique / diaphasique / diamésique / diachronique, registre soutenu / courant / familier, belgicisme, helvétisme, québécisme, africanisme, parler jeune, verlan, argot, alternance codique (frz.); pluricentric language, standard language ideology, sociolinguistic competence, stylistic variation, register, code-switching, translanguaging, accent familiarity (engl.)
-- **Abgrenzung:** Frankophonie als Thema und Varietäten als Sprachgebrauch hängen zusammen, sind aber nicht dasselbe. Eine Stunde über Sehenswürdigkeiten in Montréal ist noch keine Arbeit an Varietäten; eine Höraufgabe mit einer Sprecherin aus Montréal kann es sein, wenn die Lernenden dabei Verstehensstrategien aufbauen und Besonderheiten einordnen. Interkulturelles Lernen allgemein siehe D1, Aussprache siehe C3, Rechtschreibnormen siehe C4, Lieder aus der Frankophonie siehe D4, Begegnung und Austausch siehe D6, Korrektur siehe E2, Sprachbiografie und Akzent der Lehrkraft siehe H4.
+- **Abgrenzung:** Frankophonie als Thema und Varietäten als Sprachgebrauch hängen zusammen, sind aber nicht dasselbe. Eine Stunde über Sehenswürdigkeiten in Montréal ist noch keine Arbeit an Varietäten; eine Höraufgabe mit einer Sprecherin aus Montréal kann es sein, wenn die Lernenden dabei Verstehensstrategien aufbauen und Besonderheiten einordnen. Interkulturelles Lernen allgemein siehe D1, Aussprache siehe C3, Rechtschreibnormen siehe C4, Lieder aus der Frankophonie siehe D4, Begegnung und Austausch siehe D6, Korrektur siehe E2, Sprachbiografie und Akzent der Lehrkraft siehe H4, Diversität und Repräsentation siehe D9.
 - **Tags:** #IKK #FKK #SB #SekI #SekII #Abitur
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (November 2026)
 
@@ -121,7 +121,7 @@ Französisch ist eine Weltsprache mit mehreren Zentren. Nach dem Bericht *La lan
 
 ## Querverweise
 
-B1 Hör- und Hör-Sehverstehen, C3 Aussprache und Intonation, C4 Orthografie, C5 Pragmatik und Gesprächsstrategien, D1 Inter- und transkulturelle Kompetenz, D3 Film und Bildmedien, D4 Chansons, Musik und Slam, D6 Austausch und Begegnung, E2 Fehlerkultur und Korrektur, H4 Professionelle Identität
+B1 Hör- und Hör-Sehverstehen, C3 Aussprache und Intonation, C4 Orthografie, C5 Pragmatik und Gesprächsstrategien, D1 Inter- und transkulturelle Kompetenz, D3 Film und Bildmedien, D4 Chansons, Musik und Slam, D6 Austausch und Begegnung, D9 Diversität und Repräsentation, E2 Fehlerkultur und Korrektur, H4 Professionelle Identität
 
 ## Bibliografie
 

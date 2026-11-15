@@ -15,7 +15,7 @@ Am besten belegt ist eine Strategie, die Profis anwenden: lateral lesen. Statt e
 | Oberstufe (B1/B2) | franceinfo, RFI, France 24, *Le Monde*, Radio-Canada, RTBF; Faktenchecks wie AFP Factuel, *Les Décodeurs* (*Le Monde*), *Vrai ou fake* (franceinfo) und *Les Décrypteurs* (Radio-Canada); Nachrichtenkanäle von Creators wie HugoDécrypte | Berichterstattung vergleichen, lateral prüfen, Faktenchecks lesen und selbst schreiben, über die Verantwortung der Medien diskutieren |
 
 - **Begriffe:** éducation aux médias et à l'information (EMI), actualité, source, infox, fausse information, désinformation, mésinformation, rumeur, théorie du complot, vérification des faits, recouper les sources, lecture latérale, recherche inversée d'images, deepfake, biais de confirmation, conditionnel journalistique (frz.); news literacy, media literacy, misinformation, disinformation, malinformation, fact-checking, lateral reading, civic online reasoning, prebunking, inoculation, debunking, deepfake (engl.)
-- **Abgrenzung:** Digitale Medien als Werkzeug und Gegenstand allgemein siehe G1, KI-Werkzeuge und KI-Kompetenz siehe G2, Film und Bildmedien siehe D3, Lesestile und Lesestrategien siehe B2, Hör-Sehverstehen siehe B1, Quellen zu Geschichte und Gedenken siehe D8. Nachrichtenkompetenz ist enger als Medienbildung: Sie betrifft Informationen über das Zeitgeschehen, ihre Herkunft und ihre Prüfung, nicht Mediennutzung und Mediengestaltung insgesamt.
+- **Abgrenzung:** Digitale Medien als Werkzeug und Gegenstand allgemein siehe G1, KI-Werkzeuge und KI-Kompetenz siehe G2, Film und Bildmedien siehe D3, Lesestile und Lesestrategien siehe B2, Hör-Sehverstehen siehe B1, Quellen zu Geschichte und Gedenken siehe D8, Hassrede und Gegenrede siehe D9. Nachrichtenkompetenz ist enger als Medienbildung: Sie betrifft Informationen über das Zeitgeschehen, ihre Herkunft und ihre Prüfung, nicht Mediennutzung und Mediengestaltung insgesamt.
 - **Tags:** #SekI #SekII #Abitur #Planung #TMK #IKK #kontrovers
 - **Stand:** Entwurf Claude mit eigener Recherche (November 2026)
 
@@ -122,7 +122,7 @@ Am besten belegt ist eine Strategie, die Profis anwenden: lateral lesen. Statt e
 
 ## Querverweise
 
-A8 Demokratiebildung und Nachhaltigkeit, B1 Hör- und Hör-Sehverstehen, B2 Leseverstehen, B4 Schreiben, B5 Sprachmittlung, C2 Grammatikvermittlung, D1 Inter- und transkulturelle Kompetenz, D3 Film und Bildmedien, D5 Frankophonie und Varietäten, D6 Austausch und Begegnung, D8 Erinnerungskultur und deutsch-französische Beziehungen, E4 Kooperatives Lernen und Unterrichtsgespräch, F4 Oberstufe und Abitur, G1 Digitale Medien, G2 Künstliche Intelligenz
+A8 Demokratiebildung und Nachhaltigkeit, B1 Hör- und Hör-Sehverstehen, B2 Leseverstehen, B4 Schreiben, B5 Sprachmittlung, C2 Grammatikvermittlung, D1 Inter- und transkulturelle Kompetenz, D3 Film und Bildmedien, D5 Frankophonie und Varietäten, D6 Austausch und Begegnung, D8 Erinnerungskultur und deutsch-französische Beziehungen, D9 Diversität und Repräsentation, E4 Kooperatives Lernen und Unterrichtsgespräch, F4 Oberstufe und Abitur, G1 Digitale Medien, G2 Künstliche Intelligenz
 
 ## Bibliografie
 

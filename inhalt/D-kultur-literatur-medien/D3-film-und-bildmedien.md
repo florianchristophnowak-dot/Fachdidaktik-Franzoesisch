@@ -12,7 +12,7 @@ Filme, Kurzfilme, Serien, Bilder, Karikaturen und BD verbinden Sprache mit visue
 | Ton und Musik | *la bande-son* | Welche Stimmung entsteht? |
 
 - **Begriffe:** plan, cadrage, plongée / contre-plongée, champ / contrechamp, montage, bande-son, sous-titres, court métrage, caricature, planche de BD (frz.); film literacy, visual literacy, multimodality, captions (engl.)
-- **Abgrenzung:** Hör-Sehverstehen als Fertigkeit siehe B1; Literaturverfilmungen und BD als Literatur siehe D2; digitale Werkzeuge siehe G1; Nachrichtensendungen und Desinformation siehe G4.
+- **Abgrenzung:** Hör-Sehverstehen als Fertigkeit siehe B1; Literaturverfilmungen und BD als Literatur siehe D2; digitale Werkzeuge siehe G1; Nachrichtensendungen und Desinformation siehe G4; Diversität, Repräsentation und Besetzung im Film siehe D9.
 - **Tags:** #TMK #IKK #SekI #SekII #Abitur
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober 2026)
 
@@ -89,7 +89,7 @@ Filme, Kurzfilme, Serien, Bilder, Karikaturen und BD verbinden Sprache mit visue
 
 ## Querverweise
 
-B1 Hör- und Hör-Sehverstehen, B3 Sprechen, D1 Inter- und transkulturelle Kompetenz, D2 Literatur, D7 Bande dessinée, F4 Oberstufe und Abitur, G1 Digitale Medien, G4 Nachrichten und Desinformation
+B1 Hör- und Hör-Sehverstehen, B3 Sprechen, D1 Inter- und transkulturelle Kompetenz, D2 Literatur, D7 Bande dessinée, D9 Diversität und Repräsentation, F4 Oberstufe und Abitur, G1 Digitale Medien, G4 Nachrichten und Desinformation
 
 ## Bibliografie
 
