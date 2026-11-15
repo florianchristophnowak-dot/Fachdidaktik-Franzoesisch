@@ -115,7 +115,7 @@ In der gymnasialen Oberstufe wird Französisch vom Lehrwerksfach zum Fach der Th
 
 ## Querverweise
 
-A1 Kompetenzorientierung, A3 Mehrsprachigkeitsdidaktik, A8 Demokratiebildung und Nachhaltigkeit, B1 Hör- und Hör-Sehverstehen, B3 Sprechen, B4 Schreiben, B5 Sprachmittlung, C1 Wortschatzarbeit, C2 Grammatikvermittlung, D2 Literatur, D3 Film und Bildmedien, D7 Bande dessinée, E1 Differenzierung und Inklusion, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, E7 Anfangsunterricht, F1 Leistungsfeststellung und Bewertung, F3 DELF scolaire und Zertifikate, G2 Künstliche Intelligenz, G4 Nachrichten und Desinformation, H1 Unterrichtsplanung, H5 Sprachenwahl und Fachprofil
+A1 Kompetenzorientierung, A3 Mehrsprachigkeitsdidaktik, A6 Bilingualer Sachfachunterricht, A8 Demokratiebildung und Nachhaltigkeit, B1 Hör- und Hör-Sehverstehen, B3 Sprechen, B4 Schreiben, B5 Sprachmittlung, C1 Wortschatzarbeit, C2 Grammatikvermittlung, D2 Literatur, D3 Film und Bildmedien, D7 Bande dessinée, E1 Differenzierung und Inklusion, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, E7 Anfangsunterricht, F1 Leistungsfeststellung und Bewertung, F3 DELF scolaire und Zertifikate, G2 Künstliche Intelligenz, G4 Nachrichten und Desinformation, H1 Unterrichtsplanung, H5 Sprachenwahl und Fachprofil
 
 ## Bibliografie
 

@@ -97,7 +97,7 @@ Leitfrage: "Welche Transferstrategie können Ihre Lernenden nächste Woche an ei
 
 ## Querverweise
 
-A4 Einsprachigkeit, B5 Sprachmittlung, C1 Wortschatzarbeit, D1 Inter- und transkulturelle Kompetenz
+A4 Einsprachigkeit, A6 Bilingualer Sachfachunterricht, B5 Sprachmittlung, C1 Wortschatzarbeit, D1 Inter- und transkulturelle Kompetenz
 
 ## Bibliografie
 

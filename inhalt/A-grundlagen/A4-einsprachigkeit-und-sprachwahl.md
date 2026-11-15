@@ -5,7 +5,7 @@
 Aufgeklärte Einsprachigkeit (Butzkamm) heißt: Französisch ist Regelsprache, andere Sprachen werden knapp, begründet und lernförderlich eingesetzt. "Alles auf Französisch" ist eher Ziel als Weg. Entscheidend ist nicht der Prozentanteil, sondern wie viel bedeutungsvolle französische Interaktion der Unterricht ermöglicht.
 
 - **Begriffe:** emploi de la langue cible, recours à la L1, alternance codique, translangage, langue de la classe, phrases utiles (frz.); target-language use, L1 use, code-switching, (pedagogical) translanguaging, teacher talk (engl.)
-- **Abgrenzung:** Code-Switching beschreibt den Wechsel zwischen Sprachen. Translanguaging meint die Nutzung des gesamten Repertoires; *pedagogical translanguaging* (Cenoz & Gorter) ist die geplante, didaktische Variante.
+- **Abgrenzung:** Code-Switching beschreibt den Wechsel zwischen Sprachen. Translanguaging meint die Nutzung des gesamten Repertoires; *pedagogical translanguaging* (Cenoz & Gorter) ist die geplante, didaktische Variante. Den geplanten Sprachwechsel im bilingualen Sachfachunterricht behandelt A6.
 - **Tags:** #Unterrichtsbesuch #Beratung #Anfangsunterricht #SekII #kontrovers
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober 2026)
 
@@ -87,7 +87,7 @@ Aufgeklärte Einsprachigkeit (Butzkamm) heißt: Französisch ist Regelsprache, a
 
 ## Querverweise
 
-A3 Mehrsprachigkeitsdidaktik, B3 Sprechen, C2 Grammatikvermittlung, E2 Fehlerkultur, E4 Unterrichtsgespräch
+A3 Mehrsprachigkeitsdidaktik, A6 Bilingualer Sachfachunterricht, B3 Sprechen, C2 Grammatikvermittlung, E2 Fehlerkultur, E4 Unterrichtsgespräch
 
 ## Bibliografie
 

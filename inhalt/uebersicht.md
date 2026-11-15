@@ -32,7 +32,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 
 ## Systematik
 
-46 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
+47 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
 
 | Kürzel | Eintrag | Bereich | Status |
 | --- | --- | --- | --- |
@@ -41,6 +41,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 | A3 | Mehrsprachigkeitsdidaktik | Grundlagen | Deep Research eingearbeitet |
 | A4 | Einsprachigkeit und Sprachwahl | Grundlagen | Deep Research eingearbeitet |
 | A5 | Motivation und Lernerautonomie | Grundlagen | Deep Research eingearbeitet |
+| A6 | Bilingualer Sachfachunterricht | Grundlagen | Entwurf Claude mit eigener Recherche |
 | A7 | Spracherwerb und Lernersprache | Grundlagen | Entwurf Claude mit eigener Recherche |
 | A8 | Demokratiebildung und Nachhaltigkeit | Grundlagen | Entwurf Claude mit eigener Recherche |
 | B1 | Hör- und Hör-Sehverstehen | Kommunikative Kompetenzen | Deep Research eingearbeitet |
@@ -85,11 +86,11 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 
 ## Vorschläge für neue Unterkapitel
 
-Dreizehn kleinere Themen wurden als Ergänzung der Systematik vorgeschlagen. Die Spalte Entscheidung legt fest, welche als eigene Einträge angelegt werden. Die zehn aufgenommenen Themen sind seit November 2026 eigene Einträge am Ende ihres Bereichs; bei allen ist Deep Research eingearbeitet.
+Dreizehn kleinere Themen wurden als Ergänzung der Systematik vorgeschlagen. Die Spalte Entscheidung legt fest, welche als eigene Einträge angelegt werden. Zehn aufgenommene Themen sind seit November 2026 eigene Einträge am Ende ihres Bereichs; bei allen ist Deep Research eingearbeitet. A6 kam im November 2026 als Entwurf mit eigener Recherche hinzu und steht an seinem Platz zwischen A5 und A7.
 
 | Vorschlag | Worum es geht | Warum es sich lohnt | Entscheidung |
 | --- | --- | --- | --- |
-| A6 Bilingualer Sachfachunterricht | Sachfächer wie Geschichte oder Geografie auf Französisch (EMILE/CLIL), AbiBac | Eigenes didaktisches Feld mit eigenen Methoden und guter Forschungslage |  |
+| A6 Bilingualer Sachfachunterricht | Sachfächer wie Geschichte oder Geografie auf Französisch (EMILE/CLIL), AbiBac | Eigenes didaktisches Feld mit eigenen Methoden und guter Forschungslage | Aufnehmen |
 | C4 Orthografie | Stumme Endungen, Akzente, Angleichungen, Diktatformen wie die *dictée négociée* | Typische Fehlerquelle im Französischen, bisher nur am Rand von C1 und E2 |  |
 | D4 Chansons, Musik und Slam | Lieder für Aussprache, Wortschatz und Landeskunde, aktuelle frankophone Musik, Slam als Textsorte | Starker Motivationsanlass mit eigener Didaktik neben D2 und D3 | Aufnehmen |
 | D5 Frankophonie und Varietäten | Französisch in Québec, Westafrika, Belgien und der Schweiz; Norm und Variation; Jugendsprache und Verlan | Weitet das Frankreichbild und schult das Verstehen realer Sprache | Aufnehmen |
