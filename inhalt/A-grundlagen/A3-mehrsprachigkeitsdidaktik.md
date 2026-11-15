@@ -37,7 +37,7 @@ Mehrsprachigkeitsdidaktik nutzt die Sprachen, die Lernende schon mitbringen, sys
 
 **Sek II**
 
-- Mehrsprachige Text- und Diskursarbeit: Wie werden *laïcité*, *banlieue* oder *francophonie* in französischen, englischen und deutschen Medien gerahmt?
+- Mehrsprachige Text- und Diskursarbeit: Wie werden *laïcité*, *banlieue* oder *francophonie* in französischen, englischen und deutschen Medien gerahmt (siehe D9)?
 - Sprachmittlung mit mehrsprachigen Ausgangsmaterialien (siehe B5).
 
 ## Best Practice Französisch
@@ -97,7 +97,7 @@ Leitfrage: "Welche Transferstrategie können Ihre Lernenden nächste Woche an ei
 
 ## Querverweise
 
-A4 Einsprachigkeit, B5 Sprachmittlung, C1 Wortschatzarbeit, D1 Inter- und transkulturelle Kompetenz
+A4 Einsprachigkeit, A6 Bilingualer Sachfachunterricht, B5 Sprachmittlung, C1 Wortschatzarbeit, D1 Inter- und transkulturelle Kompetenz, D9 Diversität und Repräsentation
 
 ## Bibliografie
 

@@ -12,7 +12,7 @@ Filme, Kurzfilme, Serien, Bilder, Karikaturen und BD verbinden Sprache mit visue
 | Ton und Musik | *la bande-son* | Welche Stimmung entsteht? |
 
 - **Begriffe:** plan, cadrage, plongée / contre-plongée, champ / contrechamp, montage, bande-son, sous-titres, court métrage, caricature, planche de BD (frz.); film literacy, visual literacy, multimodality, captions (engl.)
-- **Abgrenzung:** Hör-Sehverstehen als Fertigkeit siehe B1; Literaturverfilmungen und BD als Literatur siehe D2; digitale Werkzeuge siehe G1.
+- **Abgrenzung:** Hör-Sehverstehen als Fertigkeit siehe B1; Literaturverfilmungen und BD als Literatur siehe D2; digitale Werkzeuge siehe G1; Nachrichtensendungen und Desinformation siehe G4; Diversität, Repräsentation und Besetzung im Film siehe D9.
 - **Tags:** #TMK #IKK #SekI #SekII #Abitur
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober 2026)
 
@@ -77,7 +77,7 @@ Filme, Kurzfilme, Serien, Bilder, Karikaturen und BD verbinden Sprache mit visue
 - **KMK 2023:** Hör-Sehverstehen als Teil der funktional kommunikativen Kompetenz; Text- und Medienkompetenz als eigener Kompetenzbereich; digitale Kompetenzen sind mit allen Bereichen verknüpft.
 - **KMK 2012 Abitur:** Hör-Sehverstehen und ein erweiterter Textbegriff, der auch Filme einschließt.
 - **GeR-Begleitband 2020:** Skala zum Verstehen von Fernsehen, Film und Video.
-- **Thüringen:** Filme gehören im Lehrplan Französisch 2026 zum audiovisuellen Verstehen (Abschnitt 1.3.2) und zur Text- und Medienkompetenz; das Themenfeld Kunst und Kultur nennt Film sowie Figuren aus Literatur und Film, einschließlich *bandes dessinées* und *dessins animés* (Abschnitt 3.5.1). Für Medienbildung insgesamt verweist er auf den Rahmenplan Medienkompetenzen in einer Kultur der Digitalität (siehe G1). Verbindliche Filme für das Abitur in den aktuellen Festlegungen prüfen.
+- **Thüringen:** Filme gehören im Lehrplan Französisch 2026 zum audiovisuellen Verstehen (Abschnitt 1.3.2) und zur Text- und Medienkompetenz; das Themenfeld Kunst und Kultur nennt Film sowie Figuren aus Literatur und Film, einschließlich *bandes dessinées* und *dessins animés* (Abschnitt 3.5.1). Für Medienbildung insgesamt verweist er auf den Rahmenplan Medienkompetenzen in einer Kultur der Digitalität (siehe G1). Für das Abitur legt das Ministerium Themenfelder fest (siehe F4); ob einzelne Filme verbindlich sind, in den aktuellen Festlegungen prüfen.
 
 ## Forschungslage
 
@@ -89,7 +89,7 @@ Filme, Kurzfilme, Serien, Bilder, Karikaturen und BD verbinden Sprache mit visue
 
 ## Querverweise
 
-B1 Hör- und Hör-Sehverstehen, B3 Sprechen, D1 Inter- und transkulturelle Kompetenz, D2 Literatur, D7 Bande dessinée, G1 Digitale Medien
+B1 Hör- und Hör-Sehverstehen, B3 Sprechen, D1 Inter- und transkulturelle Kompetenz, D2 Literatur, D7 Bande dessinée, D9 Diversität und Repräsentation, F4 Oberstufe und Abitur, G1 Digitale Medien, G4 Nachrichten und Desinformation
 
 ## Bibliografie
 

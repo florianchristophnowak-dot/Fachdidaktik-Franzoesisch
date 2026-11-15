@@ -13,7 +13,7 @@ Grammatik hat im kompetenzorientierten Unterricht dienende Funktion: Sie hilft, 
 | Processing Instruction | Input so gestalten, dass die Form für das Verstehen nötig ist (VanPatten) |
 
 - **Begriffe:** grammaire inductive / déductive, démarche de découverte, conceptualisation, grammaire fonctionnelle (frz.); focus on form, focus on forms, noticing, explicit / implicit instruction, processability (engl.)
-- **Abgrenzung:** Korrektur von Grammatikfehlern siehe E2, Grammatik in Lernaufgaben siehe A2.
+- **Abgrenzung:** Korrektur von Grammatikfehlern siehe E2, Grammatik in Lernaufgaben siehe A2, Erwerbsreihenfolgen und Lernersprache siehe A7.
 - **Tags:** #SB #Planung #Unterrichtsbesuch #kontrovers
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober 2026)
 
@@ -33,7 +33,7 @@ Grammatik hat im kompetenzorientierten Unterricht dienende Funktion: Sie hilft, 
 - **Übungen gestuft:** vom Erkennen über gelenktes Üben zur freien Verwendung. Kurze Übungen mit Sinn statt langer Drills.
 - **Zurück in die Kommunikation:** Die Struktur muss in einer Aufgabe gebraucht werden (siehe A2).
 - **Visualisieren:** Zeitstrahl für *passé composé* und *imparfait*, Stellungstabellen für Pronomen, Farben für Genus und Angleichung.
-- **Typische Problemfelder im Französischen:** *passé composé / imparfait*, Objektpronomen und ihre Stellung (auch *y* und *en*), *subjonctif*, Teilungsartikel, Angleichung des *participe passé*. Kontraste zu Deutsch und Englisch nutzen, aber Scheinparallelen klären: Das *imparfait* ist nicht einfach das deutsche Präteritum.
+- **Typische Problemfelder im Französischen:** *passé composé / imparfait*, Objektpronomen und ihre Stellung (auch *y* und *en*), *subjonctif*, Teilungsartikel, Angleichung des *participe passé* (zur Schreibung der Kongruenzen siehe C4). Kontraste zu Deutsch und Englisch nutzen, aber Scheinparallelen klären: Das *imparfait* ist nicht einfach das deutsche Präteritum.
 - **Sek I:** Bildergeschichten, Dialoge, Stationen und Spiele; vor neuen Strukturen die Vorkenntnisse prüfen (siehe F2).
 - **Sek II:** mehr Metasprache und Selbsterklärung, etwa eine *conférence de grammaire*, in der Lernende sich gegenseitig eine Struktur erklären; Formfokus nach kommunikativen Phasen.
 - **Wiederaufgreifen:** Grammatik spiralförmig in neuen Kontexten wiederholen.
@@ -91,7 +91,7 @@ Grammatik hat im kompetenzorientierten Unterricht dienende Funktion: Sie hilft, 
 
 ## Querverweise
 
-A1 Kompetenzorientierung, A2 Aufgabenorientierung und Lernaufgaben, A4 Einsprachigkeit und Sprachwahl, C1 Wortschatzarbeit, E2 Fehlerkultur und Korrektur, E8 Üben und Wiederholen, F2 Diagnose
+A1 Kompetenzorientierung, A2 Aufgabenorientierung und Lernaufgaben, A4 Einsprachigkeit und Sprachwahl, A7 Spracherwerb und Lernersprache, C1 Wortschatzarbeit, C4 Orthografie, E2 Fehlerkultur und Korrektur, E8 Üben und Wiederholen, F2 Diagnose
 
 ## Bibliografie
 

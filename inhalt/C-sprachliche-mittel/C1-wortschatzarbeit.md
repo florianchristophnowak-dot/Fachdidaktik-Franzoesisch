@@ -11,7 +11,7 @@ Wortschatz ist die Grundlage aller Kompetenzen: Ohne Wörter kein Verstehen und 
 | Gebrauch | *aller à la plage, sur la plage*; neutrales Register |
 
 - **Begriffe:** lexique, vocabulaire, lexique mental, collocations, blocs lexicaux, révision espacée (frz.); vocabulary breadth and depth, mental lexicon, chunks, collocations, spaced repetition, retrieval practice, incidental vs. intentional learning (engl.)
-- **Abgrenzung:** Wortschatzarbeit umfasst Einführung (Semantisierung), Festigung (Üben, Wiederholen) und Anwendung in Aufgaben. Vokabeltests sind ein Teil davon, nicht das Ganze.
+- **Abgrenzung:** Wortschatzarbeit umfasst Einführung (Semantisierung), Festigung (Üben, Wiederholen) und Anwendung in Aufgaben. Vokabeltests sind ein Teil davon, nicht das Ganze. Die Schreibung von Wörtern behandelt C4.
 - **Tags:** #SB #SLK #Anfangsunterricht #SekI #empirischGut
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober 2026)
 
@@ -75,7 +75,7 @@ Wortschatz ist die Grundlage aller Kompetenzen: Ohne Wörter kein Verstehen und 
 - **KMK 2023:** sprachliche Mittel, darunter Wortschatz, im Dienst der funktional kommunikativen Kompetenz; Sprachlernkompetenz mit Lernstrategien als eigener Kompetenzbereich.
 - **KMK 2012 Abitur:** Verfügen über sprachliche Mittel als Teil der funktionalen kommunikativen Kompetenz.
 - **GeR-Begleitband 2020:** Skalen zum Wortschatzspektrum und zur Wortschatzbeherrschung.
-- **Thüringen:** Der Lehrplan Französisch 2026 verfolgt eine lexikogrammatische Perspektive: Wortschatz und Grammatik werden im funktionalen Zusammenhang erworben, mit Kollokationen, Phrasemen und produktiv erweiterbaren Mustern. Im Mittelpunkt steht nicht die Zahl erlernter Wörter, sondern der sichere und flexible Gebrauch häufiger lexikogrammatischer Einheiten; Strategien zu ihrer Vernetzung, Speicherung und Anwendung, auch sprachenübergreifend, werden systematisch gefördert (Abschnitt 3.5.2). Welche Wörterbücher im Abitur erlaubt sind, in den Abiturfestlegungen prüfen.
+- **Thüringen:** Der Lehrplan Französisch 2026 verfolgt eine lexikogrammatische Perspektive: Wortschatz und Grammatik werden im funktionalen Zusammenhang erworben, mit Kollokationen, Phrasemen und produktiv erweiterbaren Mustern. Im Mittelpunkt steht nicht die Zahl erlernter Wörter, sondern der sichere und flexible Gebrauch häufiger lexikogrammatischer Einheiten; Strategien zu ihrer Vernetzung, Speicherung und Anwendung, auch sprachenübergreifend, werden systematisch gefördert (Abschnitt 3.5.2). Der Abituraufgabenpool sieht ein einsprachiges und ein zweisprachiges Wörterbuch vor; welche in Thüringen zugelassen sind, steht in den jährlichen Hinweisen des Ministeriums (siehe F4).
 
 ## Forschungslage
 
@@ -88,7 +88,7 @@ Wortschatz ist die Grundlage aller Kompetenzen: Ohne Wörter kein Verstehen und 
 
 ## Querverweise
 
-A3 Mehrsprachigkeitsdidaktik, B2 Leseverstehen, C2 Grammatikvermittlung, C3 Aussprache und Intonation, E6 Gamification und Lernspiele, E8 Üben und Wiederholen, F2 Diagnose, G1 Digitale Medien
+A3 Mehrsprachigkeitsdidaktik, B2 Leseverstehen, C2 Grammatikvermittlung, C3 Aussprache und Intonation, C4 Orthografie, E6 Gamification und Lernspiele, E8 Üben und Wiederholen, F2 Diagnose, F4 Oberstufe und Abitur, G1 Digitale Medien
 
 ## Bibliografie
 

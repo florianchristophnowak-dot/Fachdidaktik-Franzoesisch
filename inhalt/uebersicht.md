@@ -8,7 +8,7 @@ Diese Enzyklopädie bündelt für die Französisch-Fachleitung zentrale Themen d
 
 - **Aufbau:** Diese Datei erklärt Vorlage, Systematik und Tags. Jeder Bereich (A bis H) hat einen eigenen Ordner mit einer Datei je Eintrag.
 - **Bundesland:** Landesbezüge gelten für **Thüringen**: Lehrplan für das Gymnasium Französisch 2026 in der Erprobungsfassung, Thüringer Schulordnung und Vorbereitungsdienst nach ThürAZStPLVO. Sie stehen in jedem Eintrag unter Bezüge. Der Lehrplan tritt gestaffelt in Kraft (2026/27 für die Klassenstufen 6, 7, 11 und 12, danach jährlich für 8, 9 und 10 bis 2029/30); die Enzyklopädie legt ihn schon jetzt für alle Bereiche und Klassenstufen zugrunde. Abschnittsangaben beziehen sich, wo nicht anders vermerkt, auf Französisch als zweite Fremdsprache (Kapitel 3); die Kapitel zum bilingualen Zug und zur Oberstufe sind parallel aufgebaut. Was sich nicht am Originaltext prüfen ließ, etwa Abiturformate oder die neueste Lesefassung der ThürSchulO, ist mit *prüfen* gekennzeichnet.
-- **Bibliografie:** Quellen aus den Deep-Research-Berichten werden vor der Übernahme per Websuche geprüft. Was sich nicht bestätigen ließ, steht mit dem Vermerk "nicht verifiziert" da. Einträge ohne Deep Research beruhen auf Fachwissen und sind noch nicht einzeln geprüft.
+- **Bibliografie:** Quellen aus den Deep-Research-Berichten werden vor der Übernahme per Websuche geprüft. Was sich nicht bestätigen ließ, steht mit dem Vermerk "nicht verifiziert" da. Einträge ohne Deep Research beruhen auf Fachwissen und sind noch nicht einzeln geprüft. Einträge mit dem Stand „Entwurf Claude mit eigener Recherche“ hat Claude ohne Deep-Research-Bericht selbst recherchiert; am Ende jedes dieser Einträge steht, welche Quellen einzeln geprüft wurden.
 - **Deep Research:** Ergebnisse aus ChatGPT werden pro Eintrag eingearbeitet. Der Status in der Systematik zeigt, wo das schon geschehen ist.
 - **Eigene Ergänzungen:** Direkt in der Datei auf GitHub ändern (auf der Website über „Auf GitHub bearbeiten“) oder Claude damit beauftragen. Gute Beispiele aus Unterrichtsbesuchen lassen sich unter "Best Practice" anhängen.
 
@@ -32,7 +32,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 
 ## Systematik
 
-40 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
+49 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
 
 | Kürzel | Eintrag | Bereich | Status |
 | --- | --- | --- | --- |
@@ -41,6 +41,9 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 | A3 | Mehrsprachigkeitsdidaktik | Grundlagen | Deep Research eingearbeitet |
 | A4 | Einsprachigkeit und Sprachwahl | Grundlagen | Deep Research eingearbeitet |
 | A5 | Motivation und Lernerautonomie | Grundlagen | Deep Research eingearbeitet |
+| A6 | Bilingualer Sachfachunterricht | Grundlagen | Entwurf Claude mit eigener Recherche |
+| A7 | Spracherwerb und Lernersprache | Grundlagen | Entwurf Claude mit eigener Recherche |
+| A8 | Demokratiebildung und Nachhaltigkeit | Grundlagen | Entwurf Claude mit eigener Recherche |
 | B1 | Hör- und Hör-Sehverstehen | Kommunikative Kompetenzen | Deep Research eingearbeitet |
 | B2 | Leseverstehen | Kommunikative Kompetenzen | Deep Research eingearbeitet |
 | B3 | Sprechen | Kommunikative Kompetenzen | Deep Research eingearbeitet |
@@ -49,6 +52,8 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 | C1 | Wortschatzarbeit | Sprachliche Mittel | Deep Research eingearbeitet |
 | C2 | Grammatikvermittlung | Sprachliche Mittel | Deep Research eingearbeitet |
 | C3 | Aussprache und Intonation | Sprachliche Mittel | Deep Research eingearbeitet |
+| C4 | Orthografie | Sprachliche Mittel | Entwurf Claude mit eigener Recherche |
+| C5 | Pragmatik und Gesprächsstrategien | Sprachliche Mittel | Entwurf Claude mit eigener Recherche |
 | D1 | Inter- und transkulturelle Kompetenz | Kultur, Literatur, Medien | Deep Research eingearbeitet |
 | D2 | Literatur | Kultur, Literatur, Medien | Deep Research eingearbeitet |
 | D3 | Film und Bildmedien | Kultur, Literatur, Medien | Deep Research eingearbeitet |
@@ -56,6 +61,8 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 | D5 | Frankophonie und Varietäten | Kultur, Literatur, Medien | Deep Research eingearbeitet |
 | D6 | Austausch und Begegnung | Kultur, Literatur, Medien | Deep Research eingearbeitet |
 | D7 | Bande dessinée | Kultur, Literatur, Medien | Deep Research eingearbeitet |
+| D8 | Erinnerungskultur und deutsch-französische Beziehungen | Kultur, Literatur, Medien | Entwurf Claude mit eigener Recherche |
+| D9 | Diversität und Repräsentation | Kultur, Literatur, Medien | Entwurf Claude mit eigener Recherche |
 | E1 | Differenzierung und Inklusion | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | E2 | Fehlerkultur und Korrektur | Methoden und Lernprozesse | Deep Research eingearbeitet |
 | E3 | Feedback und Lernbegleitung | Methoden und Lernprozesse | Deep Research eingearbeitet |
@@ -71,20 +78,22 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 | F4 | Oberstufe und Abitur | Leistung | Entwurf Claude mit eigener Recherche |
 | G1 | Digitale Medien | Digitalität | Deep Research eingearbeitet |
 | G2 | Künstliche Intelligenz | Digitalität | Deep Research eingearbeitet |
+| G4 | Nachrichten und Desinformation | Digitalität | Entwurf Claude mit eigener Recherche |
 | H1 | Unterrichtsplanung | Professionalisierung | Deep Research eingearbeitet |
 | H2 | Unterrichtsqualität und Beobachtung | Professionalisierung | Deep Research eingearbeitet |
 | H3 | Beratung und Nachbesprechung | Professionalisierung | Deep Research eingearbeitet |
 | H4 | Professionelle Identität | Professionalisierung | Deep Research eingearbeitet |
 | H5 | Sprachenwahl und Fachprofil | Professionalisierung | Deep Research eingearbeitet |
+| H6 | Fachseminardidaktik | Professionalisierung | Entwurf Claude mit eigener Recherche |
 
 ## Vorschläge für neue Unterkapitel
 
-Dreizehn kleinere Themen wurden als Ergänzung der Systematik vorgeschlagen. Die Spalte Entscheidung legt fest, welche als eigene Einträge angelegt werden. Die zehn aufgenommenen Themen sind seit November 2026 eigene Einträge am Ende ihres Bereichs; bei allen ist Deep Research eingearbeitet.
+Dreizehn kleinere Themen wurden als Ergänzung der Systematik vorgeschlagen. Die Spalte Entscheidung legt fest, welche als eigene Einträge angelegt werden. Zehn aufgenommene Themen sind seit November 2026 eigene Einträge am Ende ihres Bereichs; bei allen ist Deep Research eingearbeitet. A6 und C4 kamen im November 2026 als Entwürfe mit eigener Recherche hinzu und stehen an ihrem Platz, A6 zwischen A5 und A7, C4 zwischen C3 und C5.
 
 | Vorschlag | Worum es geht | Warum es sich lohnt | Entscheidung |
 | --- | --- | --- | --- |
-| A6 Bilingualer Sachfachunterricht | Sachfächer wie Geschichte oder Geografie auf Französisch (EMILE/CLIL), AbiBac | Eigenes didaktisches Feld mit eigenen Methoden und guter Forschungslage |  |
-| C4 Orthografie | Stumme Endungen, Akzente, Angleichungen, Diktatformen wie die *dictée négociée* | Typische Fehlerquelle im Französischen, bisher nur am Rand von C1 und E2 |  |
+| A6 Bilingualer Sachfachunterricht | Sachfächer wie Geschichte oder Geografie auf Französisch (EMILE/CLIL), AbiBac | Eigenes didaktisches Feld mit eigenen Methoden und guter Forschungslage | Aufnehmen |
+| C4 Orthografie | Stumme Endungen, Akzente, Angleichungen, Diktatformen wie die *dictée négociée* | Typische Fehlerquelle im Französischen, bisher nur am Rand von C1 und E2 | Aufnehmen |
 | D4 Chansons, Musik und Slam | Lieder für Aussprache, Wortschatz und Landeskunde, aktuelle frankophone Musik, Slam als Textsorte | Starker Motivationsanlass mit eigener Didaktik neben D2 und D3 | Aufnehmen |
 | D5 Frankophonie und Varietäten | Französisch in Québec, Westafrika, Belgien und der Schweiz; Norm und Variation; Jugendsprache und Verlan | Weitet das Frankreichbild und schult das Verstehen realer Sprache | Aufnehmen |
 | D6 Austausch und Begegnung | Schüleraustausch, Programme des Deutsch-Französischen Jugendwerks (Brigitte Sauzay, Voltaire), eTwinning, virtueller Austausch, FranceMobil | Echte Kommunikationsanlässe; viele Förderprogramme sind wenig bekannt | Aufnehmen |

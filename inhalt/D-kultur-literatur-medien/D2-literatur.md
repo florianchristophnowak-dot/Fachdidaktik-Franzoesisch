@@ -76,7 +76,7 @@ Literarische Texte sind im Französischunterricht mehr als Sprechanlass: Sie erm
 - **KMK 2023:** Text- und Medienkompetenz als eigener Kompetenzbereich, in dem sich literarisches Lernen verorten lässt; dazu Interkulturelle Kompetenz.
 - **KMK 2012 Abitur:** Umgang mit literarischen und nicht-literarischen Texten im Bereich Text- und Medienkompetenz.
 - **GeR-Begleitband 2020:** neue Skalen in der Mediation zur persönlichen Reaktion auf kreative Texte, einschließlich Literatur, sowie zu ihrer Analyse und Kritik.
-- **Thüringen:** Literatur gehört im Lehrplan Französisch 2026 zur Text- und Medienkompetenz, verbunden mit literarisch-ästhetischer Kompetenz; ihre Ziele sind vorrangig in die Methodenkompetenz integriert (Abschnitt 1.3.1). Kapitel 1 hebt die kontinuierliche Beschäftigung mit französischer und frankophoner Literatur als Beitrag zum interkulturellen Lernen hervor; in Klassenstufe 10 sollen literarische Texte szenisch gestaltet werden (Abschnitt 3.4.3), und in der Qualifikationsphase kommen ausgewählte Auszüge und Ganzschriften hinzu (Abschnitt 5.2). Ob es für das Abitur verbindliche Lektüren oder Schwerpunkte gibt, in den aktuellen Festlegungen des Ministeriums prüfen.
+- **Thüringen:** Literatur gehört im Lehrplan Französisch 2026 zur Text- und Medienkompetenz, verbunden mit literarisch-ästhetischer Kompetenz; ihre Ziele sind vorrangig in die Methodenkompetenz integriert (Abschnitt 1.3.1). Kapitel 1 hebt die kontinuierliche Beschäftigung mit französischer und frankophoner Literatur als Beitrag zum interkulturellen Lernen hervor; in Klassenstufe 10 sollen literarische Texte szenisch gestaltet werden (Abschnitt 3.4.3), und in der Qualifikationsphase kommen ausgewählte Auszüge und Ganzschriften hinzu (Abschnitt 5.2). Für das Abitur legt das Ministerium Themenfelder fest, die in der Regel drei Jahre gelten (siehe F4); ob einzelne Lektüren verbindlich sind, in den aktuellen Festlegungen prüfen.
 
 ## Forschungslage
 
@@ -87,7 +87,7 @@ Literarische Texte sind im Französischunterricht mehr als Sprechanlass: Sie erm
 
 ## Querverweise
 
-A1 Kompetenzorientierung, B2 Leseverstehen, B4 Schreiben, D1 Inter- und transkulturelle Kompetenz, D3 Film und Bildmedien, D7 Bande dessinée, E9 Szenisches Lernen und Theater, F1 Leistungsfeststellung und Bewertung
+A1 Kompetenzorientierung, B2 Leseverstehen, B4 Schreiben, D1 Inter- und transkulturelle Kompetenz, D3 Film und Bildmedien, D7 Bande dessinée, E9 Szenisches Lernen und Theater, F1 Leistungsfeststellung und Bewertung, F4 Oberstufe und Abitur
 
 ## Bibliografie
 

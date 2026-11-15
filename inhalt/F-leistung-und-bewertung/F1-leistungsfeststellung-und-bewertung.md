@@ -21,7 +21,7 @@ Leistungsfeststellung prüft, was Lernende mit der Sprache tun können, und mün
 2. Lern- und Leistungssituationen klar trennen. Wer im Unterricht ständig bewertet wird, probiert nichts mehr aus.
 3. Kriterien vorher offenlegen und mit Beispielen veranschaulichen. Dann ist Bewertung nachvollziehbar und lernwirksam.
 4. Bewerten ist Urteilen, nicht Messen. Erwartungshorizonte, Raster und Korrekturabsprachen im Fachkollegium machen Urteile fairer.
-5. Bewertet wird die kommunikative Leistung insgesamt: Inhalt, Textgestaltung, Ausdruck und Richtigkeit, nicht nur die Zahl der Fehler.
+5. Bewertet wird die kommunikative Leistung insgesamt: Inhalt, Textgestaltung, Ausdruck und Richtigkeit, nicht nur die Zahl der Fehler (zur Rechtschreibung siehe C4).
 
 ## Handlungshinweise
 
@@ -34,7 +34,7 @@ Leistungsfeststellung prüft, was Lernende mit der Sprache tun können, und mün
 - Mündliche Leistungen gezielt erheben: Präsentationen, Rollenspiele, Paarprüfungen statt nur Meldehäufigkeit.
 - Hilfsmittel schrittweise einführen: Wörterbucharbeit üben, bevor das Wörterbuch in Klausuren zugelassen ist.
 - Nachteilsausgleich beachten: Zeitverlängerung oder technische Hilfen ändern die Bedingungen, nicht die Anforderungen.
-- **Sek II:** Abiturformate früh anbahnen. Welche Teile die schriftliche Abiturprüfung Französisch in Thüringen hat und ob Aufgaben aus dem gemeinsamen IQB-Pool genutzt werden, in den aktuellen Festlegungen prüfen (siehe B1, B5).
+- **Sek II:** Abiturformate früh anbahnen. Die schriftliche Abiturprüfung Französisch in Thüringen hat drei Teile, Hörverstehen, Schreiben und Sprachmittlung, mit Aufgaben aus dem gemeinsamen Pool der Länder (siehe F4, B1, B5).
 
 ## Best Practice Französisch
 
@@ -91,7 +91,7 @@ Leistungsfeststellung prüft, was Lernende mit der Sprache tun können, und mün
 
 ## Querverweise
 
-A1 Kompetenzorientierung, B3 Sprechen, B4 Schreiben, B5 Sprachmittlung, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, F2 Diagnose, F3 DELF scolaire und Zertifikate, G2 Künstliche Intelligenz
+A1 Kompetenzorientierung, B3 Sprechen, B4 Schreiben, B5 Sprachmittlung, C4 Orthografie, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, F2 Diagnose, F3 DELF scolaire und Zertifikate, F4 Oberstufe und Abitur, G2 Künstliche Intelligenz
 
 ## Bibliografie
 

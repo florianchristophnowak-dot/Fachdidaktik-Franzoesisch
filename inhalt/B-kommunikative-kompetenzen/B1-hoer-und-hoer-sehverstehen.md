@@ -38,7 +38,7 @@ Hörverstehen ist aktive Bedeutungskonstruktion unter Zeitdruck. Lernende verbin
 
 **Sek II**
 
-- Längere authentische Formate systematisch aufbauen: Nachrichten, Interviews, Reportagen, Podcasts, Debatten, Kurzfilme.
+- Längere authentische Formate systematisch aufbauen: Nachrichten, Interviews, Reportagen, Podcasts, Debatten, Kurzfilme. Zur Arbeit mit Nachrichten und ihrer Prüfung siehe G4.
 - Hörabsicht variieren: global, selektiv, detailliert, Sprecherhaltung, implizite Bedeutung, Argumentationsstruktur. Derselbe Text erzeugt mit anderer Aufgabe andere Anforderungen.
 - Video in Kanäle zerlegen: erst Standbild oder stumm (Hypothesen), dann nur Ton, dann vollständig. So wird sichtbar, welche Information aus welcher Quelle stammt.
 - Hörnotizen für Sprachmittlung und Diskussion nutzen (siehe B5). Frankophone Varietäten als Normalfall behandeln, nicht als "schweren Akzent".
@@ -88,7 +88,7 @@ Hörverstehen ist aktive Bedeutungskonstruktion unter Zeitdruck. Lernende verbin
 - **KMK 2023:** Hörverstehen und audiovisuelles Verstehen als Teil der Rezeption. Für den MSA (im Wesentlichen B1) unter anderem: Thema und Hauptpunkte längerer Gespräche verstehen, in Vorträgen Hauptpunkte von Details unterscheiden, Vorhersagen treffen und beim Hören anpassen, vertraute (digitale) Hilfsmittel selbstständig nutzen. Für Französisch als zweite Fremdsprache ist das Referenzrahmen, keine Jahrgangsnorm.
 - **KMK 2012 Abitur:** weiterhin gültig.
 - **GeR-Begleitband 2020:** eigene Skalen für *oral comprehension*, *audio-visual comprehension* und Rezeptionsstrategien. Schwierigkeit hängt nicht nur an der Textlänge, sondern auch an Situation, Informationsdichte und Vorhersagbarkeit.
-- **Thüringen:** Hörverstehen und audiovisuelles Verstehen bilden im Lehrplan Französisch 2026 einen Lernbereich unter Texte rezipieren; audiovisuelles Verstehen schließt die Deutung von Mimik, Gestik und Bildern sowie das Lesen von Untertiteln ein (Abschnitt 1.3.2). Bewertet wird vor allem die Rezeptionsleistung, auch wenn das Verstandene auf Französisch dargestellt wird (Abschnitt 7.2). Ob und in welcher Form Hörverstehen im Thüringer Abitur geprüft wird, in den aktuellen Festlegungen zur Abiturprüfung prüfen.
+- **Thüringen:** Hörverstehen und audiovisuelles Verstehen bilden im Lehrplan Französisch 2026 einen Lernbereich unter Texte rezipieren; audiovisuelles Verstehen schließt die Deutung von Mimik, Gestik und Bildern sowie das Lesen von Untertiteln ein (Abschnitt 1.3.2). Bewertet wird vor allem die Rezeptionsleistung, auch wenn das Verstandene auf Französisch dargestellt wird (Abschnitt 7.2). Im Thüringer Abitur ist Hörverstehen Teil A der schriftlichen Prüfung, mit Aufgaben aus dem gemeinsamen Pool der Länder (siehe F4).
 
 ## Forschungslage
 
@@ -101,7 +101,7 @@ Hörverstehen ist aktive Bedeutungskonstruktion unter Zeitdruck. Lernende verbin
 
 ## Querverweise
 
-A4 Einsprachigkeit und Sprachwahl, B2 Leseverstehen, B5 Sprachmittlung, C3 Aussprache und Intonation, D3 Film und Bildmedien, F1 Leistungsfeststellung und Bewertung
+A4 Einsprachigkeit und Sprachwahl, B2 Leseverstehen, B5 Sprachmittlung, C3 Aussprache und Intonation, D3 Film und Bildmedien, F1 Leistungsfeststellung und Bewertung, F4 Oberstufe und Abitur, G4 Nachrichten und Desinformation
 
 ## Bibliografie
 

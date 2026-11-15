@@ -13,7 +13,7 @@ Lieder, Musikvideos, Rap und Slam sind kurze, authentische und emotional wirksam
 | Kinderlied, Abzählreim | *la comptine* | Anfangsunterricht, Laute, Zahlen und Rituale |
 
 - **Begriffe:** chanson, refrain, couplet, paroles, clip, rap, slam, scène ouverte, mise en voix, rime, comptine (frz.); song-based learning, lyrics, music video, spoken word (engl.)
-- **Abgrenzung:** Hör-Sehverstehen siehe B1, Gedichte als Literatur siehe D2, Musikvideos und Filmsprache siehe D3, Aussprache siehe C3, Frankophonie und Varietäten siehe D5.
+- **Abgrenzung:** Hör-Sehverstehen siehe B1, Gedichte als Literatur siehe D2, Musikvideos und Filmsprache siehe D3, Aussprache siehe C3, Frankophonie und Varietäten siehe D5, abwertende Sprache in Raptexten siehe D9.
 - **Tags:** #TMK #IKK #FKK #SekI #SekII #Praxiswissen
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (November 2026)
 
@@ -125,7 +125,7 @@ Lieder, Musikvideos, Rap und Slam sind kurze, authentische und emotional wirksam
 
 ## Querverweise
 
-B1 Hör- und Hör-Sehverstehen, B4 Schreiben, C1 Wortschatzarbeit, C3 Aussprache und Intonation, D2 Literatur, D3 Film und Bildmedien, D5 Frankophonie und Varietäten, E7 Anfangsunterricht, E9 Szenisches Lernen und Theater
+B1 Hör- und Hör-Sehverstehen, B4 Schreiben, C1 Wortschatzarbeit, C3 Aussprache und Intonation, D2 Literatur, D3 Film und Bildmedien, D5 Frankophonie und Varietäten, D9 Diversität und Repräsentation, E7 Anfangsunterricht, E9 Szenisches Lernen und Theater
 
 ## Bibliografie
 

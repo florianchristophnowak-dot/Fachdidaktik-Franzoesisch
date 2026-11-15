@@ -84,7 +84,7 @@ Sprachmittlung heißt, Inhalte situations- und adressatengerecht von einer Sprac
 - **KMK 2023:** "Mediation / Sprachmittlung" als Teil der funktionalen kommunikativen Kompetenz. Mediation gilt als interaktiver Prozess, der Kommunikation, Verständnis und Kooperation ermöglicht; Sprachmittlung umfasst dessen sprachliche Prozesse.
 - **KMK 2012 Abitur:** Sprachmittlung als eigener Kompetenzbereich, weiterhin gültig.
 - **GeR-Begleitband 2020:** Skalen zur Mediation von Texten, Konzepten und Kommunikation sowie Mediationsstrategien. Sie beruhen auf neu entwickelten und validierten Deskriptoren (North & Piccardo 2016).
-- **Thüringen:** Mediation/Sprachmittlung ist im Lehrplan Französisch 2026 ein eigener Lernbereich. Mediation meint dort mit dem GeR-Begleitband die Vermittlung von Inhalten und die Gestaltung von Kommunikation zwischen Menschen, Sprachmittlung die situations-, adressaten- und zweckgerechte Übertragung von Informationen zwischen Sprachen oder innerhalb einer Sprache (Abschnitt 1.3.2). Kriterien für die mündliche und die schriftliche Form nennt Abschnitt 7.2. Ob und wie Sprachmittlung im Thüringer Abitur geprüft wird, in den aktuellen Festlegungen prüfen.
+- **Thüringen:** Mediation/Sprachmittlung ist im Lehrplan Französisch 2026 ein eigener Lernbereich. Mediation meint dort mit dem GeR-Begleitband die Vermittlung von Inhalten und die Gestaltung von Kommunikation zwischen Menschen, Sprachmittlung die situations-, adressaten- und zweckgerechte Übertragung von Informationen zwischen Sprachen oder innerhalb einer Sprache (Abschnitt 1.3.2). Kriterien für die mündliche und die schriftliche Form nennt Abschnitt 7.2. Im Thüringer Abitur ist Sprachmittlung ein eigener Prüfungsteil von 60 Minuten, mit Aufgaben aus dem gemeinsamen Pool der Länder (siehe F4).
 
 ## Forschungslage
 
@@ -96,7 +96,7 @@ Sprachmittlung heißt, Inhalte situations- und adressatengerecht von einer Sprac
 
 ## Querverweise
 
-A3 Mehrsprachigkeitsdidaktik, A4 Einsprachigkeit und Sprachwahl, B4 Schreiben, D1 Inter- und transkulturelle Kompetenz, F1 Leistungsfeststellung und Bewertung, G2 Künstliche Intelligenz
+A3 Mehrsprachigkeitsdidaktik, A4 Einsprachigkeit und Sprachwahl, B4 Schreiben, D1 Inter- und transkulturelle Kompetenz, F1 Leistungsfeststellung und Bewertung, F4 Oberstufe und Abitur, G2 Künstliche Intelligenz
 
 ## Bibliografie
 

@@ -12,7 +12,7 @@ Generative KI und maschinelle Übersetzung verändern das Fremdsprachenlernen gr
 | Eigenständigkeit | Schreiben, Sprechen und Sprachmitteln, wenn KI nicht verfügbar oder nicht zugelassen ist | Braucht geplante KI-freie Phasen und Transferaufgaben. |
 
 - **Begriffe:** intelligence artificielle générative (IAG), grand modèle de langage, traduction automatique (TA), post-édition, agent conversationnel, littératie en IA, littératie de la rétroaction (frz.); generative AI, large language model (LLM), machine translation (MT), post-editing, chatbot, AI literacy, feedback literacy (engl.)
-- **Abgrenzung:** Digitale Medien allgemein siehe G1; KI-Feedback zu Schülertexten siehe B4 und E3. Übersetzen ist nicht Sprachmitteln: Sprachmittlung wählt adressaten- und situationsgerecht aus und erklärt, statt Satz für Satz zu übertragen (siehe B5). KI-Kompetenz umfasst Verständnis, begründete Werkzeugwahl, Prüfung von Ergebnissen und den Umgang mit Daten und Grenzen; gutes Prompten ist nur ein Teil davon.
+- **Abgrenzung:** Digitale Medien allgemein siehe G1; KI-Feedback zu Schülertexten siehe B4 und E3, Rechtschreibprüfung siehe C4; Deepfakes und Desinformation siehe G4. Übersetzen ist nicht Sprachmitteln: Sprachmittlung wählt adressaten- und situationsgerecht aus und erklärt, statt Satz für Satz zu übertragen (siehe B5). KI-Kompetenz umfasst Verständnis, begründete Werkzeugwahl, Prüfung von Ergebnissen und den Umgang mit Daten und Grenzen; gutes Prompten ist nur ein Teil davon.
 - **Tags:** #Planung #Fachseminar #TMK #kontrovers
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (November 2026)
 
@@ -155,7 +155,7 @@ KI-Detektoren taugen nicht als alleiniger Täuschungsnachweis: Sie stuften Texte
 
 ## Querverweise
 
-B3 Sprechen, B4 Schreiben, B5 Sprachmittlung, E1 Differenzierung und Inklusion, E3 Feedback und Lernbegleitung, E5 Lehrwerk und Materialauswahl, F1 Leistungsfeststellung und Bewertung, G1 Digitale Medien
+B3 Sprechen, B4 Schreiben, B5 Sprachmittlung, C4 Orthografie, E1 Differenzierung und Inklusion, E3 Feedback und Lernbegleitung, E5 Lehrwerk und Materialauswahl, F1 Leistungsfeststellung und Bewertung, G1 Digitale Medien, G4 Nachrichten und Desinformation
 
 ## Bibliografie
 

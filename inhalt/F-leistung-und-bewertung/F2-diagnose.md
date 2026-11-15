@@ -26,7 +26,7 @@ Diagnose erhebt, was Lernende schon können und wo sie stehen, um Unterricht und
 ## Handlungshinweise
 
 - Die Lernausgangslage zu Beginn einer Reihe erheben: kurze Eingangsaufgabe, Wortfeld-Mindmap, Selbsteinschätzung (*Je sais déjà ... · Je ne sais pas encore ...*).
-- Schülertexte gezielt auswerten: Fehler nach Bereichen ordnen (Wortschatz, Morphologie, Syntax, Orthografie, Pragmatik) und Muster erkennen, etwa Transfer aus Deutsch, Englisch oder Herkunftssprachen (siehe A3, E2).
+- Schülertexte gezielt auswerten: Fehler nach Bereichen ordnen (Wortschatz, Morphologie, Syntax, Orthografie, Pragmatik) und Muster erkennen, etwa Transfer aus Deutsch, Englisch oder Herkunftssprachen (siehe A3, E2; zur Orthografie siehe C4).
 - Prozesse sichtbar machen: Lernende beim Lesen oder Hören laut denken lassen oder fragen, wie sie vorgegangen sind (siehe B1, B2).
 - Aussprache mit kurzen Sprachaufnahmen und einem Beobachtungsbogen diagnostizieren (siehe C3).
 - Selbsteinschätzung üben: Ich-kann-Sätze mit Beispielaufgaben verbinden (*Je peux comprendre un message vocal simple.*), Einschätzung und Ergebnis danach vergleichen und große Abweichungen besprechen.
@@ -89,7 +89,7 @@ Diagnose erhebt, was Lernende schon können und wo sie stehen, um Unterricht und
 
 ## Querverweise
 
-A3 Mehrsprachigkeitsdidaktik, B1 Hör- und Hör-Sehverstehen, B2 Leseverstehen, C3 Aussprache und Intonation, E1 Differenzierung und Inklusion, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, F1 Leistungsfeststellung und Bewertung
+A3 Mehrsprachigkeitsdidaktik, B1 Hör- und Hör-Sehverstehen, B2 Leseverstehen, C3 Aussprache und Intonation, C4 Orthografie, E1 Differenzierung und Inklusion, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, F1 Leistungsfeststellung und Bewertung
 
 ## Bibliografie
 

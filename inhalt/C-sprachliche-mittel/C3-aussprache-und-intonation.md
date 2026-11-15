@@ -13,7 +13,7 @@ Ziel der Ausspracheschulung ist Verständlichkeit, nicht muttersprachliche Perfe
 | Endbetonung | *un petit café* | Wortgruppen rhythmisch sprechen, letzte Silbe klatschen |
 
 - **Begriffe:** prononciation, phonétique corrective, intonation, liaison, enchaînement, graphie-phonie (frz.); intelligibility, comprehensibility, accentedness, prosody, segmentals and suprasegmentals (engl.)
-- **Abgrenzung:** Aussprache im Hörverstehen siehe B1, beim Sprechen siehe B3, Korrektur siehe E2.
+- **Abgrenzung:** Aussprache im Hörverstehen siehe B1, beim Sprechen siehe B3, Korrektur siehe E2, Rechtschreibung siehe C4.
 - **Tags:** #FKK #Anfangsunterricht #SekI #Unterrichtsbesuch #empirischGut
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober 2026)
 
@@ -86,7 +86,7 @@ Ziel der Ausspracheschulung ist Verständlichkeit, nicht muttersprachliche Perfe
 
 ## Querverweise
 
-B1 Hör- und Hör-Sehverstehen, B3 Sprechen, C1 Wortschatzarbeit, D4 Chansons, Musik und Slam, D5 Frankophonie und Varietäten, E2 Fehlerkultur und Korrektur, E7 Anfangsunterricht, E9 Szenisches Lernen und Theater, F2 Diagnose, G1 Digitale Medien
+B1 Hör- und Hör-Sehverstehen, B3 Sprechen, C1 Wortschatzarbeit, C4 Orthografie, D4 Chansons, Musik und Slam, D5 Frankophonie und Varietäten, E2 Fehlerkultur und Korrektur, E7 Anfangsunterricht, E9 Szenisches Lernen und Theater, F2 Diagnose, G1 Digitale Medien
 
 ## Bibliografie
 

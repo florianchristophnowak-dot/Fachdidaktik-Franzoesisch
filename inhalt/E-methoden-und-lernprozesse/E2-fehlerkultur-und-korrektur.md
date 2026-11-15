@@ -2,7 +2,7 @@
 
 ## Auf einen Blick
 
-Fehler sind Lernspuren: Sie zeigen, welche Hypothesen Lernende über die neue Sprache bilden (Lernersprache, interlangue). Fehlerkultur meint, wie eine Lerngruppe mit Fehlern umgeht: als Lerngelegenheit oder als Versagen. Korrektur ist das Werkzeug: mündlich oder schriftlich, sofort oder verzögert, explizit oder implizit, durch Lehrkraft, Mitlernende oder selbst.
+Fehler sind Lernspuren: Sie zeigen, welche Hypothesen Lernende über die neue Sprache bilden (Lernersprache, interlangue; siehe A7). Fehlerkultur meint, wie eine Lerngruppe mit Fehlern umgeht: als Lerngelegenheit oder als Versagen. Korrektur ist das Werkzeug: mündlich oder schriftlich, sofort oder verzögert, explizit oder implizit, durch Lehrkraft, Mitlernende oder selbst.
 
 | Korrekturform (nach Lyster & Ranta) | Beispiel |
 | --- | --- |
@@ -32,7 +32,7 @@ Fehler sind Lernspuren: Sie zeigen, welche Hypothesen Lernende über die neue Sp
 - **Gestuft reagieren:** Ist die Form bekannt, zuerst zur Selbstkorrektur auffordern (*Hier, je ... ?*, Wiederholung mit Frageintonation). Hilft das nicht, folgt der Recast oder ein kurzer Regelhinweis. Beim Recast die korrigierte Stelle hörbar betonen, damit die Korrektur bemerkt wird.
 - **Korrekturregeln vereinbaren:** Mit der Klasse klären, wann korrigiert wird, woran man eine Korrektur erkennt (etwa Wiederholung mit Frageintonation oder ein vereinbartes Handzeichen) und was dann zu tun ist. Lernende, die auf Korrekturen vorbereitet sind, nutzen sie besser (siehe Forschungslage).
 - **Schriftlich gezielt korrigieren:** Schwerpunkte setzen, etwa Verbformen und Kongruenz. Was Lernende selbst verbessern können, mit Fehlercode markieren; Strukturen, die sie noch nicht beherrschen, direkt verbessern oder kurz erklären. Überarbeitung einfordern (siehe B4).
-- **Fehlerprotokoll oder *carnet d'erreurs*:** Lernende notieren nach Schreib- oder Sprechaufgaben drei eigene Fehler mit Verbesserung und verfolgen ihre Schwerpunkte über das Halbjahr.
+- **Fehlerprotokoll oder *carnet d'erreurs*:** Lernende notieren nach Schreib- oder Sprechaufgaben drei eigene Fehler mit Verbesserung und verfolgen ihre Schwerpunkte über das Halbjahr (zur Rechtschreibung siehe C4).
 - **Wiederkehrende Muster aufgreifen:** Was viele immer wieder falsch machen, bekommt eine eigene kurze Übungsphase, statt nur nebenbei korrigiert zu werden.
 - **Norm bewusst wählen:** Nicht jede Abweichung vom Lehrbuch ist ein Fehler. Im gesprochenen Französisch fällt das *ne* der Verneinung meist weg (*Je sais pas.*); im Gespräch ist das angemessen, in formellen Texten nicht.
 - **Positive Fehlerkultur sichtbar machen:** *erreur de la semaine*, Fehlerdetektive, Anerkennung für Risiko und Selbstkorrektur. Fehler Einzelner nicht vor der Klasse vorführen.
@@ -92,7 +92,7 @@ Fehler sind Lernspuren: Sie zeigen, welche Hypothesen Lernende über die neue Sp
 - Mündliches Korrekturfeedback wirkt; Meta-Analysen finden mittlere Effekte, Prompts oft etwas stärker als Recasts (Li 2010; Lyster & Saito 2010). In einer Studie zur englischen Vergangenheitsform war metasprachliches Feedback Recasts vor allem in den verzögerten Nachtests deutlich überlegen (Ellis, Loewen & Erlam 2006).
 - Der Recast ist im Unterricht die häufigste Korrekturform, wird aber am seltensten aufgegriffen. In vier Französisch-Immersionsklassen der Grundschule in Kanada (Klasse 4 und 5, rund 18 Unterrichtsstunden) machten Recasts 55 Prozent aller Korrekturen aus; Selbstkorrekturen der Lernenden lösten vor allem Elizitierungen, metasprachliche Hinweise, Klärungsfragen und Wiederholungen aus (Lyster & Ranta 1997).
 - Werden Lernende metakognitiv auf Korrekturen vorbereitet, wirken auch Recasts, die sonst kaum etwas bewirkten; bei Klärungsfragen brachte die Vorbereitung keinen zusätzlichen Nutzen (Sato & Loewen 2018, mit erwachsenen Englischlernenden).
-- Wie Korrekturen eingesetzt und aufgegriffen werden, hängt vom Lernkontext ab. Ein Vergleich von Fremdsprachen- und CLIL-Unterricht zeigt Unterschiede bei Menge und Art der Korrekturen, bei den Überzeugungen der Lehrkräfte und beim Aufgreifen durch die Lernenden (García Mayo & Milla 2021). Deutschsprachige Überblicke zur Forschung und zur Anpassung von Korrekturen an Kontext und Lernende bieten Schoormann & Schlak (2011, 2012).
+- Wie Korrekturen eingesetzt und aufgegriffen werden, hängt vom Lernkontext ab. Ein Vergleich von Fremdsprachen- und CLIL-Unterricht zeigt Unterschiede bei Menge und Art der Korrekturen, bei den Überzeugungen der Lehrkräfte und beim Aufgreifen durch die Lernenden (García Mayo & Milla 2021; zur Korrektur im bilingualen Sachfach siehe A6). Deutschsprachige Überblicke zur Forschung und zur Anpassung von Korrekturen an Kontext und Lernende bieten Schoormann & Schlak (2011, 2012).
 - Schriftliches Korrekturfeedback verbessert die Genauigkeit (Kang & Han 2015). Ob Grammatikkorrektur überhaupt hilft, war lange umstritten (Truscott 1996; Ferris 1999). Fokussierte Korrektur wirkte in einer Studie zu Artikeln; im verzögerten Nachtest half direkte Korrektur mit metasprachlicher Erklärung mehr als direkte Korrektur allein (Sheen 2007). Auch umfassende Korrektur aller Fehler verbesserte in einer Studie mit 268 Schülerinnen und Schülern die Genauigkeit, bei der Überarbeitung und in neuen Texten, ohne dass die Texte einfacher wurden. Grammatische Fehler gingen in neuen Texten nur nach direkter Verbesserung zurück, andere Fehler am stärksten nach bloßer Markierung (Van Beuningen, De Jong & Kuiken 2012).
 - Ob Effekte anhalten, ist offen: In einer Studie half eine metasprachliche Erklärung kurzfristig mehr als die direkte Verbesserung, dauerhaft war keiner der beiden Effekte (Shintani & Ellis 2013).
 - Wie Lernende mündliche Korrekturen im Französischunterricht emotional erleben, hat eine Studie mit über 450 Lernenden an Realschulen, Gesamtschulen und Gymnasien untersucht, mit Fragebögen und Unterrichtsaufnahmen (Wengler 2023).
@@ -100,7 +100,7 @@ Fehler sind Lernspuren: Sie zeigen, welche Hypothesen Lernende über die neue Sp
 
 ## Querverweise
 
-B3 Sprechen, B4 Schreiben, C2 Grammatikvermittlung, E3 Feedback und Lernbegleitung, F1 Leistungsfeststellung und Bewertung, F2 Diagnose
+A6 Bilingualer Sachfachunterricht, A7 Spracherwerb und Lernersprache, B3 Sprechen, B4 Schreiben, C2 Grammatikvermittlung, C4 Orthografie, E3 Feedback und Lernbegleitung, F1 Leistungsfeststellung und Bewertung, F2 Diagnose
 
 ## Bibliografie
 
