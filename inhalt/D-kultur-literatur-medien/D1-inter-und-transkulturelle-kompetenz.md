@@ -13,7 +13,7 @@ Interkulturelle kommunikative Kompetenz (Byram) verbindet Wissen, Einstellungen 
 | Savoir s'engager (kritische kulturelle Bewusstheit) | Eigene und fremde Werte begründet bewerten |
 
 - **Begriffe:** compétence interculturelle, transculturalité, stéréotypes, représentations, francophonie, incident critique (frz.); intercultural communicative competence, critical cultural awareness, critical incident, intercultural citizenship (engl.)
-- **Abgrenzung:** Landeskunde liefert Wissen (savoirs). Interkulturelle Kompetenz umfasst zusätzlich Einstellungen, Deutung und Handeln. Kulturelle Aspekte der Sprachmittlung siehe B5, Literatur und Film als Zugänge siehe D2 und D3, Anrede, Höflichkeit und Gesprächsführung siehe C5.
+- **Abgrenzung:** Landeskunde liefert Wissen (savoirs). Interkulturelle Kompetenz umfasst zusätzlich Einstellungen, Deutung und Handeln. Kulturelle Aspekte der Sprachmittlung siehe B5, Literatur und Film als Zugänge siehe D2 und D3, Anrede, Höflichkeit und Gesprächsführung siehe C5, Demokratiebildung und interkulturelle Bürgerschaft siehe A8.
 - **Tags:** #IKK #SekI #SekII #Abitur #kontrovers
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober 2026)
 
@@ -94,7 +94,7 @@ Interkulturelle kommunikative Kompetenz (Byram) verbindet Wissen, Einstellungen 
 
 ## Querverweise
 
-A3 Mehrsprachigkeitsdidaktik, B5 Sprachmittlung, C5 Pragmatik und Gesprächsstrategien, D2 Literatur, D3 Film und Bildmedien, E5 Lehrwerk und Materialauswahl, G1 Digitale Medien
+A3 Mehrsprachigkeitsdidaktik, A8 Demokratiebildung und Nachhaltigkeit, B5 Sprachmittlung, C5 Pragmatik und Gesprächsstrategien, D2 Literatur, D3 Film und Bildmedien, E5 Lehrwerk und Materialauswahl, G1 Digitale Medien
 
 ## Bibliografie
 

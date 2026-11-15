@@ -32,7 +32,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 
 ## Systematik
 
-45 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
+46 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
 
 | Kürzel | Eintrag | Bereich | Status |
 | --- | --- | --- | --- |
@@ -42,6 +42,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 | A4 | Einsprachigkeit und Sprachwahl | Grundlagen | Deep Research eingearbeitet |
 | A5 | Motivation und Lernerautonomie | Grundlagen | Deep Research eingearbeitet |
 | A7 | Spracherwerb und Lernersprache | Grundlagen | Entwurf Claude mit eigener Recherche |
+| A8 | Demokratiebildung und Nachhaltigkeit | Grundlagen | Entwurf Claude mit eigener Recherche |
 | B1 | Hör- und Hör-Sehverstehen | Kommunikative Kompetenzen | Deep Research eingearbeitet |
 | B2 | Leseverstehen | Kommunikative Kompetenzen | Deep Research eingearbeitet |
 | B3 | Sprechen | Kommunikative Kompetenzen | Deep Research eingearbeitet |

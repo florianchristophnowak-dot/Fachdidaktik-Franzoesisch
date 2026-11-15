@@ -94,7 +94,7 @@ Sprechen umfasst mündliche Produktion (zusammenhängend erzählen, beschreiben,
 
 ## Querverweise
 
-A2 Aufgabenorientierung und Lernaufgaben, A4 Einsprachigkeit und Sprachwahl, C3 Aussprache und Intonation, C5 Pragmatik und Gesprächsstrategien, D4 Chansons, Musik und Slam, E2 Fehlerkultur und Korrektur, E4 Kooperatives Lernen und Unterrichtsgespräch, E9 Szenisches Lernen und Theater, F1 Leistungsfeststellung und Bewertung
+A2 Aufgabenorientierung und Lernaufgaben, A4 Einsprachigkeit und Sprachwahl, A8 Demokratiebildung und Nachhaltigkeit, C3 Aussprache und Intonation, C5 Pragmatik und Gesprächsstrategien, D4 Chansons, Musik und Slam, E2 Fehlerkultur und Korrektur, E4 Kooperatives Lernen und Unterrichtsgespräch, E9 Szenisches Lernen und Theater, F1 Leistungsfeststellung und Bewertung
 
 ## Bibliografie
 

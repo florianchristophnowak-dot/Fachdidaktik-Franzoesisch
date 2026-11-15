@@ -58,7 +58,7 @@ Austausch und Begegnung machen Französisch zur Sprache echter Beziehungen. Die 
 
 **Sek II: "Mon séjour en France".** Rückkehrende aus dem Brigitte-Sauzay- oder Voltaire-Programm gestalten eine Unterrichtsreihe zum Schulsystem in Frankreich mit: Sie halten ein *exposé* über ihre Schule, die Klasse bereitet ein Interview vor, und alle vergleichen ihre Erfahrungen mit Sachtexten zum Thema. Wer nicht im Ausland war, erhält so einen authentischen Zugang.
 
-**Sek II (Jahrgangsstufe 11): "Nos lycées en transition".** Internationale Teams entwickeln über eTwinning, eventuell mit anschließender Erasmus+-Mobilität, ein begründetes Konzept für eine nachhaltigere Schule. Nach zwei vorbereitenden Stunden zu Klimaschutzmaßnahmen, Argumentationsmitteln und Quellenkritik tauschen gemischte Teams zwei bis drei Wochen lang Daten und Erfahrungen aus ihren Schulen aus. In einer Videokonferenz handeln sie aus, welche drei Maßnahmen umsetzbar sind, und wägen Kosten, Wirksamkeit und soziale Gerechtigkeit ab (*Nous sommes d'accord sur l'objectif, mais pas sur les moyens. Comment peut-on trouver un compromis qui respecte les contraintes des deux établissements ?*). Ergebnis ist ein französischsprachiges Positionspapier oder eine Präsentation für Schülervertretung oder Schulleitung. Bewertet werden das sprachliche und argumentative Produkt, die Quellenarbeit und die individuelle Reflexion; persönliche Offenheit, Sympathie für die Partnergruppe oder die Unterbringung sind keine Bewertungskriterien.
+**Sek II (Jahrgangsstufe 11): "Nos lycées en transition".** Internationale Teams entwickeln über eTwinning, eventuell mit anschließender Erasmus+-Mobilität, ein begründetes Konzept für eine nachhaltigere Schule (siehe A8). Nach zwei vorbereitenden Stunden zu Klimaschutzmaßnahmen, Argumentationsmitteln und Quellenkritik tauschen gemischte Teams zwei bis drei Wochen lang Daten und Erfahrungen aus ihren Schulen aus. In einer Videokonferenz handeln sie aus, welche drei Maßnahmen umsetzbar sind, und wägen Kosten, Wirksamkeit und soziale Gerechtigkeit ab (*Nous sommes d'accord sur l'objectif, mais pas sur les moyens. Comment peut-on trouver un compromis qui respecte les contraintes des deux établissements ?*). Ergebnis ist ein französischsprachiges Positionspapier oder eine Präsentation für Schülervertretung oder Schulleitung. Bewertet werden das sprachliche und argumentative Produkt, die Quellenarbeit und die individuelle Reflexion; persönliche Offenheit, Sympathie für die Partnergruppe oder die Unterbringung sind keine Bewertungskriterien.
 
 ## Stolpersteine
 
@@ -131,7 +131,7 @@ Austausch und Begegnung machen Französisch zur Sprache echter Beziehungen. Die 
 
 ## Querverweise
 
-A5 Motivation und Lernerautonomie, B3 Sprechen, B5 Sprachmittlung, D1 Inter- und transkulturelle Kompetenz, D5 Frankophonie und Varietäten, D8 Erinnerungskultur und deutsch-französische Beziehungen, E2 Fehlerkultur und Korrektur, G1 Digitale Medien, H5 Sprachenwahl und Fachprofil
+A5 Motivation und Lernerautonomie, A8 Demokratiebildung und Nachhaltigkeit, B3 Sprechen, B5 Sprachmittlung, D1 Inter- und transkulturelle Kompetenz, D5 Frankophonie und Varietäten, D8 Erinnerungskultur und deutsch-französische Beziehungen, E2 Fehlerkultur und Korrektur, G1 Digitale Medien, H5 Sprachenwahl und Fachprofil
 
 ## Bibliografie
 

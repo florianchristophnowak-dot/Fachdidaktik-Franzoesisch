@@ -22,7 +22,7 @@ Kompetenzorientierter Unterricht plant vom Ende her: Was können die Lernenden n
 2. Kommunikatives Handeln braucht systematischen Sprachaufbau. Wortschatz und Grammatik haben dienende, aber keine nebensächliche Funktion.
 3. Kompetenz wächst kumulativ über Reihen. Eine attraktive Einzelaufgabe genügt nicht.
 4. Ziel, Lernweg, Aufgabe und Bewertung müssen zusammenpassen (constructive alignment). Wer frei sprechen lässt und Lückentexte prüft, erzeugt negativen Washback.
-5. Bildung, Literatur und Kultur gehen nicht in Messbarkeit auf. Was sich nicht standardisieren lässt, bleibt trotzdem Ziel.
+5. Bildung, Literatur und Kultur gehen nicht in Messbarkeit auf. Was sich nicht standardisieren lässt, bleibt trotzdem Ziel, etwa Demokratiebildung und Bildung für nachhaltige Entwicklung (siehe A8).
 
 ## Handlungshinweise
 
@@ -94,7 +94,7 @@ Kompetenzorientierter Unterricht plant vom Ende her: Was können die Lernenden n
 
 ## Querverweise
 
-A2 Aufgabenorientierung, A3 Mehrsprachigkeit, B5 Sprachmittlung, D2 Literatur, F1 Leistungsfeststellung, H1 Unterrichtsplanung
+A2 Aufgabenorientierung, A3 Mehrsprachigkeit, A8 Demokratiebildung und Nachhaltigkeit, B5 Sprachmittlung, D2 Literatur, F1 Leistungsfeststellung, H1 Unterrichtsplanung
 
 ## Bibliografie
 

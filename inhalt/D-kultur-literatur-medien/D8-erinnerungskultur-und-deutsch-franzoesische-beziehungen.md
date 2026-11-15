@@ -27,7 +27,7 @@ Erinnerungskultur meint die Formen, in denen eine Gesellschaft ihre Vergangenhei
 2. Zwei Länder, mehrere Gedächtnisse. Derselbe Tag bedeutet in Frankreich und in Deutschland Verschiedenes, und in keinem der beiden Länder gibt es nur eine Erinnerung. Frankreich hat lange gebraucht, um neben der Résistance auch Vichy zu sehen (Rousso 1987), und in Deutschland erinnerten Bundesrepublik und DDR verschieden. Der Vergleich arbeitet deshalb mit einzelnen Stimmen und Quellen, nicht mit "den Franzosen" und "den Deutschen".
 3. Versöhnung ist keine abgeschlossene Erfolgsgeschichte. Die Erzählung von der "Erbfeindschaft" zur Freundschaft ist beliebt, aber sie glättet. Die Annäherung begann vor 1963 in der Zivilgesellschaft, sie blieb konfliktreich und ist nach dem Urteil der Geschichtswissenschaft "kein abgeschlossener Prozess" (Defrance & Pfeil 2013). Lernende sollen Gesten und Festreden untersuchen, nicht nachsprechen.
 4. Sprache und Sache brauchen einander, aber die Sache darf nicht zum bloßen Sprachanlass schrumpfen. Ein Zeugnis aus Buchenwald ist kein Übungstext für das *imparfait*. Zugleich ist Französisch hier mehr als ein Werkzeug: Es öffnet Quellen und Sichtweisen, die auf Deutsch nicht zugänglich sind. Die Sprachwahl wird bewusst geregelt: Französisch für klar umrissene Aufgaben, Deutsch dort, wo Betroffenheit oder schwierige Urteile sonst unausgesprochen blieben (siehe A4).
-5. Nicht überwältigen, nicht verordnen. Für das Thema gelten die Grundsätze der politischen Bildung: Strittiges bleibt strittig, und niemand wird zu einem Gefühl oder Urteil gedrängt. Die Kultusministerkonferenz formuliert: "Verordnetes und reflexionsfreies Gedenken widerspricht den Grundsätzen des Beutelsbacher Konsenses" (KMK 2014/2026, Abschnitt 2.5). Die Lernenden bringen verschiedene Familiengeschichten mit. Verantwortung für das Erinnern ist etwas anderes als Schuld.
+5. Nicht überwältigen, nicht verordnen. Für das Thema gelten die Grundsätze der politischen Bildung (siehe A8): Strittiges bleibt strittig, und niemand wird zu einem Gefühl oder Urteil gedrängt. Die Kultusministerkonferenz formuliert: "Verordnetes und reflexionsfreies Gedenken widerspricht den Grundsätzen des Beutelsbacher Konsenses" (KMK 2014/2026, Abschnitt 2.5). Die Lernenden bringen verschiedene Familiengeschichten mit. Verantwortung für das Erinnern ist etwas anderes als Schuld.
 
 ## Handlungshinweise
 
@@ -114,7 +114,7 @@ Erinnerungskultur meint die Formen, in denen eine Gesellschaft ihre Vergangenhei
 
 ## Querverweise
 
-A4 Einsprachigkeit und Sprachwahl, B2 Leseverstehen, B5 Sprachmittlung, D1 Inter- und transkulturelle Kompetenz, D2 Literatur, D3 Film und Bildmedien, D4 Chansons, Musik und Slam, D5 Frankophonie und Varietäten, D6 Austausch und Begegnung, D7 Bande dessinée, E9 Szenisches Lernen und Theater, F4 Oberstufe und Abitur, G1 Digitale Medien, G2 Künstliche Intelligenz, G4 Nachrichten und Desinformation, H1 Unterrichtsplanung
+A4 Einsprachigkeit und Sprachwahl, A8 Demokratiebildung und Nachhaltigkeit, B2 Leseverstehen, B5 Sprachmittlung, D1 Inter- und transkulturelle Kompetenz, D2 Literatur, D3 Film und Bildmedien, D4 Chansons, Musik und Slam, D5 Frankophonie und Varietäten, D6 Austausch und Begegnung, D7 Bande dessinée, E9 Szenisches Lernen und Theater, F4 Oberstufe und Abitur, G1 Digitale Medien, G2 Künstliche Intelligenz, G4 Nachrichten und Desinformation, H1 Unterrichtsplanung
 
 ## Bibliografie
 
