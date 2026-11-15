@@ -32,7 +32,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 
 ## Systematik
 
-44 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
+45 Einträge in acht Bereichen. Das Kürzel dient als Querverweis, der Status zeigt den Bearbeitungsstand.
 
 | Kürzel | Eintrag | Bereich | Status |
 | --- | --- | --- | --- |
@@ -74,6 +74,7 @@ Jeder Eintrag hat dieselben elf Rubriken. Leere Rubriken bleiben stehen, damit L
 | F4 | Oberstufe und Abitur | Leistung | Entwurf Claude mit eigener Recherche |
 | G1 | Digitale Medien | Digitalität | Deep Research eingearbeitet |
 | G2 | Künstliche Intelligenz | Digitalität | Deep Research eingearbeitet |
+| G4 | Nachrichten und Desinformation | Digitalität | Entwurf Claude mit eigener Recherche |
 | H1 | Unterrichtsplanung | Professionalisierung | Deep Research eingearbeitet |
 | H2 | Unterrichtsqualität und Beobachtung | Professionalisierung | Deep Research eingearbeitet |
 | H3 | Beratung und Nachbesprechung | Professionalisierung | Deep Research eingearbeitet |

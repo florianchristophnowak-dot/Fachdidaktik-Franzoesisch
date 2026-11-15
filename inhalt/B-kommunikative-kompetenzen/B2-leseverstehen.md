@@ -32,7 +32,7 @@ Leseverstehen ist zielgerichtete Bedeutungskonstruktion aus Text, Vorwissen, Spr
 
 **Sek II**
 
-- Den Lesezweck auch methodisch benennen: Informationsentnahme, Analyse, Positionsvergleich, Quellenprüfung, Synthese.
+- Den Lesezweck auch methodisch benennen: Informationsentnahme, Analyse, Positionsvergleich, Quellenprüfung, Synthese. Wie man Nachrichten und Quellen im Netz prüft, siehe G4.
 - Mehrtextaufgaben: Aussagen und Belege zuordnen, Perspektiven vergleichen, widersprüchliche Informationen zusammenführen. Argumentationsstruktur und Konnektoren sichtbar machen.
 - Digitale Texte: Quelle, Autorschaft, Datum und Linkstruktur in den Auftrag aufnehmen. Seitensuche, Leseansicht und Online-Wörterbuch gezielt lehren und Ablenkung begrenzen.
 - Längere authentische oder adaptierte Werke frei oder teilgesteuert lesen. Ein Lesetagebuch soll Reaktionen sammeln, nicht kontrollieren.
@@ -94,7 +94,7 @@ Leseverstehen ist zielgerichtete Bedeutungskonstruktion aus Text, Vorwissen, Spr
 
 ## Querverweise
 
-A3 Mehrsprachigkeitsdidaktik, B1 Hör- und Hör-Sehverstehen, B4 Schreiben, C1 Wortschatzarbeit, D2 Literatur, E1 Differenzierung und Inklusion, F1 Leistungsfeststellung und Bewertung, F4 Oberstufe und Abitur
+A3 Mehrsprachigkeitsdidaktik, B1 Hör- und Hör-Sehverstehen, B4 Schreiben, C1 Wortschatzarbeit, D2 Literatur, E1 Differenzierung und Inklusion, F1 Leistungsfeststellung und Bewertung, F4 Oberstufe und Abitur, G4 Nachrichten und Desinformation
 
 ## Bibliografie
 

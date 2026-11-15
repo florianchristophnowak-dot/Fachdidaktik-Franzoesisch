@@ -38,7 +38,7 @@ Hörverstehen ist aktive Bedeutungskonstruktion unter Zeitdruck. Lernende verbin
 
 **Sek II**
 
-- Längere authentische Formate systematisch aufbauen: Nachrichten, Interviews, Reportagen, Podcasts, Debatten, Kurzfilme.
+- Längere authentische Formate systematisch aufbauen: Nachrichten, Interviews, Reportagen, Podcasts, Debatten, Kurzfilme. Zur Arbeit mit Nachrichten und ihrer Prüfung siehe G4.
 - Hörabsicht variieren: global, selektiv, detailliert, Sprecherhaltung, implizite Bedeutung, Argumentationsstruktur. Derselbe Text erzeugt mit anderer Aufgabe andere Anforderungen.
 - Video in Kanäle zerlegen: erst Standbild oder stumm (Hypothesen), dann nur Ton, dann vollständig. So wird sichtbar, welche Information aus welcher Quelle stammt.
 - Hörnotizen für Sprachmittlung und Diskussion nutzen (siehe B5). Frankophone Varietäten als Normalfall behandeln, nicht als "schweren Akzent".
@@ -101,7 +101,7 @@ Hörverstehen ist aktive Bedeutungskonstruktion unter Zeitdruck. Lernende verbin
 
 ## Querverweise
 
-A4 Einsprachigkeit und Sprachwahl, B2 Leseverstehen, B5 Sprachmittlung, C3 Aussprache und Intonation, D3 Film und Bildmedien, F1 Leistungsfeststellung und Bewertung, F4 Oberstufe und Abitur
+A4 Einsprachigkeit und Sprachwahl, B2 Leseverstehen, B5 Sprachmittlung, C3 Aussprache und Intonation, D3 Film und Bildmedien, F1 Leistungsfeststellung und Bewertung, F4 Oberstufe und Abitur, G4 Nachrichten und Desinformation
 
 ## Bibliografie
 
