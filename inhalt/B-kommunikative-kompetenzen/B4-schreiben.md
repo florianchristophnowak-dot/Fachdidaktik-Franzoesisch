@@ -76,7 +76,7 @@ Schreiben ist ein Prozess aus Planen, Formulieren und Überarbeiten (Hayes & Flo
 - **KMK 2023:** Schreiben getrennt in schriftliche Interaktion und schriftliche Produktion. Für den MSA unter anderem: persönliche Korrespondenz mit detaillierten Berichten über Erfahrungen, Gefühle und Meinungen, formelle Schreiben inhaltlich, sprachlich und formal korrekt, Beiträge zu Online-Diskussionen, zusammenhängende Texte zu vertrauten und gesellschaftlich relevanten Themen, (digitale) Hilfsmittel zum Verfassen und Überarbeiten nutzen.
 - **KMK 2012 Abitur:** weiterhin gültig.
 - **GeR-Begleitband 2020:** Skalen zu schriftlicher Produktion, schriftlicher Interaktion und Online-Interaktion.
-- **Thüringen:** Schreiben gehört im Lehrplan Französisch 2026 zum Lernbereich Texte produzieren: adressaten- und zielorientiert in unterschiedlichen Textformen, auch gestützt auf mehrere Quellen (Abschnitt 1.3.2). In Klassenstufe 10 sollen die Lernenden eigene Texte auch mit Hilfe von KI überarbeiten (Abschnitt 3.4.4); Bewertungskriterien nennt Abschnitt 7.2. Zu den Aufgabenarten der schriftlichen Abiturprüfung (§§ 96 und 97 ThürSchulO) siehe F4: Geschrieben wird zu einem literarischen oder nichtliterarischen Text, mit Aufgaben aus dem gemeinsamen Pool der Länder. Die zugelassenen Hilfsmittel stehen in den jährlichen Hinweisen des Ministeriums.
+- **Thüringen:** Schreiben gehört im Lehrplan Französisch 2026 zum Lernbereich Texte produzieren: adressaten- und zielorientiert in unterschiedlichen Textformen, auch gestützt auf mehrere Quellen (Abschnitt 1.3.2). In Klassenstufe 10 sollen die Lernenden eigene Texte auch mit Hilfe von KI überarbeiten (Abschnitt 3.4.4; zur Rechtschreibung beim Überarbeiten siehe C4); Bewertungskriterien nennt Abschnitt 7.2. Zu den Aufgabenarten der schriftlichen Abiturprüfung (§§ 96 und 97 ThürSchulO) siehe F4: Geschrieben wird zu einem literarischen oder nichtliterarischen Text, mit Aufgaben aus dem gemeinsamen Pool der Länder. Die zugelassenen Hilfsmittel stehen in den jährlichen Hinweisen des Ministeriums.
 
 ## Forschungslage
 
@@ -89,7 +89,7 @@ Schreiben ist ein Prozess aus Planen, Formulieren und Überarbeiten (Hayes & Flo
 
 ## Querverweise
 
-B2 Leseverstehen, B5 Sprachmittlung, D2 Literatur, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, F4 Oberstufe und Abitur, G2 Künstliche Intelligenz
+B2 Leseverstehen, B5 Sprachmittlung, C4 Orthografie, D2 Literatur, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, F4 Oberstufe und Abitur, G2 Künstliche Intelligenz
 
 ## Bibliografie
 

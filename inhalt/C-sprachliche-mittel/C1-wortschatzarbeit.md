@@ -11,7 +11,7 @@ Wortschatz ist die Grundlage aller Kompetenzen: Ohne Wörter kein Verstehen und 
 | Gebrauch | *aller à la plage, sur la plage*; neutrales Register |
 
 - **Begriffe:** lexique, vocabulaire, lexique mental, collocations, blocs lexicaux, révision espacée (frz.); vocabulary breadth and depth, mental lexicon, chunks, collocations, spaced repetition, retrieval practice, incidental vs. intentional learning (engl.)
-- **Abgrenzung:** Wortschatzarbeit umfasst Einführung (Semantisierung), Festigung (Üben, Wiederholen) und Anwendung in Aufgaben. Vokabeltests sind ein Teil davon, nicht das Ganze.
+- **Abgrenzung:** Wortschatzarbeit umfasst Einführung (Semantisierung), Festigung (Üben, Wiederholen) und Anwendung in Aufgaben. Vokabeltests sind ein Teil davon, nicht das Ganze. Die Schreibung von Wörtern behandelt C4.
 - **Tags:** #SB #SLK #Anfangsunterricht #SekI #empirischGut
 - **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober 2026)
 
@@ -88,7 +88,7 @@ Wortschatz ist die Grundlage aller Kompetenzen: Ohne Wörter kein Verstehen und 
 
 ## Querverweise
 
-A3 Mehrsprachigkeitsdidaktik, B2 Leseverstehen, C2 Grammatikvermittlung, C3 Aussprache und Intonation, E6 Gamification und Lernspiele, E8 Üben und Wiederholen, F2 Diagnose, F4 Oberstufe und Abitur, G1 Digitale Medien
+A3 Mehrsprachigkeitsdidaktik, B2 Leseverstehen, C2 Grammatikvermittlung, C3 Aussprache und Intonation, C4 Orthografie, E6 Gamification und Lernspiele, E8 Üben und Wiederholen, F2 Diagnose, F4 Oberstufe und Abitur, G1 Digitale Medien
 
 ## Bibliografie
 

@@ -32,7 +32,7 @@ Fehler sind Lernspuren: Sie zeigen, welche Hypothesen Lernende über die neue Sp
 - **Gestuft reagieren:** Ist die Form bekannt, zuerst zur Selbstkorrektur auffordern (*Hier, je ... ?*, Wiederholung mit Frageintonation). Hilft das nicht, folgt der Recast oder ein kurzer Regelhinweis. Beim Recast die korrigierte Stelle hörbar betonen, damit die Korrektur bemerkt wird.
 - **Korrekturregeln vereinbaren:** Mit der Klasse klären, wann korrigiert wird, woran man eine Korrektur erkennt (etwa Wiederholung mit Frageintonation oder ein vereinbartes Handzeichen) und was dann zu tun ist. Lernende, die auf Korrekturen vorbereitet sind, nutzen sie besser (siehe Forschungslage).
 - **Schriftlich gezielt korrigieren:** Schwerpunkte setzen, etwa Verbformen und Kongruenz. Was Lernende selbst verbessern können, mit Fehlercode markieren; Strukturen, die sie noch nicht beherrschen, direkt verbessern oder kurz erklären. Überarbeitung einfordern (siehe B4).
-- **Fehlerprotokoll oder *carnet d'erreurs*:** Lernende notieren nach Schreib- oder Sprechaufgaben drei eigene Fehler mit Verbesserung und verfolgen ihre Schwerpunkte über das Halbjahr.
+- **Fehlerprotokoll oder *carnet d'erreurs*:** Lernende notieren nach Schreib- oder Sprechaufgaben drei eigene Fehler mit Verbesserung und verfolgen ihre Schwerpunkte über das Halbjahr (zur Rechtschreibung siehe C4).
 - **Wiederkehrende Muster aufgreifen:** Was viele immer wieder falsch machen, bekommt eine eigene kurze Übungsphase, statt nur nebenbei korrigiert zu werden.
 - **Norm bewusst wählen:** Nicht jede Abweichung vom Lehrbuch ist ein Fehler. Im gesprochenen Französisch fällt das *ne* der Verneinung meist weg (*Je sais pas.*); im Gespräch ist das angemessen, in formellen Texten nicht.
 - **Positive Fehlerkultur sichtbar machen:** *erreur de la semaine*, Fehlerdetektive, Anerkennung für Risiko und Selbstkorrektur. Fehler Einzelner nicht vor der Klasse vorführen.
@@ -100,7 +100,7 @@ Fehler sind Lernspuren: Sie zeigen, welche Hypothesen Lernende über die neue Sp
 
 ## Querverweise
 
-A6 Bilingualer Sachfachunterricht, A7 Spracherwerb und Lernersprache, B3 Sprechen, B4 Schreiben, C2 Grammatikvermittlung, E3 Feedback und Lernbegleitung, F1 Leistungsfeststellung und Bewertung, F2 Diagnose
+A6 Bilingualer Sachfachunterricht, A7 Spracherwerb und Lernersprache, B3 Sprechen, B4 Schreiben, C2 Grammatikvermittlung, C4 Orthografie, E3 Feedback und Lernbegleitung, F1 Leistungsfeststellung und Bewertung, F2 Diagnose
 
 ## Bibliografie
 

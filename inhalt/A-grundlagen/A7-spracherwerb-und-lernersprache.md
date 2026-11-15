@@ -16,7 +16,7 @@ Die Zweitspracherwerbsforschung untersucht, wie Menschen eine weitere Sprache le
 | Soziokulturelle Theorie (Lantolf & Thorne 2006) | Lernen entsteht im gemeinsamen Handeln mit Unterstützung, die schrittweise zurückgenommen wird | Gerüste anbieten und abbauen, gemeinsam über Sprache nachdenken |
 
 - **Begriffe:** acquisition d'une langue étrangère, interlangue, apprenant, input, interaction, négociation du sens, production, saisie, séquence développementale, stade de développement, transfert, interférence, fossilisation, connaissances implicites et explicites, procéduralisation, automatisation, séquences préfabriquées, aptitude aux langues, mémoire de travail, langue tierce (frz.); second language acquisition (SLA), instructed SLA, interlanguage, comprehensible input, negotiation of meaning, pushed output, noticing, developmental sequences, processability, teachability, skill acquisition, usage-based approaches, sociocultural theory, implicit and explicit knowledge, interface, crosslinguistic influence, L3 acquisition, formulaic sequences, language aptitude, working memory, age of onset (engl.)
-- **Abgrenzung:** Grammatikvermittlung siehe C2, Fehler und Korrektur siehe E2, Üben siehe E8, Interaktion im Unterrichtsgespräch siehe E4, Transfer und Sprachvergleich im Unterricht siehe A3, Unterrichtssprache siehe A4, Motivation siehe A5, Wortschatz siehe C1, Aussprache siehe C3, Diagnose siehe F2, Bewertung nach Bandbreite, Korrektheit und Flüssigkeit siehe F1 und F4.
+- **Abgrenzung:** Grammatikvermittlung siehe C2, Fehler und Korrektur siehe E2, Üben siehe E8, Interaktion im Unterrichtsgespräch siehe E4, Transfer und Sprachvergleich im Unterricht siehe A3, Unterrichtssprache siehe A4, Motivation siehe A5, Wortschatz siehe C1, Aussprache siehe C3, Rechtschreibung und schriftliche Kongruenz siehe C4, Diagnose siehe F2, Bewertung nach Bandbreite, Korrektheit und Flüssigkeit siehe F1 und F4.
 - **Tags:** #SekI #SekII #Planung #Beratung #Unterrichtsbesuch #FKK #SB #SLK #empirischGut #kontrovers
 - **Stand:** Entwurf Claude mit eigener Recherche (November 2026)
 
@@ -108,7 +108,7 @@ Die Zweitspracherwerbsforschung untersucht, wie Menschen eine weitere Sprache le
 
 ## Querverweise
 
-A2 Aufgabenorientierung und Lernaufgaben, A3 Mehrsprachigkeitsdidaktik, A4 Einsprachigkeit und Sprachwahl, A5 Motivation und Lernerautonomie, A6 Bilingualer Sachfachunterricht, B1 Hör- und Hör-Sehverstehen, B2 Leseverstehen, B3 Sprechen, B4 Schreiben, C1 Wortschatzarbeit, C2 Grammatikvermittlung, C3 Aussprache und Intonation, E1 Differenzierung und Inklusion, E2 Fehlerkultur und Korrektur, E4 Kooperatives Lernen und Unterrichtsgespräch, E7 Anfangsunterricht, E8 Üben und Wiederholen, F1 Leistungsfeststellung und Bewertung, F2 Diagnose, F4 Oberstufe und Abitur, H3 Beratung und Nachbesprechung
+A2 Aufgabenorientierung und Lernaufgaben, A3 Mehrsprachigkeitsdidaktik, A4 Einsprachigkeit und Sprachwahl, A5 Motivation und Lernerautonomie, A6 Bilingualer Sachfachunterricht, B1 Hör- und Hör-Sehverstehen, B2 Leseverstehen, B3 Sprechen, B4 Schreiben, C1 Wortschatzarbeit, C2 Grammatikvermittlung, C3 Aussprache und Intonation, C4 Orthografie, E1 Differenzierung und Inklusion, E2 Fehlerkultur und Korrektur, E4 Kooperatives Lernen und Unterrichtsgespräch, E7 Anfangsunterricht, E8 Üben und Wiederholen, F1 Leistungsfeststellung und Bewertung, F2 Diagnose, F4 Oberstufe und Abitur, H3 Beratung und Nachbesprechung
 
 ## Bibliografie
 

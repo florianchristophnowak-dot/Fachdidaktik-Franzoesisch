@@ -1,6 +1,6 @@
 # Enzyklopädie Fachdidaktik Französisch
 
-Arbeitsgrundlage der Französisch-Fachleitung für Fachseminare, Unterrichtsbesuche und Beratungsgespräche: 47 Einträge in acht Bereichen, jeder nach derselben Vorlage mit elf Rubriken und mit Querverweisen untereinander.
+Arbeitsgrundlage der Französisch-Fachleitung für Fachseminare, Unterrichtsbesuche und Beratungsgespräche: 48 Einträge in acht Bereichen, jeder nach derselben Vorlage mit elf Rubriken und mit Querverweisen untereinander.
 
 **Website:** https://florianchristophnowak-dot.github.io/Fachdidaktik-Franzoesisch/ (dort auch die Offline-Fassung zum Herunterladen)
 
@@ -54,7 +54,7 @@ A2 Aufgabenorientierung und Lernaufgaben, B5 Sprachmittlung, E4 Kooperatives Ler
 
 ## Neuer Eintrag
 
-Im passenden Bereichsordner „Add file“ und „Create new file“ wählen, zum Beispiel `inhalt/C-sprachliche-mittel/C4-orthografie.md`, und den Inhalt nach dem Format oben schreiben. Die Website ordnet den Eintrag selbst ein. Nach der 9 geht es mit 10 weiter, zum Beispiel `E10-projektunterricht.md`; GitHub listet E10 alphabetisch vor E2, die Website ordnet nach der Nummer. Die Systematik-Tabelle in `inhalt/uebersicht.md` wird von Hand ergänzt; der Bau meldet, wenn Tabelle und Einträge nicht zusammenpassen (Kürzel, Titel, Status oder die Zahl der Einträge).
+Im passenden Bereichsordner „Add file“ und „Create new file“ wählen, zum Beispiel `inhalt/G-digitalitaet-und-ki/G3-erklaervideos-und-flipped-classroom.md`, und den Inhalt nach dem Format oben schreiben. Die Website ordnet den Eintrag selbst ein. Nach der 9 geht es mit 10 weiter, zum Beispiel `E10-projektunterricht.md`; GitHub listet E10 alphabetisch vor E2, die Website ordnet nach der Nummer. Die Systematik-Tabelle in `inhalt/uebersicht.md` wird von Hand ergänzt; der Bau meldet, wenn Tabelle und Einträge nicht zusammenpassen (Kürzel, Titel, Status oder die Zahl der Einträge).
 
 ## Suche
 
