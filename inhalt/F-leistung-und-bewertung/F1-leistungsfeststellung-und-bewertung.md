@@ -2,7 +2,7 @@
 
 ## Auf einen Blick
 
-Leistungsfeststellung prüft, was Lernende mit der Sprache tun können, und mündet in ein Urteil: Punkte, Note, Zeugnis. Dazu gehören Klassenarbeiten und Klausuren, mündliche Prüfungen und die laufenden Leistungen im Unterricht. Kompetenzorientiert ist sie, wenn sie dieselben Kompetenzen prüft, die der Unterricht aufgebaut hat, und wenn die Kriterien vorher bekannt sind. Gütekriterien sind Validität, Reliabilität und Objektivität, dazu Fairness, Transparenz und eine günstige Rückwirkung auf den Unterricht (washback).
+Leistungsfeststellung umfasst alle Verfahren, mit denen fremdsprachliche Kompetenzen und Lernprozesse systematisch erhoben, dokumentiert, beurteilt und zurückgemeldet werden, und mündet in ein Urteil: Punkte, Note, Zeugnis. Dazu gehören Klassenarbeiten und Klausuren, mündliche Prüfungen und die laufenden Leistungen im Unterricht, die sonstige Mitarbeit. Im Mittelpunkt steht kommunikative und interkulturelle Handlungsfähigkeit im Hör- und Hör-Sehverstehen, Leseverstehen, Sprechen, Schreiben und in der Sprachmittlung; sprachliche Mittel haben dienende Funktion, isoliertes Wissen wie Vokabelgleichungen oder einzelne Verbformen steht nicht im Vordergrund. Kompetenzorientiert ist Leistungsfeststellung, wenn sie dieselben Kompetenzen prüft, die der Unterricht aufgebaut hat, und wenn die Kriterien vorher bekannt sind. Gütekriterien sind Validität, Reliabilität und Objektivität, dazu Fairness, Transparenz und eine günstige Rückwirkung auf den Unterricht (washback).
 
 | Format | Beispiele | Prüft vor allem |
 | --- | --- | --- |
@@ -10,88 +10,167 @@ Leistungsfeststellung prüft, was Lernende mit der Sprache tun können, und mün
 | halboffen | Lückentext im Kontext, Kurzantworten, Notizen ergänzen | Verstehen und Verfügbarkeit sprachlicher Mittel |
 | offen | E-Mail, Blogbeitrag, Stellungnahme, Rollenspiel | Produktion, Interaktion, Sprachmittlung |
 
-- **Begriffe:** évaluation sommative, évaluation certificative, contrôle, grille d'évaluation, critères (frz.); summative assessment, testing, validity, reliability, washback, rubric, assessment literacy (engl.)
-- **Abgrenzung:** Lernsituationen dienen dem Üben, Fehler sind dort erwünscht (siehe E2). Leistungssituationen dienen der Bewertung. Feedback (siehe E3) und Diagnose (siehe F2) bereiten Bewertung vor, ersetzen sie aber nicht.
-- **Tags:** #Planung #Beratung #Abitur #empirischGut
-- **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober 2026)
+- **Begriffe:** contrôle des acquis, évaluation des apprentissages, évaluation formative, évaluation sommative, évaluation certificative, évaluation diagnostique, notation, jugement professionnel, grille d'évaluation, critères, copie étalon, co-évaluation, littératie en évaluation (frz.); language testing, classroom-based assessment, formative assessment, assessment for learning, summative assessment, assessment of learning, diagnostic assessment, validity, reliability, washback, scoring rubric, rating scale, language assessment literacy (engl.)
+- **Abgrenzung:** Lernsituationen dienen dem Üben, Fehler sind dort erwünscht (siehe E2). Leistungssituationen dienen der Bewertung. Feedback (siehe E3) und Diagnose (siehe F2) bereiten Bewertung vor, ersetzen sie aber nicht. Zu Zertifikaten siehe F3, zum Abitur siehe F4.
+- **Tags:** #Planung #Unterrichtsbesuch #Beratung #Abitur #empirischGut
+- **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober und November 2026)
+
+| Begriff | Bedeutung |
+| --- | --- |
+| Leistungsfeststellung und Leistungsmessung | Erfassen beobachtbarer Sprachleistungen mit Tests, Klassenarbeiten, Klausuren oder Prüfungsgesprächen (*mesure* oder *contrôle des acquis*; language testing). |
+| Leistungsbewertung und Leistungsbeurteilung | Der ganze Vorgang aus Erheben, kriteriengeleitetem Deuten (*jugement professionnel*), Rückmelden und gegebenenfalls Benoten (*évaluation des apprentissages*, *notation*; classroom-based assessment). |
+| Formativ und summativ | Formative Bewertung begleitet den Lernprozess, ist meist unbenotet und steuert das Weiterlernen (*évaluation formative*, *régulation des apprentissages*; assessment for learning). Summative Bewertung zieht am Ende einer Reihe, eines Halbjahres oder eines Bildungsgangs Bilanz, etwa in Klassenarbeit, Klausur, Abitur oder DELF (*évaluation sommative* oder *certificative*; assessment of learning). |
+| Evaluation | Der weiteste Begriff: Er umfasst neben Schülerleistungen auch die Qualität von Unterricht, Aufgaben und Lehrplänen (*évaluation d'un dispositif*, *évaluation de l'enseignement*; evaluation). |
+| Bewertungsraster | Instrument mit Kriterien und Deskriptoren für eine transparente, möglichst verlässliche Beurteilung offener Sprachproduktionen. Analytische Raster beurteilen die Kriterien einzeln, holistische fällen ein Gesamturteil (*grille d'évaluation analytique* oder *holistique*; scoring rubric, rating scale). |
+| Diagnose | Erfassen von Lernausgangslagen, Stärken und Förderbedarf vor oder während des Lernens (*évaluation diagnostique*; diagnostic assessment; siehe F2). |
+| Beurteilungskompetenz | Die professionelle Fähigkeit, Prüfungen valide zu konzipieren, fair auszuwerten und die Ergebnisse pädagogisch zu nutzen (*littératie en évaluation*; language assessment literacy, LAL). |
 
 ## Haltung
 
-1. Geprüft wird, was geübt wurde. Wer Sprechen übt, prüft auch Sprechen.
-2. Lern- und Leistungssituationen klar trennen. Wer im Unterricht ständig bewertet wird, probiert nichts mehr aus.
-3. Kriterien vorher offenlegen und mit Beispielen veranschaulichen. Dann ist Bewertung nachvollziehbar und lernwirksam.
-4. Bewerten ist Urteilen, nicht Messen. Erwartungshorizonte, Raster und Korrekturabsprachen im Fachkollegium machen Urteile fairer.
-5. Bewertet wird die kommunikative Leistung insgesamt: Inhalt, Textgestaltung, Ausdruck und Richtigkeit, nicht nur die Zahl der Fehler (zur Rechtschreibung siehe C4).
+1. Geprüft wird, was geübt wurde. Eine Prüfung ist nur valide, wenn sie misst, was im Unterricht Ziel war, etwa spontane mündliche Interaktion statt auswendig gelernter Dialoge (Vogt & Rossa 2025). Prüfungsformate wirken auf den Unterricht zurück: Grammatiklastige Klassenarbeiten ziehen formfokussierten Unterricht nach sich, kompetenzorientierte und auch mündliche Prüfungen stärken die kommunikative Praxis. Wer Sprechen übt, prüft auch Sprechen.
+2. Lern- und Leistungssituationen klar trennen und im Unterricht ausdrücklich rahmen. Lernen braucht einen angstfreien Raum, in dem Fehler als Übergangsformen der Lernersprache genutzt werden (Weinert 2014; siehe A7). Wer im Unterricht ständig bewertet wird, probiert nichts mehr aus und weicht auf sichere Minimalstrukturen aus. Im Anfangsunterricht, in dem Aussprache und Rechtschreibung viele Fehler mit sich bringen, ist diese Trennung Voraussetzung für Sprechbereitschaft.
+3. Bewertet wird die kommunikative Leistung insgesamt: Inhalt, Textgestaltung, Ausdruck und Richtigkeit, gemessen an Kann-Beschreibungen und an der sachlichen Bezugsnorm, nicht an der Zahl der Fehler oder am Vergleich in der Lerngruppe (zur Rechtschreibung siehe C4). Komplexe Kompetenzen lassen sich nicht durch das Addieren von Punkten für Einzelwissen abbilden, sondern durch ein begründetes Urteil anhand transparenter Kriterien (*jugement professionnel*; Mottier Lopez 2015; Scallon 2015).
+4. Kriterien vorher offenlegen und mit Beispielen veranschaulichen. Dann ist Bewertung nachvollziehbar und lernwirksam. Raster werden erst zu Lernwerkzeugen, wenn sie vorab mit den Lernenden erschlossen, in schülernahe Sprache übertragen und für Selbst- und Peer-Einschätzung genutzt werden (Khairallah & Adra 2022); in der frankophonen Didaktik heißt das *co-évaluation* und *régulation interactive* (Mottier Lopez 2015).
+5. Bewerten ist Urteilen, nicht Messen. Ohne Schulung urteilen Lehrkräfte stark subjektiv und nach impliziten Kriterien (Gan & Lam 2022; Vogt & Tsagari 2022). Erwartungshorizonte, Raster, Ankerbeispiele (*copies étalons*) und Korrekturabsprachen im Fachkollegium machen Urteile fairer, gerade bei offenen Schreib- und Sprechleistungen und bei der sonstigen Mitarbeit.
 
 ## Handlungshinweise
 
+**Für alle Lernjahre**
+
 - Klassenarbeiten von den Kompetenzzielen der Reihe her planen: geschlossene, halboffene und offene Aufgaben, möglichst in eine gemeinsame Situation eingebettet.
 - Die Aufgaben vorher selbst bearbeiten: Zeitbedarf prüfen, Erwartungshorizont schreiben, missverständliche Aufgabenstellungen klären.
+- Lern- und Leistungsphasen sichtbar machen, mit einem festen Signal oder einer klaren Ansage (*Phase d'entraînement : ici, on a le droit de faire des erreurs.* oder *Situation d'évaluation : maintenant, je note.*), und früh sagen, welche Produkte und Phasen in die Bewertung eingehen.
 - Mit Bewertungsrastern arbeiten (siehe B3, B4) und sie im Unterricht vorher an Beispieltexten erproben.
 - Neue Prüfungsformate vorher ohne Note erproben, etwa in einem *contrôle blanc* oder einer Übungsrunde zur mündlichen Prüfung.
 - Beim Schreiben Lern- und Leistungsphase trennen: Rohfassung, Peer-Feedback und Überarbeitung gehören zur Lernphase. Bewertet wird nur die Endfassung, mit einem Raster, das die Lernenden kennen (siehe B4, E3).
-- Laufende Unterrichtsleistungen transparent machen: Kriterien bekannt geben, regelmäßig kurze Notizen machen, in festen Abständen zum Leistungsstand rückmelden.
+- Rückgaben mit *feed-forward* verbinden: höchstens zwei oder drei vorrangige Entwicklungsziele, etwa Konnektoren oder der *accord du participe passé*. So wird die Berichtigung zur gezielten Überarbeitung statt zum Abschreiben (siehe E3).
+- Korrekturzeichen in der Fachschaft vereinheitlichen, dabei Grammatik, Wortschatz, Rechtschreibung und Ausdruck unterscheiden und gelungene kommunikative Passagen ebenso würdigen, wie Fehler markiert werden (siehe E2).
 - Mündliche Leistungen gezielt erheben: Präsentationen, Rollenspiele, Paarprüfungen statt nur Meldehäufigkeit. Zur Bewertung von Projekten siehe E10.
 - Hilfsmittel schrittweise einführen: Wörterbucharbeit üben, bevor das Wörterbuch in Klausuren zugelassen ist.
 - Nachteilsausgleich beachten: Zeitverlängerung oder technische Hilfen ändern die Bedingungen, nicht die Anforderungen.
-- **Sek II:** Abiturformate früh anbahnen. Die schriftliche Abiturprüfung Französisch in Thüringen hat drei Teile, Hörverstehen, Schreiben und Sprachmittlung, mit Aufgaben aus dem gemeinsamen Pool der Länder (siehe F4, B1, B5).
+
+**Sek I**
+
+- Klassenarbeiten laut Bericht dreiteilig anlegen: ein rezeptiver Teil mit geschlossenen und halboffenen Aufgaben zum Hör-, Hör-Seh- oder Leseverstehen, gegebenenfalls ein Teil zu sprachlichen Mitteln im Kontext, der mit den Lernjahren kleiner wird, und ein kommunikativer Schreib- oder Sprachmittlungsteil.
+- Aufgaben situativ einbetten, mit Adressat, Textsorte, Zweck und realistischer Wortzahl, und altersgerechte Operatoren wie *décrire*, *raconter*, *expliquer* und *donner son avis* schrittweise einführen.
+- Kompakte Raster mit drei oder vier Kriterien in schülernaher Sprache nutzen: Aufgabenerfüllung und Inhalt, Textaufbau und Kohärenz, Wortschatz, Sprachrichtigkeit und Verständlichkeit. Reine Fehlerquotienten bestrafen sprachliches Risiko und verzerren je nach Textlänge.
+- Freie Textproduktion gewinnt ab dem dritten Lernjahr an Gewicht. Im offenen Teil gewichten Schulen Sprache und Inhalt laut Bericht meist etwa 50 zu 50 oder 60 zu 40 zugunsten der Sprache; für Thüringen Abschnitt 7.2 des Lehrplans und die Beschlüsse der Fachkonferenz *prüfen*.
+- Wörterbücher sind in Klassenarbeiten in der Regel nicht vorgesehen; unbekannten, nicht erschließbaren Wortschatz annotieren. Bei häuslichen Ersatzleistungen wie Portfolios oder Erklärvideos den Arbeitsprozess dokumentieren lassen und ein kurzes Gespräch (*colloque*) einplanen (siehe G2).
+
+**Sek II**
+
+- Abiturformate früh anbahnen. Die schriftliche Abiturprüfung Französisch in Thüringen hat drei Teile, Hörverstehen, Schreiben und Sprachmittlung, mit Aufgaben aus dem gemeinsamen Pool der Länder (siehe F4, B1, B5).
+- Klausuren schrittweise an dieses Format heranführen: Schreiben zu einem literarischen oder nichtliterarischen Text mit Teilaufgaben in den Anforderungsbereichen I bis III (*résumer*, *présenter*; *analyser*, *expliquer*; *commenter*, *créer*), kombiniert mit Hörverstehen oder Sprachmittlung. Operatoren aus der verbindlichen Liste verwenden. Als Beispiel gewichtet der Bericht die Teilaufgaben mit 25 bis 30, 35 bis 40 und 30 bis 35 Prozent; der Thüringer Lehrplan verlangt in der Oberstufe ein angemessenes Verhältnis der Anforderungsbereiche (Kapitel 7).
+- Ab der Einführungsphase mit den Bewertungshinweisen des IQB arbeiten: Die sprachliche Leistung wird nach Lexik, Grammatik und Textgestaltung beurteilt, die gleichwertig zählen, die inhaltliche Leistung mit Teilnoten, die sich auf Deskriptoren stützen, statt Rohpunkte zu addieren. Laut Bericht werden Lexik und Grammatik jeweils nach Bandbreite und Korrektheit beurteilt, die Textgestaltung nach Aufbau und Angemessenheit, und die Sprache zählt 60, der Inhalt 40 Prozent. In Thüringen gelten die Hinweise seit 2025 verbindlich (siehe F4).
+- Ein- und zweisprachige Wörterbücher systematisch trainieren; welche im Abitur zugelassen sind, steht in den jährlichen Hinweisen des Ministeriums (siehe F4). Bei Facharbeiten und digitalen Leistungsnachweisen die Eigenständigkeit durch Zwischenstände, Quellenreflexion und ein Prüfungsgespräch absichern (siehe G2).
+
+**Sonstige Mitarbeit**
+
+- Das ganze Spektrum erfassen, nicht nur Wortmeldungen im Plenum: Ergebnisse aus Partner- und Gruppenarbeit, Kurzvorträge (*exposés*), Hör- und Leseaufgaben, Sprachnachrichten, Rollenspiele, Heft- oder Portfolioführung, angekündigte kurze Überprüfungen und überlegte Berichtigungen.
+- Qualität vor Häufigkeit: Zielsprachengebrauch, sachliche Richtigkeit, Tiefe der Reflexion und Interaktionsfähigkeit beurteilen, nicht die Zahl der Meldungen.
+- Kriterien bekannt geben und eine schlanke Beobachtungsroutine einführen: pro Stunde vier oder fünf Lernende reihum gezielt beobachten statt alle zugleich und Eindrücke zeitnah notieren. Das beugt dem Recency-Effekt vor, also der Überbewertung der letzten Wochen vor der Zeugniskonferenz.
+- Mindestens einmal im Halbjahr, etwa zur Quartalsmitte, kriterienbezogen zum Leistungsstand rückmelden, am besten zusammen mit einer kurzen Selbsteinschätzung der Lernenden.
+
+**Mündliche Prüfungen**
+
+- Bewährt sind Prüfungen zu zweit oder zu dritt mit zwei Teilen: zusammenhängendes Sprechen zu einem Bild-, Text- oder Rollenimpuls und ein Gespräch mit klaren Rolleninteressen, etwa Aushandeln, Beraten oder Streiten (*débat*, *jeu de rôle*). Paare und Aufgaben so wählen, dass beide gleichwertig zu Wort kommen (siehe F4).
+- Gesprächsstrategien vorher ausdrücklich üben: Redemittel für Zustimmung, Ablehnung, Nachfrage und Überbrückung (siehe C5).
+- Gesprächsführung und Protokoll trennen, wenn möglich im Tandem mit einer Fachkollegin oder einem Fachkollegen. Das Raster umfasst Inhalt und Aufgabenerfüllung, Interaktion, Flüssigkeit, Aussprache und Intonation sowie Bandbreite und Korrektheit von Wortschatz und Grammatik (siehe B3).
+- Ob eine mündliche Prüfung in Thüringen eine Klassenarbeit oder Klausur ersetzen kann, in der aktuellen ThürSchulO *prüfen* (siehe B3). Am Ende von Klassenstufe 10 ist die besondere Leistungsfeststellung in der Fremdsprache in der Regel eine mündliche Partnerprüfung (siehe F4).
+- Richtwerte für Dauer und Vorbereitung laut Bericht, für Thüringen *prüfen*:
+
+| Teil | Sek I | Sek II |
+| --- | --- | --- |
+| Zusammenhängendes Sprechen | etwa 2 bis 3 Minuten pro Person | etwa 4 bis 5 Minuten pro Person |
+| Gespräch | etwa 4 bis 6 Minuten | etwa 8 bis 10 Minuten |
+| Vorbereitung | etwa 10 bis 15 Minuten mit Stichwortzettel | meist 20 bis 30 Minuten |
 
 ## Best Practice Französisch
+
+**1. Lernjahr, A1/A1+: "Ma chambre de rêve".** Eine mündliche Leistungsfeststellung im ersten Lernjahr (Klasse 6 oder 7), angelehnt an einen Praxisbeitrag (Mügge 2019, nicht verifiziert). Ziele sind zusammenhängendes Sprechen (A1/A1+), an Gesprächen teilnehmen (A1) und der Wortschatz zu *meubles*, *prépositions de lieu*, *couleurs* und *activités*. In einer unbenoteten Lernphase von vier bis fünf Stunden erarbeiten die Lernenden Redemittel, gestalten ihr Traumzimmer als Schuhkarton-Modell oder Grundriss-Plakat und üben im Kugellager (*double cercle*) mit Peer-Feedback nach dem späteren Raster (siehe E4). Die Prüfung dauert zehn Minuten pro Tandem: Zuerst stellt jede Person ihr Zimmer zwei Minuten lang am Modell vor, ohne einen Fließtext abzulesen. Dann folgt ein Gespräch von vier Minuten mit Rollenkarte (*Tu visites la chambre de ton/ta correspondant(e) français(e). Pose 3 questions et réagis !*), etwa zu Lieblingsplätzen, Aktivitäten und einem Wunschobjekt (*Pourquoi est-ce que tu as … ?*). Prüfende und protokollierende Lehrkraft kreuzen direkt im Raster mit vier Kriterien zu je vier Stufen an. In den zwei Minuten Wechselzeit gibt es eine kurze Rückmeldung mit zwei Stärken und einem konkreten Tipp.
 
 **1./2. Lernjahr: "Un week-end à Paris".** Eine Klassenarbeit mit einer durchgehenden Situation: Lernende hören eine Sprachnachricht der Gastfamilie (geschlossene Aufgaben), lesen ein Wochenendprogramm (halboffene Aufgaben) und schreiben eine E-Mail mit ihren Wünschen (offen, mit Raster). Sprachliche Mittel werden im Kontext geprüft, etwa mit einem kurzen Lückentext zur Situation, nicht mit isolierten Sätzen.
 
 **3./4. Lernjahr: "Examen oral à deux".** Eine mündliche Prüfung zählt als Leistungsnachweis; ob sie eine Klassenarbeit ersetzen kann, in der ThürSchulO prüfen. Paare beschreiben zuerst je ein Bild (zusammenhängendes Sprechen) und planen dann gemeinsam ein Klassenfest (an Gesprächen teilnehmen). Das Bewertungsraster kennen die Lernenden aus Übungsrunden im Unterricht.
 
+**3./4. Lernjahr, A2+/B1: "Un échange scolaire à Lyon".** Eine Klassenarbeit in Klasse 9 mit durchgehender Situation, 60 bis 90 Minuten. Ziele sind Hörverstehen (B1), schriftliche Sprachmittlung vom Deutschen ins Französische (A2+/B1) und Schreiben (B1). *Compréhension orale* (etwa 15 Minuten): In einem adaptierten Audioclip von etwa zwei Minuten erklärt eine französische Gastfamilie ihre Alltagsregeln; die Lernenden hören zweimal, mit Zeit davor und danach, und lösen gemischte Aufgaben wie Multiple Choice, *vrai/faux* mit kurzer Begründung und eine Tabelle. *Médiation* (etwa 25 Minuten): Aus einem deutschen Infoblatt der eigenen Schule zu Allergien, Hobbys und Projektideen vermitteln sie der Gastfamilie in einer E-Mail, was für sie wichtig ist, etwa vegetarische Ernährung, Ankunftszeit und einen Ausflugsvorschlag, sinngemäß und kulturell angemessen statt wörtlich (siehe B5). *Production écrite* (etwa 25 Minuten): ein persönlicher Abschnitt mit eigenen Fragen und Vorschlägen für das gemeinsame Wochenende. Das Hörverstehen wird nach Lösungsschlüssel bewertet (etwa 30 Prozent), Sprachmittlung und Schreiben mit einem Raster: Inhalt, Adressatenbezug und Strategien zu 40 bis 50 Prozent, die sprachliche Leistung zu 50 bis 60 Prozent (siehe D6).
+
 **4. Lernjahr: "Brouillon, feedback, version finale".** Lernende schreiben eine Stellungnahme zur Frage *Les réseaux sociaux : plutôt utiles ou plutôt dangereux ?* Sie sammeln Argumente in einer Mindmap, schreiben eine Rohfassung und geben sich mit Leitfragen Feedback (*Est-ce que l'avis est clair ? · Quels arguments et exemples ? · Quels connecteurs ?*). Nach der Überarbeitung schreiben alle die Endfassung im Unterricht. Bewertet wird nur diese, mit dem Raster, das die Klasse aus der Feedbackphase kennt.
 
 **Sek II: "Calibrer la grille".** Vor der ersten Klausur bewertet der Kurs drei anonymisierte Schülertexte mit dem Abiturraster und vergleicht die Ergebnisse. In der Klausur schätzen die Lernenden ihren Text vor der Abgabe selbst ein, die Lehrkraft vergleicht diese Einschätzung mit ihrer Bewertung.
 
+**Sek II, B1+/B2: "Les relations franco-allemandes : un moteur pour l'Europe ?".** Eine mündliche Paarprüfung in der Qualifikationsphase, die laut Bericht eine Klausur ersetzt, nach dem Muster einer Handreichung aus Nordrhein-Westfalen (MSW NRW 2014, nicht verifiziert); ob das in Thüringen möglich ist, *prüfen*. Ziele sind Sprechen in Monolog und Interaktion (B1+/B2), Text- und Medienkompetenz und interkulturelle kommunikative Kompetenz (siehe D8). Die Prüflinge bereiten sich 25 bis 30 Minuten einzeln unter Aufsicht vor, mit Wörterbuch nach den Landesvorgaben und Notizen nur in Stichpunkten; die Prüfung dauert 20 bis 25 Minuten. Teil 1 (etwa vier Minuten pro Person): strukturierte Präsentation und Deutung einer Karikatur oder Infografik, etwa zu deutsch-französischen Jugendinitiativen oder zur Energie- und Klimapolitik (*présenter*, *analyser*). A und B erhalten verschiedene Materialien, damit eine echte Informationslücke entsteht. Teil 2 (etwa zehn bis zwölf Minuten): eine Podiumsdiskussion im *Forum franco-allemand des jeunes* mit Rollenkarten für gegensätzliche Positionen, mehr gemeinsame EU-Projekte oder nationale Schwerpunkte. Die Prüflinge müssen Argumente des Gegenübers aufgreifen, nachfragen und einen Kompromiss aushandeln. Bewertet werden Inhalt und Aufgabenerfüllung zu 40 Prozent, Sprache und Interaktion zu 60 Prozent: Interaktionsfähigkeit, Flüssigkeit und Aussprache, Wortschatz, Grammatik.
+
 ## Stolpersteine
 
-| Stolperstein | Woran man es erkennt |
-| --- | --- |
-| Prüfung passt nicht zum Unterricht | Der Unterricht war kommunikativ, die Klassenarbeit besteht aus Lückentexten und Übersetzungssätzen. |
-| Fehlerzählen statt Kompetenz | Die Note hängt fast nur an der Zahl der Fehler, Inhalt und Textgestaltung zählen kaum. |
-| Mündliche Noten nach Gefühl | Keine Notizen, keine Kriterien, die Halbjahresnote überrascht Lernende und Eltern. |
-| Dauerbewertung | Jeder Beitrag wird benotet, Lernende trauen sich nichts mehr zu. |
-| Unklare Aufgabenstellung | Viele Lernende bearbeiten die Aufgabe anders als gedacht. |
-| Hilfen während der Prüfung | Einzelne Lernende bekommen während der Klassenarbeit Tipps, die Bedingungen sind nicht mehr für alle gleich. |
-| Mündliche Prüfung ohne Übung | Format und Ablauf sind neu, die Aufregung überdeckt die sprachliche Leistung. |
+| Stolperstein | Woran man es erkennt | Gegensteuern |
+| --- | --- | --- |
+| Prüfung passt nicht zum Unterricht | Der Unterricht war kommunikativ, die Klassenarbeit besteht aus Lückentexten und Übersetzungssätzen. Oder umgekehrt: Der Unterricht verengt sich auf das Abarbeiten von Prüfungsformaten (negativer washback). | Von den Kompetenzzielen der Reihe her planen und jedes Prüfungsformat vorher üben, ohne den Unterricht auf Formate zu verengen. |
+| Etikettenschwindel | Eine Aufgabe zum Hörverstehen verlangt so lange offene Antworten, dass eher die Rechtschreibung als das Verstehen geprüft wird. Eine "Sprachmittlung" ist faktisch eine Übersetzung Satz für Satz ohne Adressat und Situation. | Vorher fragen, welche Teilkompetenz die Aufgabe misst und was sie ungewollt mitmisst; die Antwortformate daran anpassen (siehe B1, B5). |
+| Unklare oder überladene Aufgabenstellung | Viele Lernende bearbeiten die Aufgabe anders als gedacht. Ein Auftrag häuft mehrere Operatoren (*Résumez, analysez et commentez …*), lässt den Umfang offen oder verlangt Anforderungsbereich III, der vorher nicht geübt wurde. | Ein Operator pro Teilaufgabe, Umfang angeben, die Aufgabe selbst bearbeiten oder gegenlesen lassen. |
+| Fehlerzählen und Scheinobjektivität | Die Note hängt fast nur an der Zahl der Fehler; ein gewagter, kommunikativ gelungener Text schneidet schlechter ab als ein inhaltsleerer, fehlerarmer Minimaltext. Oder ein Raster für das Prüfungsgespräch hat 25 Einzelkriterien mit halben Punkten, die niemand parallel beobachten kann. | Wenige, klar beschriebene Kriterien; Inhalt, Textgestaltung und Sprache gewichten; Ankerbeispiele nutzen. |
+| Mündliche Noten nach Gefühl | Keine Notizen, keine Kriterien, die Halbjahresnote überrascht Lernende und Eltern. Die Note folgt fast nur der Meldehäufigkeit; stille Lernende, die in Partnerarbeit und schriftlichen Zwischenprodukten stark sind, fallen ab, und auf Nachfrage lässt sich das Urteil nicht belegen (Halo-, Recency- und Extrovertiertheitseffekt). | Kriterien bekannt geben, reihum gezielt beobachten, zeitnah notieren und zur Quartalsmitte rückmelden. |
+| Dauerbewertung | Jeder Beitrag wird benotet; schon in der ersten Übungsphase macht die Lehrkraft sichtbar Striche auf der Sitzplanliste. Lernende trauen sich nichts mehr zu, melden sich nur bei leichten Fragen und fragen: "Zählt das jetzt zur Note?" | Lern- und Leistungsphasen ankündigen und trennen; in Übungsphasen Feedback statt Noten. |
+| Hilfen während der Prüfung | Einzelne Lernende bekommen während der Klassenarbeit Tipps, die Bedingungen sind nicht mehr für alle gleich. | Erlaubte Hilfen vorher festlegen und allen gleich anbieten; ein Nachteilsausgleich regelt die Bedingungen, nicht die Anforderungen. |
+| Mündliche Prüfung ohne Übung | Format und Ablauf sind neu, etwa eine Paarprüfung oder ein Hör-Sehverstehen; die Aufregung überdeckt die sprachliche Leistung. | Probelauf ohne Note mit demselben Raster; Ablauf und Redemittel vorher üben. |
 
 ## Beobachten und beraten
 
-- Passt die geplante Klassenarbeit zu den Kompetenzzielen der Reihe?
-- Gibt es einen Erwartungshorizont und ein Raster, und kennen die Lernenden die Kriterien?
-- Wie werden mündliche und laufende Unterrichtsleistungen erhoben und dokumentiert?
-- Waren Lern- und Leistungssituationen für die Lernenden erkennbar getrennt?
+**Beobachten**
+
+- **Rahmung:** Wird ausdrücklich geklärt, ob es um eine fehlerfreundliche Übung oder um eine Bewertungssituation geht? Waren Lern- und Leistungssituationen für die Lernenden erkennbar getrennt?
+- **Feedback und Korrektur:** Wird phasengerecht und ermutigend korrigiert, in Phasen der Flüssigkeit verzögert und inhaltlich, in Phasen der Genauigkeit gezielt? Nutzen die Lernenden die Kriterien sichtbar in Selbst- und Peer-Feedback (siehe E2, E3)?
+- **Diagnostische Wahrnehmung:** Erkennt die Lehrkraft während der Stunde typische sprachliche Hürden, etwa Genusfehler, fehlende *liaison* oder falsch gebrauchte Konnektoren, und steuert sie nach (siehe F2)?
+- **Passung zum Leistungsnachweis:** Bildet die Reihe die Kompetenzen und Strategien ab, die in der anstehenden Klassenarbeit, Klausur oder mündlichen Prüfung verlangt werden? Gibt es einen Erwartungshorizont und ein Raster, und kennen die Lernenden die Kriterien?
+- **Sonstige Mitarbeit:** Wie werden mündliche und laufende Unterrichtsleistungen erhoben und dokumentiert?
 - Leitfrage: "Welche Aufgabe Ihrer Klassenarbeit haben die Lernenden in ähnlicher Form schon im Unterricht bearbeitet?"
+
+**Beraten**
+
+- **Lernen und Leisten:** "An welcher Stelle der Stunde wussten die Lernenden sicher, dass sie sprachlich experimentieren dürfen, ohne Nachteile für ihre Note befürchten zu müssen?"
+- **Konstruktvalidität:** "Welche Teilkompetenz wollten Sie mit dieser Aufgabe überprüfen, und welche anderen Fähigkeiten, etwa Lese- oder Schreibtempo, haben das Ergebnis möglicherweise mitbestimmt?"
+- **Bewertungslogik:** "Wie gewichten Sie bei diesem Schülerprodukt die kommunikative Zielerreichung gegenüber der formalen Sprachrichtigkeit, und woran erkennen die Lernenden diesen Maßstab vorab?"
+- **Sonstige Mitarbeit:** "Auf welcher Grundlage könnten Sie einer zurückhaltenden Schülerin nach dieser Stunde nachvollziehbar begründen, wo sie steht und wie sie sich verbessern kann?"
+- **Nachbereitung:** "Welche Konsequenzen ziehen Sie aus den typischen Fehlermustern dieser Klassenarbeit für die Planung der nächsten Reihe?"
 
 ## Reflexionsfragen
 
 - Würde eine Kollegin oder ein Kollege diese Arbeit genauso bewerten wie ich?
 - Was lernen meine Schülerinnen und Schüler aus meinen Prüfungen darüber, was im Französischunterricht zählt?
 - Wie viel Gewicht hat Sprechen in meinen Noten?
+- Welche Erfahrungen aus meiner eigenen Schul- und Studienzeit prägen mein Bild von "guter Leistung" im Französischunterricht, und wo führt das zu blinden Flecken, etwa einer Überbewertung der Rechtschreibung gegenüber der Sprechflüssigkeit?
+- Könnten meine Lernenden vor der nächsten Leistungsüberprüfung in eigenen Worten die drei wichtigsten Kriterien für eine gute Leistung nennen?
+- Welche Möglichkeiten haben ruhige oder sprachängstliche Lernende in meinem Unterricht, ihr Können jenseits der spontanen Meldung im Plenum zu zeigen?
+- Ist meine Klassenarbeit in der vorgesehenen Zeit lösbar? Habe ich sie selbst geschrieben und meine Schreibzeit mit dem Faktor zweieinhalb bis drei multipliziert, den der Bericht als Faustregel nennt?
+- Wie verändere ich meinen Unterricht aufgrund der Ergebnisse von Klassenarbeiten und Tests, statt nach der Rückgabe einfach zur nächsten Lektion überzugehen?
+- Bei welchen Leistungsformen sind KI-Werkzeuge im Lernprozess sinnvoll, etwa als Feedback zu Aussprache oder Textüberarbeitung, und wie sichere ich bei summativen Leistungsnachweisen Eigenständigkeit und Fairness (siehe G2)?
 
 ## Bezüge
 
-- **KMK 2023:** Kompetenzerwartungen für ESA und MSA als Bezugspunkt für Aufgaben; Aufgabenbeispiele des IQB.
-- **KMK 2012 Abitur:** Anforderungsbereiche I bis III und Aufgabenarten der Abiturprüfung. Seit dem Abitur 2017 können die Länder Aufgaben aus gemeinsamen Pools des IQB nutzen, auch für Französisch als fortgeführte Fremdsprache.
-- **GeR-Begleitband 2020:** Skalen und Deskriptoren als Grundlage für Raster und Selbsteinschätzung.
-- **Thüringen:** Leistungsnachweise und Leistungsbewertung regeln §§ 58 und 59 ThürSchulO, in der Oberstufe § 74; die Abiturprüfung regeln §§ 92 ff. (Paragrafen nach der Fassung 2021, mit der aktuellen Fassung abgleichen). Die Thüringer Oberstufe umfasst die Einführungsphase in Klasse 10 und die Qualifikationsphase in den Klassen 11 und 12 mit Kursen auf erhöhtem und grundlegendem Anforderungsniveau (§ 7 ThürSchulG). Aufgabenarten, Gewichtung von Inhalt und Sprache sowie Hilfsmittel im Abitur Französisch ließen sich nicht prüfen.
+- **KMK 2023:** Kompetenzerwartungen für ESA und MSA als Bezugspunkt für Aufgaben; Aufgabenbeispiele des IQB. Die Standards vom 22.06.2023 formulieren Regelstandards als Kann-Beschreibungen und verbinden die funktionale kommunikative Kompetenz mit Text- und Medienkompetenz einschließlich literarisch-ästhetischer Kompetenz, Sprachbewusstheit und Sprachlernkompetenz. Sie gelten formal für die erste Fremdsprache; für Französisch als zweite Fremdsprache dienen sie laut Bericht als Referenzrahmen, dessen Zielniveaus die Länder an die kürzere Lernzeit anpassen, typischerweise A2+ bis B1 in Teilbereichen.
+- **KMK 2012 Abitur:** Anforderungsbereiche I bis III und Aufgabenarten der Abiturprüfung. Seit dem Abitur 2017 können die Länder Aufgaben aus gemeinsamen Pools des IQB nutzen, auch für Französisch als fortgeführte Fremdsprache. Leitniveau ist B2, laut Bericht auf grundlegendem Niveau teils B1+ und auf erhöhtem Niveau in Teilkompetenzen mit Ausblick auf C1; sprachliche Mittel haben dienende Funktion. Der Pool umfasst Schreiben, Hörverstehen und Sprachmittlung; zu Arbeitszeiten, Gewichtung und Bewertungshinweisen siehe F4.
+- **GeR-Begleitband 2020:** Skalen und Deskriptoren als Grundlage für Raster und Selbsteinschätzung. Leitbild ist die oder der Lernende als sozialer Akteur (*acteur social*) mit eigenem Kompetenzprofil statt des Muttersprachlerideals. Neu oder präzisiert sind die Skalen zur Mediation von Texten, Konzepten und Kommunikation, die weit über die deutsche Sprachmittlung hinausreicht (siehe B5), zur Online-Interaktion, zu plurilingualer und plurikultureller Kompetenz und zur Rezeption literarischer Texte. Feinere Stufen wie Pre-A1 und die Plus-Niveaus (A2+, B1+) machen Lernfortschritte im Anfangsunterricht der zweiten Fremdsprache besser sichtbar.
+- **Thüringen:** Leistungsnachweise und Leistungsbewertung regeln §§ 58 und 59 ThürSchulO, in der Oberstufe § 74; die Abiturprüfung regeln §§ 92 ff. (Paragrafen nach der Fassung 2021, mit der aktuellen Fassung abgleichen). Die Thüringer Oberstufe umfasst die Einführungsphase in Klasse 10 und die Qualifikationsphase in den Klassen 11 und 12 mit Kursen auf erhöhtem und grundlegendem Anforderungsniveau (§ 7 ThürSchulG). Zu Prüfungsteilen, Arbeitszeiten und Bewertungshinweisen im Abitur Französisch siehe F4; das Verhältnis von Inhalt und Sprache und die zugelassenen Wörterbücher in den Hinweisen des IQB und des Ministeriums *prüfen*.
 - **Thüringen, Lehrplan:** Kapitel 7 des Lehrplans Französisch 2026 regelt die Leistungseinschätzung: ganzheitlich über alle Kompetenzbereiche, in der Oberstufe mit angemessenem Verhältnis der Anforderungsbereiche I bis III. Im Vordergrund steht die Überprüfung kommunikativer Kompetenzen; sprachliche Mittel werden nicht isoliert, sondern im Kontext bewertet. Produktive Leistungen werden mehrdimensional nach Bandbreite, Korrektheit und Flüssigkeit beurteilt, in Anlehnung an das CAF-Modell. Beim Hör- und Leseverstehen liegt der Schwerpunkt auf der Rezeptionsleistung. Sprachreflexion, Text- und Medienkompetenz und interkulturelle Kompetenz werden nicht gesondert, sondern im Zusammenhang mit den kommunikativen Leistungen bewertet. Kriterien je Lernbereich nennt Abschnitt 7.2.
+- **Thüringen, Abgleich laut zweitem Bericht:** Der Bericht nennt vier Punkte, die ein Seminar landesspezifisch ergänzen soll. Für Thüringen: (1) Zahl und Dauer der Klassenarbeiten und Klausuren je Klassenstufe und Kursart: Rahmen in §§ 58 und 59 ThürSchulO, für die Oberstufe § 74; die Werte *prüfen*. Im letzten Kurshalbjahr dauert die Klausur in einem schriftlichen Prüfungsfach in der Regel so lange wie die Abiturprüfung (siehe F4). (2) Mündliche Prüfungen als Ersatz für eine Klassenarbeit oder Klausur: *prüfen* (siehe B3); am Ende von Klassenstufe 10 ist die besondere Leistungsfeststellung in der Fremdsprache in der Regel eine mündliche Partnerprüfung mit Aufgaben der Schule (siehe F4). (3) Das Verhältnis von schriftlichen Leistungen und sonstiger Mitarbeit, für das der Bericht Beispiele wie 50 zu 50 oder 40 zu 60 nennt, und die Grenze für "ausreichend", laut Bericht etwa 45 oder 50 Prozent: *prüfen*, auch in den Beschlüssen der Fachkonferenz. (4) Abitur: Thüringen nutzt Aufgaben aus dem gemeinsamen Pool. Die Festlegungen mit Stand 25. Juli 2025 nennen die Teile A Hörverstehen, B Schreiben und C, nach den Arbeitszeiten die Sprachmittlung, und seit 2025 gelten die IQB-Hinweise zur Bewertung verbindlich, mit Teilnoten in allen drei Teilen (siehe F4). Der Bericht nennt als Beispiel eine Gewichtung von 60 Prozent Schreiben und je 20 Prozent Hörverstehen und Sprachmittlung; der Pool sieht 55, 25 und 20 Prozent für Schreiben, Sprachmittlung und Hörverstehen vor. Welche Gewichtung in Thüringen gilt, welche Wörterbücher zugelassen sind und welche Formen die mündliche Abiturprüfung hat, etwa eine Kommunikationsprüfung, *prüfen*; die mündliche Abiturprüfung regelt § 101 ThürSchulO (Fassung 2021).
 - **Thüringen Vorbereitungsdienst:** Kompetenzbereich Beurteilen (§ 2 Abs. 1 ThürAZStPLVO).
 
 ## Forschungslage
 
 - Schulnoten sind nur begrenzt verlässlich und vergleichbar, sie hängen von Bezugsgruppe und bewertender Person ab (Ingenkamp 1971; Überblick bei Brookhart et al. 2016).
-- Analytische Raster erhöhen die Übereinstimmung zwischen Bewertenden, vor allem zusammen mit Beispieltexten und Schulung (Jonsson & Svingby 2007).
+- Analytische Raster erhöhen die Übereinstimmung zwischen Bewertenden, vor allem zusammen mit Beispieltexten und Schulung (Jonsson & Svingby 2007). Lernwirksam werden sie erst, wenn die Lernenden sie verstehen: In einer Aktionsforschung zum Schreiben in der Fremdsprache verkürzten Lernende bloß ausgeteilte Raster auf formale Korrektheit; erst gemeinsames Aushandeln und Anwenden im Schreibprozess förderte Aufgabenverständnis und selbstreguliertes Schreiben (Khairallah & Adra 2022).
 - Prüfungen wirken auf den Unterricht zurück, aber nicht automatisch in die gewünschte Richtung (Alderson & Wall 1993).
-- Fremdsprachenlehrkräfte in Europa fühlen sich für Leistungsbewertung oft unzureichend ausgebildet und wünschen sich Fortbildung (Vogt & Tsagari 2014).
-- Offen: wie Noten, Kompetenzbeschreibungen und Portfolios zusammenpassen und wie KI Prüfungsformate verändert (siehe G2).
+- Fremdsprachenlehrkräfte in Europa fühlen sich für Leistungsbewertung oft unzureichend ausgebildet und wünschen sich Fortbildung (Vogt & Tsagari 2014). Neuere Überblicke bestätigen, dass die Ausbildung zu wenig auf Testkonstruktion, Raster und formative Diagnose vorbereitet und Lehrkräfte in der Praxis auf eigene Routinen oder Vorschläge der Lehrwerke zurückgreifen (Gan & Lam 2022; Vogt & Tsagari 2022; Vogt & Rossa 2025). Gemeinsames Entwickeln und Abstimmen von Schreibaufgaben in einer Lerngemeinschaft förderte bei angehenden Lehrkräften die Beurteilungskompetenz (Ho & Yan 2021).
+- Lehrkräfte korrigieren fremdsprachliche Texte häufig nach impliziten Kriterien und nutzen korrigierte Arbeiten selten systematisch für das Weiterlernen (Noiroux & Simons 2016; siehe E2).
+- Die Normierungs- und Validierungsstudien zu den Bildungsstandards Französisch zeigten, wie anspruchsvoll verlässliche und zugleich authentische Aufgaben für rezeptive und produktive Kompetenzen sind (Porsch, Tesch & Köller 2010).
+- **Kontrovers, Bildungsstandards:** Ein Themenschwerpunkt der Zeitschrift für Fremdsprachenforschung zu den Standards von 2023 diskutiert, wie weit sie sich für Mehrsprachigkeit, Mediation und Varietäten öffnen und wie weit eine einsprachige Standardideologie fortbesteht (Reckermann et al. 2024, nicht verifiziert; Rossa & Wilden 2024, nicht verifiziert). Strittig bleibt auch, wie sich der weite Mediationsbegriff des GeR zur schulisch prüfbaren Sprachmittlung verhält (Marxl et al. 2024, nicht verifiziert; siehe B5).
+- **Kontrovers, Teilnoten oder Rohpunkte:** Laut Bericht stößt die Umstellung auf kriterienorientierte Bewertung nach den IQB-Hinweisen, ohne Rohpunkte im Schreibteil, in Schulen teils auf den Vorwurf der Subjektivität; die Sprachprüfungsforschung hält das auf Deskriptoren gestützte Gesamturteil dagegen für konstruktvalider.
+- **Kontrovers, trennen oder verschränken:** Die deutschsprachige Didaktik betont im Anschluss an Weinert (2014) die klare Trennung von Lernen und Leisten. Die frankophone Forschung zur *évaluation située* (Mottier Lopez 2015) und die angloamerikanische zum Dynamic Assessment fragen dagegen, wie fördernde und diagnostische Verfahren enger mit dem laufenden Lernen verschränkt werden können, ohne Prüfungsangst zu erzeugen (siehe F2).
+- **Offen:** wie KI Prüfungsformate verändert. Erste Praxisarbeiten nutzen KI-gestütztes Feedback für Aussprache, Sprechbereitschaft und Schreiben (laut Bericht Plötner & Rudolph 2026); offen ist, wie Hausarbeiten, Portfolios und digitale Sprachprodukte valide, fair und KI-fest gestaltet werden können (siehe G2). Offen ist auch, wie Lehrkräfte die sonstige Mitarbeit, die laut Bericht oft die Hälfte der Zeugnisnote ausmacht, verlässlich erfassen; für den Französischunterricht gibt es dazu kaum Forschung. Ebenso offen: wie Noten, Kompetenzbeschreibungen und Portfolios zusammenpassen und wie sich Haltungen, Perspektivwechsel und ästhetisches Verstehen jenseits abfragbaren Kulturwissens transparent und ethisch vertretbar bewerten lassen (Vogt & Rossa 2025; siehe D1, D2).
 
 ## Querverweise
 
-A1 Kompetenzorientierung, B3 Sprechen, B4 Schreiben, B5 Sprachmittlung, C4 Orthografie, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, E10 Projektunterricht und Lernen durch Lehren, F2 Diagnose, F3 DELF scolaire und Zertifikate, F4 Oberstufe und Abitur, G2 Künstliche Intelligenz
+A1 Kompetenzorientierung, A7 Spracherwerb und Lernersprache, B1 Hör- und Hör-Sehverstehen, B3 Sprechen, B4 Schreiben, B5 Sprachmittlung, C4 Orthografie, C5 Pragmatik und Gesprächsstrategien, D1 Inter- und transkulturelle Kompetenz, D2 Literatur, D6 Austausch und Begegnung, D8 Erinnerungskultur und deutsch-französische Beziehungen, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, E4 Kooperatives Lernen und Unterrichtsgespräch, E10 Projektunterricht und Lernen durch Lehren, F2 Diagnose, F3 DELF scolaire und Zertifikate, F4 Oberstufe und Abitur, G2 Künstliche Intelligenz
 
 ## Bibliografie
 
@@ -99,20 +178,50 @@ A1 Kompetenzorientierung, B3 Sprechen, B4 Schreiben, B5 Sprachmittlung, C4 Ortho
 
 - Ingenkamp, K. (Hrsg.) (1971). *Die Fragwürdigkeit der Zensurengebung.* Beltz.
 - Alderson, J. C. & Wall, D. (1993). Does washback exist? *Applied Linguistics, 14*(2), 115–129.
+- Leupold, E. (2007). *Französisch unterrichten. Grundlagen, Methoden, Anregungen* (4. Aufl.). Kallmeyer. *(Hinweis: Spätere Auflagen nicht gesondert verifiziert.)*
+- Sacher, W. (2009). *Leistungen entwickeln, überprüfen und beurteilen. Bewährte und neue Wege für die Primar- und Sekundarstufe* (5., überarb. und erw. Aufl., unter Mitarbeit von S. Rademacher). Klinkhardt. *(ISBN 978-3-7815-1672-4)*
 - Bachman, L. F. & Palmer, A. S. (2010). *Language Assessment in Practice.* Oxford University Press.
+- Porsch, R., Tesch, B. & Köller, O. (Hrsg.) (2010). *Standardbasierte Testentwicklung und Leistungsmessung. Französisch in der Sekundarstufe I.* Waxmann. *(ISBN 978-3-8309-2274-2)*
+- Weinert, F. E. (Hrsg.) (2014). *Leistungsmessungen in Schulen* (3., aktual. Aufl.). Beltz. *(ISBN 978-3-407-25690-4; Erstauflage 2001)*
+- Krechel, H.-L. (Hrsg.) (2015). *Französisch-Didaktik. Praxishandbuch für die Sekundarstufe I und II.* Cornelsen. *(ISBN 978-3-589-22078-6)* *(nicht verifiziert)*
+- Nieweler, A. (Hrsg.) (2017). *Fachdidaktik Französisch. Das Handbuch für Theorie und Praxis.* Klett Sprachen. *(ISBN 978-3-12-920373-6)*
+- Vogt, K. & Rossa, H. (Hrsg.) (2025). *Leistungsmessung, Evaluation und Feedback im Fremdsprachenunterricht. Ein Handbuch für Studium, Referendariat und Unterricht.* Klett Kallmeyer. *(ISBN 978-3-7727-1776-5)*
 
 **Aktuell und international**
 
 - Jonsson, A. & Svingby, G. (2007). The use of scoring rubrics: Reliability, validity and educational consequences. *Educational Research Review, 2*(2), 130–144.
-- Vogt, K. & Tsagari, D. (2014). Assessment literacy of foreign language teachers: Findings of a European study. *Language Assessment Quarterly, 11*(4), 374–402.
+- Huver, E. & Springer, C. (2011). *L'évaluation en langues. Nouveaux enjeux et perspectives.* Didier. [Cairn](https://shs.cairn.info/l-evaluation-en-langues--9782278064007)
+- Vogt, K. & Tsagari, D. (2014). Assessment literacy of foreign language teachers: Findings of a European study. *Language Assessment Quarterly, 11*(4), 374–402. https://doi.org/10.1080/15434303.2014.960046
 - Grotjahn, R. & Kleppin, K. (2015). *Prüfen, Testen, Evaluieren* (Deutsch Lehren Lernen 7). Klett-Langenscheidt.
+- Mottier Lopez, L. (2015). *Évaluations formative et certificative des apprentissages. Enjeux pour l'enseignement.* De Boeck.
+- Scallon, G. (2015). *Des savoirs aux compétences. Explorations en évaluation des apprentissages.* ERPI.
 - Brookhart, S. M. et al. (2016). A century of grading research: Meaning and value in the most common educational measure. *Review of Educational Research, 86*(4), 803–848.
+- Noiroux, K. & Simons, G. (2016). La correction de l'expression écrite en langue étrangère et son exploitation pédagogique. Expliciter l'implicite ? *Recherches en didactique des langues et des cultures.* https://doi.org/10.4000/rdlc.1302 *(Band-/Heftnummer nicht separat verifiziert; Volltext unter https://journals.openedition.org/rdlc/1302)*
+- Vogt, K. & Quetz, J. (2018). *Assessment im Englischunterricht. Kompetenzorientiert beurteilen und bewerten.* Helbling.
+- Mügge, M. (2019). "Ma chambre de rêve" – eine kreative Lernaufgabe mit mündlicher Klassenarbeit im ersten Lernjahr. *Französisch heute, 50*(1), 12–17. *(nicht verifiziert)*
 - Hughes, A. & Hughes, J. (2020). *Testing for Language Teachers* (3. Aufl.). Cambridge University Press.
+- Ho, E. C. & Yan, X. (2021). Using community of practice to characterize collaborative essay prompt writing and its role in developing language assessment literacy for pre-service language teachers. *System, 101*, 102569. https://doi.org/10.1016/j.system.2021.102569
+- Gan, L. & Lam, R. (2022). A review on language assessment literacy: Trends, foci and contributions. *Language Assessment Quarterly, 19*(5), 503–525. https://doi.org/10.1080/15434303.2022.2128802
+- Khairallah, M. & Adra, O. (2022). The multifaceted function of rubrics as formative assessment tools: A classroom-based action research in an L2 writing context. *Language Teaching Research, 29*(5), 2263–2280. https://doi.org/10.1177/13621688221104210 *(Online-Vorabveröffentlichung 2022; Printausgabe Band 29(5))*
+- Vogt, K. & Tsagari, D. (2022). Language assessment literacy and test validation: Highlighting the role of language teachers. *Studies in Language Assessment, 11*(1), 1–15.
+- Bart, D. (2023). *Évaluation et didactique, un dialogue critique.* Peter Lang. *(Rezensiert 2024 in Recherches en didactique des langues et des cultures, https://journals.openedition.org/rdlc/13614)*
+- Marxl, A., Müller, J. I., Rössler, A. & Schädlich, B. (2024). Mediation und Sprachmittlung: Diskussion eines komplexen Konzepts in den neuen Bildungsstandards. *Zeitschrift für Fremdsprachenforschung, 35*(1). *(Genaue Seitenzahlen in den öffentlich zugänglichen Inhaltsmetadaten nicht verifiziert; Heftübersicht unter https://www.wbv.de/shop/Zeitschrift-fuer-Fremdsprachenforschung-1-2024-ZFF2401)* *(nicht verifiziert)*
+- Reckermann, J., Römhild, R. & Schildhauer, P. (2024). Englisch und Französisch als globale Sprachen: Die Bildungsstandards zwischen Tradition und Innovation. *Zeitschrift für Fremdsprachenforschung, 35*(1), 23–38. Digitaler Anhang: https://doi.org/10.17879/57998429006 *(nicht verifiziert)*
+- Rossa, H. & Wilden, E. (2024). Was bedeutet es, eine Fremdsprache zu können? Bildungsstandards für die erste Fremdsprache als unterrichtsbezogener Referenzrahmen und Instrument politischer Steuerung. *Zeitschrift für Fremdsprachenforschung, 35*(1). *(Genaue Seitenzahlen in den öffentlich zugänglichen Inhaltsmetadaten nicht verifiziert; Heftübersicht unter https://www.wbv.de/shop/Zeitschrift-fuer-Fremdsprachenforschung-1-2024-ZFF2401)* *(nicht verifiziert)*
 
 **Praxis und Online**
 
-- [Thüringer Schulportal](https://www.schulportal-thueringen.de/): Lehrpläne und Festlegungen zur Abiturprüfung Französisch (aktuelle Fassung dort prüfen).
-- IQB: Aufgabenbeispiele zu den Bildungsstandards Französisch und gemeinsame Abituraufgabenpools der Länder (iqb.hu-berlin.de).
-- France Éducation international: Beispielprüfungen für DELF A1 bis B2 mit Bewertungsrastern, auch für DELF junior und scolaire (france-education-international.fr).
+- [Thüringer Schulportal](https://www.schulportal-thueringen.de/): Lehrpläne, Festlegungen zur Abiturprüfung Französisch und ein Bewertungstool für Englisch und Französisch (aktuelle Fassung dort prüfen).
+- Thüringer Ministerium für Bildung, Wissenschaft und Kultur (2025). *Festlegungen zu den Abiturprüfungen Thüringens mit Anteilen aus den gemeinsamen Abituraufgabenpools der Länder in den folgenden Schuljahren*, Anlage 3 (Stand 25. Juli 2025). [schulportal-thueringen.de](https://www.schulportal-thueringen.de/get-data/195a49a1-267c-4dc3-baa5-aad49deee481/1034136_20250818_124534_Anlage_3_2025_07_25_Festlegungen_zu_den_Abiturpruefungen.pdf)
+- Thüringer Ministerium für Bildung, Wissenschaft und Kultur (2026). *Lehrplan für das Gymnasium: Französisch* (Erprobungsfassung). Erfurt.
+- IQB: [Gemeinsame Abituraufgabenpools, Dokumente Französisch](https://www.iqb.hu-berlin.de/abitur/dokumente/franzoesisch/), mit Operatoren und Hinweisen zur Bewertung der sprachlichen und inhaltlichen Leistung; [Lernaufgaben Französisch Sek I](https://www.iqb.hu-berlin.de/de/schule/aufgaben/seki/lernaufgaben-franzoesisch/).
+- KMK (2023). [Bildungsstandards für die erste Fremdsprache (Englisch/Französisch) ESA/MSA](https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf), Beschluss vom 22.06.2023.
+- KMK (2012). [Bildungsstandards für die fortgeführte Fremdsprache (Englisch/Französisch) Abitur](https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2012/2012_10_18-Bildungsstandards-Fortgef-FS-Abi.pdf), Beschluss vom 18.10.2012.
+- Europarat (2020). *Gemeinsamer europäischer Referenzrahmen für Sprachen: lernen, lehren, beurteilen. Begleitband.* Klett. Englische Originalausgabe frei zugänglich: [Companion volume (PDF)](https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/16809ea0d4).
+- Europarat: [Handbuch zur Entwicklung und Durchführung von Sprachtests](https://rm.coe.int/1680667a28), deutschsprachige Fassung.
+- France Éducation international: [Beispielprüfungen DELF B2](https://www.france-education-international.fr/diplome/delf-tout-public/niveau-b2/exemples-sujets) mit Bewertungsrastern; Beispielprüfungen für A1 bis B2 gibt es auch für DELF junior und scolaire (siehe F3).
+- *Unterricht Französisch* (2026), Heft 201: *Feedback fördern.* Friedrich. Darin u. a. Plötner, K., "Dire ou ne pas dire. Besser Feedback geben im Unterricht"; laut Bericht außerdem Plötner, K. & Rudolph, A., "Qu'est-ce qu'on mange ce soir ? Mit KI und Peer-Feedback die Aussprache in Sprachnachrichten fördern", S. 16–22 *(Einzelangaben nicht verifiziert)*. [Heftseite](https://www.friedrich-verlag.de/shop/feedback-foerdern-527201)
+- Ministerium für Schule und Weiterbildung NRW (2014). *Mündliche Prüfungen in den modernen Fremdsprachen in der gymnasialen Oberstufe.* Handreichung mit Französisch-Beispielen für Grund- und Leistungskurs, Zeitplänen, Evaluationsbögen und Bewertungsrastern. [standardsicherung.schulministerium.nrw.de](https://www.standardsicherung.schulministerium.nrw.de/system/files/media/document/file/2014-09_handreichung_muendliche_pruefungen.pdf) *(nicht verifiziert)*
+- QUA-LiS NRW: *Förderliche Leistungsbewertung*, Referenzrahmen Schulqualität NRW, zu Grundlagen, zur Trennung von Lern- und Leistungssituationen und zur Rückmeldekultur. [referenzrahmen-schulqualitaet.nrw.de](https://referenzrahmen-schulqualitaet.nrw.de/system/files/media/document/file/leistungsbewertung_onlineversion_neu.pdf) *(nicht verifiziert)*
 
-*Hinweis: Neue Quellen im Oktober 2026 einzeln geprüft, die übrigen sind Standardwerke aus Fachwissen. Aus dem Deep-Research-Bericht wurden nur bestätigte Angaben übernommen. Die Thüringer Angaben sind im November 2026 an Verordnungstexten und Inhaltsverzeichnissen geprüft; Abiturformat und Gewichtungen für Französisch ließen sich nicht prüfen.*
+*Hinweis: Eigener Entwurf, ergänzt um zwei Deep-Research-Berichte (Oktober und November 2026). Aus dem zweiten Bericht im November 2026 per Websuche geprüft und übernommen: Gan und Lam (2022), Ho und Yan (2021), Khairallah und Adra (2022), Vogt und Tsagari (2022), Noiroux und Simons (2016), Bart (2023), Huver und Springer (2011), Porsch, Tesch und Köller (2010), Sacher (2009), Scallon (2015, über die Rezension in der Revue des sciences de l'éducation), das Handbuch von Vogt und Rossa (2025), Heft 201 von Unterricht Französisch (im Bericht unter dem früheren Titel Der fremdsprachliche Unterricht Französisch), das Handbuch des Europarats zur Entwicklung und Durchführung von Sprachtests und die DELF-Beispielprüfungen von France Éducation international. Weinert (2014), Leupold (2007), Nieweler (2017), Mottier Lopez (2015), Vogt und Quetz (2018) und der GeR-Begleitband sind Standardwerke aus Fachwissen. Nicht verifiziert und so markiert: Krechel (2015), Mügge (2019), Marxl et al. (2024), Reckermann, Römhild und Schildhauer (2024), Rossa und Wilden (2024; A1 nennt die Seiten 5 bis 22, ebenfalls nicht verifiziert), der Beitrag von Plötner und Rudolph, die NRW-Handreichung zu mündlichen Prüfungen und die Broschüre von QUA-LiS NRW. Nicht übernommen: das Fortbildungsmodul von France Éducation international zu den neuen DELF-Rastern (wie in E3); die Adressen des Berichts für den Abituraufgabenpool und die KMK-Standards 2012 sind durch die bereits geprüften ersetzt. Gewichtungen, Zeiten und Prüfungsdauern des Berichts stehen als Angaben "laut Bericht" da; seine Gewichtung der Abiturteile weicht vom Pool ab (siehe F4). Der Bericht vermerkt selbst, alle Werke bibliografisch recherchiert und unvollständige Detailangaben wie Seitenzahlen oder Heftnummern gekennzeichnet zu haben; diese Kennzeichnungen stehen an den Einträgen. Seine Platzhalter für das Bundesland sind auf Thüringen bezogen. Die Thüringer Angaben aus dem ersten Durchgang sind im November 2026 an Verordnungstexten und Inhaltsverzeichnissen geprüft; Prüfungsteile, Arbeitszeiten und Bewertung im Abitur sind in F4 am Original geprüft.*

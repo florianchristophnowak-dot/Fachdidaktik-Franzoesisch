@@ -2,102 +2,200 @@
 
 ## Auf einen Blick
 
-Das Lehrwerk ist im Französischunterricht das wichtigste Leitmedium: Es strukturiert die Progression, liefert Texte, Übungen und Hördokumente und entlastet die Planung. Kompetenzorientierter Unterricht nutzt es als Ressourcenpool, nicht als Drehbuch (siehe A1). Materialauswahl heißt, Lehrwerk, authentische Materialien, digitale Angebote und eigene Materialien so zu kombinieren, dass sie zum Kompetenzziel und zur Lerngruppe passen. Wie gut der Unterricht wird, hängt dabei weniger vom Lehrwerk ab als davon, wie Lehrkräfte es einsetzen (Franke 2024).
+Das Lehrwerk ist im Französischunterricht der Sekundarstufe I, vor allem in Französisch als zweiter Fremdsprache, das wichtigste Leitmedium: Es übersetzt die curricularen Vorgaben in eine thematische, sprachliche und methodische Progression, liefert Texte, Übungen und Hördokumente und entlastet die Planung. Kompetenzorientierter Unterricht nutzt es als Ressourcenpool, nicht als Drehbuch (siehe A1). Lehrwerkarbeit heißt, Lehrwerk und ergänzende Materialien planvoll und lerngruppenbezogen auszuwählen, zu analysieren, anzupassen und zu ergänzen. Im Mittelpunkt stehen kritische Lehrwerkanalyse, lehrwerkunabhängige Materialien, Adaption und Ergänzung, der Vergleich aktueller Lehrwerke (*À plus !*, *Découvertes*, *Tous ensemble*) und authentische Materialien. Wie gut der Unterricht wird, hängt dabei weniger vom Lehrwerk ab als davon, wie Lehrkräfte es einsetzen (Franke 2024).
 
-- **Begriffe:** manuel, méthode, document authentique, didactisation, adaptation (frz.); coursebook, materials evaluation, materials adaptation, authentic materials (engl.)
-- **Beispiele:** verbreitete Lehrwerke für Französisch als zweite Fremdsprache sind etwa *À plus !* (Cornelsen) und *Découvertes* (Klett).
-- **Tags:** #Planung #Unterrichtsbesuch #SekI #Praxiswissen
-- **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober 2026)
+| Begriff | Bedeutung |
+| --- | --- |
+| Lehrbuch, Lehrwerk, Lehrwerkverbund | Das Lehr- oder Schülerbuch (*livre de l'élève*, student's book) ist nur das Kernbuch. Das Lehrwerk (*manuel scolaire*, im FLE-Bereich *méthode de français*; coursebook) ist heute meist ein Verbund aus Arbeitsheft (*cahier d'activités*, workbook), Handreichungen (*guide pédagogique*, *livre du maître*; teacher's book), Audios, Videos, Erklärfilmen, Diagnose- und Differenzierungsmaterial sowie digitalen Unterrichtsassistenten und E-Books. |
+| Lehrwerkanalyse und Lehrwerkkritik | Kriteriengeleitete Prüfung der sprachlichen, didaktischen, inter- und plurikulturellen, medialen und gestalterischen Qualität (*analyse* oder *évaluation de manuels*, materials evaluation). International unterscheidet man die Prüfung vor dem Einsatz (pre-use), während des Einsatzes (in-use) und danach (post-use). |
+| Materialien im Einsatz | Der tatsächliche Umgang von Lehrenden und Lernenden mit Materialien im Klassenzimmer (*usages du manuel*, materials use, materials-in-action). Soziomaterielle Ansätze betonen, dass Materialien erst im Zusammenspiel von Lehrkraft, Lernenden, Medien und Raum wirken (Guerrettaz, Engman & Matsumoto 2021). |
+| Adaption und Ergänzung | Gezieltes Verändern von Lehrwerksaufgaben durch Kürzen, Erweitern, Umstellen, Differenzieren oder kommunikatives Öffnen (*adaptation*, *aménagement*, *didactisation*; materials adaptation) und Hinzufügen lehrwerkunabhängiger Materialien (*ressources complémentaires*; supplementary oder teacher-made materials), um Passung, Aktualität oder Vertiefung herzustellen. |
+| Authentisch und didaktisiert | Authentische Dokumente (*documents authentiques*) wurden für reale Kommunikation unter Sprecherinnen und Sprechern der Zielsprache gemacht, didaktisierte (*documents fabriqués* oder *didactisés*) für den Unterricht. Die Forschung erweitert den Begriff um die Authentizität von Situation und Aufgabe (task authenticity): Auch ein authentischer Text bleibt künstlich, wenn die Aufgabe keinen sinnvollen Kommunikationsanlass bietet. |
+
+- **Begriffe:** manuel scolaire, méthode, livre de l'élève, cahier d'activités, guide pédagogique, livre du maître, document authentique, document fabriqué, didactisation, adaptation, aménagement, ressources complémentaires, analyse pré-pédagogique (frz.); coursebook, textbook, workbook, teacher's book, materials evaluation, pre-use / in-use / post-use evaluation, materials adaptation, supplementation, supplementary materials, materials-in-action, authentic materials, task authenticity (engl.)
+- **Beispiele:** verbreitete Lehrwerke für Französisch als zweite Fremdsprache am Gymnasium sind etwa *À plus !* (Cornelsen) und *Découvertes* (Klett), für mittlere Schulformen *Tous ensemble* (Klett) und *À toi !* (Cornelsen).
+- **Abgrenzung:** Zur Planung einer Reihe siehe H1, zu Lernaufgaben siehe A2, zu digitalen Lehrwerken und Plattformen siehe G1.
+- **Tags:** #Planung #Unterrichtsbesuch #Beratung #SekI #Praxiswissen
+- **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober und November 2026)
 
 ## Haltung
 
-1. Das Lehrwerk ist Werkzeug, nicht Lehrplan. Ausgangspunkt der Planung ist das Kompetenzziel.
-2. Auswählen heißt weglassen: Nicht jede Übung ist für jede Lerngruppe sinnvoll.
-3. Authentische Materialien bereichern, wenn Zugänglichkeit und Aufgabe stimmen (siehe B1, B2).
-4. Eigene Materialien kosten Zeit. Adaptieren ist oft klüger als neu erstellen.
-5. Materialien transportieren Bilder von Frankreich und der Frankophonie. Sie kritisch zu prüfen, gehört zur Professionalität (siehe D1).
+1. Das Lehrwerk ist Werkzeug, nicht Drehbuch. Lehrwerke sind Kompromisse zwischen curricularen Vorgaben, Verlagslogik und einer gedachten Durchschnittsklasse. Shawer (2010) unterscheidet Lehrkräfte, die den Stoff des Buches weitergeben (curriculum transmitters), die es situativ anpassen und ergänzen (curriculum developers) und die eigenes Material entwickeln (curriculum makers). Ziel ist die Rolle der Entwicklerin oder des Entwicklers: Das Lehrwerk entlastet und sichert die Progression, die Entscheidungen trifft die Lehrkraft. Ausgangspunkt der Planung ist das Kompetenzziel.
+2. Kompetenz vor Vollständigkeit: Auswählen heißt weglassen. Sprachliche Mittel haben nach den Bildungsstandards eine dienende Funktion. Wer ein Lehrwerk Seite für Seite abarbeitet, verfehlt heterogene Lernausgangslagen und verschenkt Zeit für echte Sprachproduktion; Unterrichtsqualität hängt an kognitiver Aktivierung, Adaptivität und Binnendifferenzierung (Franke 2024). Materialien sollen gedanklich, emotional und lebensweltlich an die Lerngruppe anschließen (Tomlinson 2023).
+3. Kritische Lehrwerkanalyse gehört zur Professionalität. Lehrwerke transportieren Annahmen über Spracherwerb, Geschlechterrollen und Bilder von Frankreich und der Frankophonie (siehe D1, D9); Mehrsprachigkeit und Plurikulturalität setzen sie oft nur selektiv um. Eine Prüfung vor und während des Einsatzes schützt vor Stereotypen, etwa einem einseitigen Bild der weißen, städtischen Mittelschicht im *Hexagone*, und vor der Verengung auf Formübungen.
+4. Authentizität entsteht aus Dokument, Aufgabe und Interaktion. Ein *document authentique* allein erzeugt noch keine echte Kommunikation (Riquois 2023); es braucht eine *analyse pré-pédagogique* und eine *didactisation*. Gerade in der zweiten Fremdsprache gilt: die Aufgabe abstufen, nicht nur den Text (grade the task, not the text). Entscheidend sind ein plausibler Kommunikationsanlass und erreichbare kognitive Aktivierung, nicht die sprachliche Komplexität des Materials (siehe B1, B2).
+5. Lehrwerk und Öffnung ergänzen sich. Das Lehrwerk bietet Progression, Systematik und Selbstlernhilfen, lehrwerkunabhängige Medien bringen Aktualität, kulturelle Vielfalt und echte Mündlichkeit. Eigene Materialien kosten Zeit; Adaptieren ist oft klüger als neu Erstellen.
 
 ## Handlungshinweise
 
+**Für alle Lernjahre**
+
 - **Vom Kompetenzziel aus planen, nicht von der Seitenzahl:** Im Entwurf steht zuerst, was Lernende am Ende können sollen.
-- **Eine Lektion vom Ende her lesen:** Welche Lernaufgabe (*tâche finale*) bietet das Lehrwerk? Welche Übungen führen dorthin, welche sind verzichtbar?
-- **Kriterien für die Auswahl:** Kompetenzziel, sprachliche Zugänglichkeit, Aktualität, Lebensweltbezug, kulturelle Vielfalt (Frankophonie, Diversität; Prüffragen siehe D9), Aufgabenqualität, Differenzierungspotenzial.
-- **Adaptieren:** Texte kürzen oder entlasten, Aufgaben öffnen, Lehrwerksdialoge in Informationslücken umbauen, Übungen in eine Situation einbetten.
+- **Eine Lektion vom Ende her lesen:** Welche Lernaufgabe (*tâche finale*) bietet das Lehrwerk? Welche Übungen führen dorthin, welche sind verzichtbar? Die Zielaufgabe gleich zu Beginn der Sequenz zeigen, statt sie erst am Kapitelende einzuführen.
+- **Vor jeder Reihe kurz prüfen,** bei einem Lehrwerkwechsel auch in der Fachkonferenz, mit fünf Prüfbereichen: Sind Grammatik und Wortschatz an kommunikative *tâches* gebunden, und kommen gesprochenes Französisch und Aussprache systematisch vor? Handeln die Lernenden Bedeutung aus, oder formen sie nur Sätze um, und sind alle Teilkompetenzen einschließlich Hör-Sehverstehen und Sprachmittlung abgedeckt? Wird die Frankophonie vielfältig, aktuell und klischeearm gezeigt (Prüffragen siehe D9), und werden Englisch, Deutsch und Herkunftssprachen für Sprachvergleiche genutzt? Gibt es transparente Hilfen (*coups de pouce*), Strategien, parallele Niveaus und Selbsttests? Sind Audios, Videos und digitale Textsorten wie Chats, Blogs, Vlogs und Infografiken zeitgemäß eingebunden?
+- **Sechs Wege der Adaption** (Mishan & Timmis 2015; Tomlinson 2023): kürzen und auslassen (redundante Einsetzübungen streichen, fakultative Module gezielt wählen; Verlage bieten teils Kürzungspläne, etwa für drei Wochenstunden); umstellen (die Zielaufgabe nach vorn); verändern (geschlossene Verständnisfragen in offene, kommunikative oder kreative Aufträge umbauen, etwa Perspektivwechsel, *médiation*, Dialog fortsetzen, Lehrwerksdialoge in Informationslücken umbauen, Übungen in eine Situation einbetten); differenzieren (gestufte Hilfen wie Wortgeländer, Satzanfänge und Tandemkarten im Auftrag verankern); ersetzen (veraltete, künstliche oder unpassende Lektionstexte durch aktuelle Kurzvideos, Podcasts oder eine Lektüre); ergänzen (Sprech-, Hör- und interkulturelle Impulse, etwa aus Audio-Lingua, *1jour1question* oder TV5MONDE).
 - **Sozialformen wechseln:** Lehrwerksaufgaben auch in Partner- und Gruppenarbeit bearbeiten und die Differenzierungsangebote des Lehrwerks nutzen (siehe E1, E4).
 - **Authentisches ergänzen:** Jugendzeitschriften, Kurzvideos, Podcasts, Werbung, Lieder, Social-Media-Beiträge (datenschutzkonform).
-- **Digitale Zusatzangebote** der Verlage kritisch nutzen. Nicht jede interaktive Übung ist lernwirksamer als ein gutes Arbeitsblatt.
+- **Digitale Zusatzangebote** der Verlage kritisch nutzen. Nicht jede interaktive Übung ist lernwirksamer als ein gutes Arbeitsblatt; automatisches Feedback in digitalen Arbeitsheften prüfen, bevor die Klasse damit arbeitet (siehe G1, G2).
 - **Materialien im Fachkollegium** teilen und weiterentwickeln, etwa im schulinternen Lehrplan.
+
+**Sek I**
+
+- **Lehrwerk als Rückgrat, aber planvoll öffnen:** In den Lernjahren 1 bis 3 sichert das Lehrwerk die Progression in Wortschatz, Aussprache und Grammatik. Mindestens einmal pro Halbjahr bewusst öffnen: eine kleine *simulation globale* (etwa *L'immeuble* oder *La colocation*, begleitend eine Stunde pro Woche oder als Projektphase), eine adaptierte Ganzschrift oder authentische Kurzmedien wie *1jour1question* und Audio-Lingua.
+- **Textarbeit kommunikativ anlegen:** Lehrwerksdialoge nicht reihum vorlesen und übersetzen lassen, sondern szenisch aktivieren, etwa mit Intonation, Standbildern und Rollenkarten (siehe E9), oder als Modell für eigene, lebensnahe Varianten nutzen.
+- **Differenzierung ausdrücklich anleiten:** Eingebaute Angebote bleiben wirkungslos, wenn die Lehrkraft sie nicht in den Auftrag aufnimmt (Franke 2024). Hilfekarten (*coups de pouce*), Wahlaufgaben und Selbstkontrolle anmoderieren und einfordern.
+- **Das Lehrwerk als Selbstlernwerkzeug** einführen: Vokabelteil, Grammatikheft, Strategieseiten und Audios ab dem ersten Lernjahr eigenständig nutzen lassen.
+
+**Sek II**
+
+- **Übergang zur Dossier- und Themenarbeit gestalten:** Zum Ende der Sek I löst sich der Unterricht vom Lehrwerk, unterstützt durch Übergangsbände wie *Découvertes 5* mit frei kombinierbaren Modulen. In der Qualifikationsphase treten thematische Dossiers, Ganzschriften, Spielfilme und aktuelle authentische Medien an seine Stelle.
+- **Authentische Dokumente didaktisieren** (*analyse pré-pédagogique*), mit drei Fragen: Welcher Kommunikations- und Erkenntniswert rechtfertigt das Dokument? Welche Hürden wie Tempo, *français parlé* oder kulturelle Anspielungen brauchen Vorentlastung und Hör- oder Lesestrategien, ohne den Text mit Vokabelangaben zu überfrachten? Welche gestuften Aufgaben (global, selektiv, detailliert, deutend und kritisch) ermöglichen auch Schwächeren Erfolg?
+- **Varietäten einbeziehen:** authentische Gesprächskorpora wie das französische Projekt FLEURON für mündliche Alltagsinteraktion, Radiobeiträge von RFI und Videos aus der ganzen Frankophonie (TV5MONDE) nutzen. So lernen die Lernenden reale Sprechgeschwindigkeit, Registerwechsel und regionale Varietäten kennen, wie es die Abiturstandards verlangen (siehe D5, F4).
+- **Digitale Lesekompetenz schulen:** Bei Webseiten, Social Media und Online-Presse nicht nur Lesestrategien für Gedrucktes übertragen, sondern Navigation, Quellenprüfung und Überfliegen ausdrücklich üben (Franke & Lachmund 2025; siehe B2).
+
+**Lehrwerke im Vergleich**
+
+| Kriterium | *Découvertes* (Klett, Ausgabe ab 2020) | *À plus !* (Cornelsen, Neubearbeitung ab 2020) | *Tous ensemble* (Klett, Ausgabe ab 2022) |
+| --- | --- | --- | --- |
+| Zielgruppe | Gymnasium, erste und zweite Fremdsprache; fünf Bände, Band 5 modular als Brücke zur Oberstufe | Gymnasium, erste und zweite Fremdsprache; länderspezifische Weiterentwicklungen | mittlere Schulformen; vier Bände, Ziel A2+, teils B1 |
+| Aufbau | *Unités* mit Einstieg, Pflichtteil *Atelier A*, fakultativem *Atelier B*, *Sur place*, *Bilan* und *En plus*; die *tâche* steht zu Beginn des Kapitels | schlanke Bände (etwa fünf *Unités* in Band 2, drei *Unités* und vier fakultative Module in Band 4), flache Progression; Lektüren können eine *Unité* ersetzen | kompakt, kleinschrittige Progression; Band 4 mit Extrateil für das vierte und fünfte Lernjahr |
+| Differenzierung | *En plus*, parallele Hilfen, Tandembögen, *Prêt-à-parler*-Karten, DELF-Simulationen | Differenzierung im Schulbuch und im Zusatzmaterial, Online-Lernstandsanalysen | mehrstufiges Förderkonzept mit Arbeitsblättern und Tests |
+| Medien | Medienkompetenz (*le coin médias*), Textsorten aus sozialen Medien, Videos, App und E-Book | lexikogrammatischer Ansatz, Aussprache- und Wortschatzschulung mit Audios und Videos; laut Bericht teils ein interaktives Arbeitsheft mit KI-Feedback | Alltagskommunikation, Mündlichkeit, digitale Unterrichtsmedien |
+| Worauf achten | Materialfülle: Kürzungsoptionen nutzen, *Atelier B* nicht überfrachten | flache Progression: für starke Gruppen anspruchsvoll genug? | Übergang in die Oberstufe: Brücken zu Textanalyse und Schreiben schlagen |
+
+- **Hinweis zum Vergleich:** Angaben laut Bericht nach Verlagskonzeptionen und Stoffverteilungsplänen; Bandzahlen und Ausgaben vor der Übernahme *prüfen*. Für mittlere Schulformen gibt es bei Cornelsen parallel *À toi !*, das sich nach denselben Kriterien vergleichen lässt.
 
 ## Best Practice Französisch
 
 **1./2. Lernjahr: "Le dialogue devient une enquête".** Ein Lehrwerksdialog über Freizeit wird zur Umfrage: Lernende erhalten nur die Fragen, interviewen drei Mitschülerinnen und Mitschüler und vergleichen die Antworten mit den Figuren des Lehrwerks.
 
+**2. Lernjahr, A1+/A2: "Mon profil audio pour un échange scolaire".** Eine Doppelstunde (90 Minuten) ergänzt das didaktisierte Hörverstehen des Lehrwerks um natürlich gesprochenes Französisch, etwa im Anschluss an eine Freizeit-Unité von *Découvertes 2* oder *À plus ! 2*. Material: das Wortfeld Freizeit aus dem Lehrwerk, drei kurze Aufnahmen französischsprachiger Jugendlicher von Audio-Lingua (je 35 bis 55 Sekunden, A1/A2) und ein gestuftes Arbeitsblatt mit *coups de pouce* (Niveau A: Bilder zuordnen und Lückentabelle; Niveau B: offene Stichworttabelle mit Begründungen). Einstieg mit einer Blitzumfrage (*Tu fais quoi le week-end ?*, 10 Minuten). Dann dreimal hören (25 Minuten): global (*Qui aime le sport, la musique, le cinéma ?*), selektiv auf selbst gewähltem Niveau und zur Kontrolle mit einem Transkriptausschnitt, der Gesprächspartikeln wie *ben*, *en fait* und *du coup* zeigt. Kurze Sprachreflexion (10 Minuten): Was klingt im echten Französisch anders als im Lehrwerksdialog, etwa Sprechtempo, Elisionen und *mots de remplissage*? Lernaufgabe (35 Minuten): Jede Person nimmt eine Sprachnachricht von etwa 45 Sekunden für einen Schüleraustausch auf und baut mindestens zwei der gehörten Diskursmarker ein. Zum Schluss Partnerfeedback mit drei Kriterien: Verständlichkeit, Inhalt, Flüssigkeit (10 Minuten).
+
 **3. Lernjahr: "Unité allégée".** Eine Lektion wird analysiert: Von 18 Übungen bleiben acht, die zur Lernaufgabe führen, zwei werden durch authentische Kurzvideos ersetzt. Gewonnen sind zwei Stunden für die Lernaufgabe.
 
 **3./4. Lernjahr: "Voyage avec budget".** Ausgehend von einem Landeskundekapitel des Lehrwerks plant die Klasse in Gruppen eine Reise in eine französischsprachige Region. Zu den Lehrwerkstexten kommen authentische Materialien: Fahrpläne, Webseiten von Unterkünften, Stadtpläne, Videos. Jede Gruppe hat ein festes Budget, begründet ihre Entscheidungen und stellt ihr Programm vor; die Klasse wählt die überzeugendste Reise. Lese- und Hörübungen des Lehrwerks dienen als Vorbereitung.
 
+**3./4. Lernjahr, A2+/B1: "Réunion des éco-délégués".** Statt ein fakultatives Magazinkapitel (*Atelier B* in *Découvertes* oder ein Modul in *À plus !*) linear durchzuarbeiten, schiebt die Lehrkraft eine lehrwerkunabhängige Sequenz von vier Stunden zu *L'écologie au collège* ein. Stunde 1: Einstieg mit Bildern ohne Ton aus einem *1jour1question*-Erklärvideo (etwa 1:40 Minuten, zu Plastikmüll oder Klimaschutz), Hypothesen, gestuftes Hör-Sehverstehen und eine gemeinsame digitale Wortwolke (*champ lexical de l'environnement*). Stunde 2: arbeitsteiliges Lesen kurzer Texte von *1jour1actu*, dann Sprachmittlung zentraler Vorschläge für eine deutschsprachige Schülerzeitung. Stunden 3 und 4: eine kleine *simulation globale* im *conseil des éco-délégués* einer fiktiven französischen Partnerschule. In festen Rollen (Schulleitung, *éco-délégués*, Kantine, Elternvertretung) verhandeln die Lernenden drei Maßnahmen; Zwischenfälle (*incidents*) wie ein knappes Budget oder Widerstand gegen fleischfreie Tage erhöhen den Druck. Produkt: ein Aktionsplakat oder ein kurzer Beitrag für die Schulhomepage.
+
 **Sek II: "Dossier francophone".** Statt eines fertigen Themenhefts stellt der Kurs ein eigenes Dossier zu einem Thema zusammen (z. B. *Vivre en ville*), mit Texten aus Frankreich, Québec, Belgien und Westafrika. Die Auswahlkriterien werden gemeinsam erarbeitet.
+
+**Sek II, B1+/B2: "La francophonie, c'est seulement la France ?".** Drei bis vier Doppelstunden zu *La Francophonie – identités, langues et réalités contemporaines*, auch als Vorbereitung auf Hör-Sehverstehen und Diskussion im Abitur. Material: eine Reportage von etwa drei Minuten mit *fiche pédagogique* von TV5MONDE (B1/B2) über junge Menschen in Québec, Belgien oder Westafrika, ein aktueller Radiobeitrag mit Transkript von *Le français facile avec RFI* und ein eigener Fokus auf regionale Merkmale in Wortschatz und Aussprache. Einstieg: Vorwissen hinterfragen, mit einer stummen Karte und kurzen Hörproben verschiedener Varietäten. Die Fiche von TV5MONDE wird nicht einfach kopiert: Die Lehrkraft streicht kleinschrittige Richtig-falsch-Aufgaben und ergänzt Analyseaufgaben zu Kameraführung, Sprecherhaltung und kultureller Perspektive. Vertiefung: Hörverstehen des RFI-Beitrags zu Sprachpolitik und Mehrsprachigkeit, dann eine *table ronde* oder ein *commentaire personnel* zur Leitfrage *Le français – langue coloniale, langue de partage ou langue d'avenir ?* (siehe D5).
 
 ## Stolpersteine
 
-| Stolperstein | Woran man es erkennt |
-| --- | --- |
-| Lehrwerk als Drehbuch | Jede Übung wird in der vorgesehenen Reihenfolge abgearbeitet, die Lernaufgabe fällt aus Zeitmangel weg. |
-| Planung nach Seitenzahlen | Der Entwurf nennt Lehrwerksseiten, aber kein Kompetenzziel. |
-| Lehrwerk nur frontal | Lehrwerksaufgaben laufen fast nur in Einzelarbeit oder im Plenum. |
-| Materialflut | Fünf Arbeitsblätter pro Stunde, kein roter Faden. |
-| Authentisch um jeden Preis | Ein Zeitungsartikel im 2. Lernjahr, den niemand versteht. |
-| Klischees unreflektiert | Baguette, Béret und Eiffelturm als Frankreichbild. |
-| Selbst gemacht statt besser | Stundenlang erstellte Materialien, die schwächer sind als das Lehrwerk. |
+| Stolperstein | Woran man es erkennt | Gegensteuern |
+| --- | --- | --- |
+| Lehrwerk als Drehbuch | Jede Übung wird in der vorgesehenen Reihenfolge abgearbeitet; der Entwurf nennt Lehrwerksseiten ("Seite 42 bis 43 schaffen"), aber kein Kompetenzziel und keine Begründung für die Auswahl. Die Lernaufgabe fällt aus Zeitmangel weg. | Vom Ziel her planen: erst die kommunikative Teilkompetenz festlegen, dann prüfen, welche Bausteine darauf einzahlen. |
+| Materialflut | Fünf Arbeitsblätter pro Stunde, kein roter Faden. Das Lehrwerk wird durch selbst gebastelte, unübersichtliche Blätter ersetzt, obwohl es bessere Aufgaben bietet; der Aufwand ist hoch, und im Grundwortschatz entstehen Lücken. | Erst prüfen, ob eine Adaption genügt, etwa ein veränderter Auftrag zum Buchtext. |
+| Authentisch um jeden Preis | Ein Zeitungsartikel im zweiten Lernjahr oder eine französische Nachrichtensendung in Klasse 8, ohne gestufte Aufgaben; Frust, Schweigen, Rückfall ins Deutsche. | *Analyse pré-pédagogique* im Entwurf: Hürden vorwegnehmen, die Aufgabe statt des Textes vereinfachen, Strategien wie Antizipation und Schlüsselwörter anleiten. |
+| Unsichtbare Differenzierung | Der Entwurf verweist pauschal auf "die Differenzierungsaufgaben im Buch"; im Unterricht werden sie nicht anmoderiert oder nur als Zusatzaufgabe für Schnelle genutzt, also mehr vom Gleichen. | Differenzierung nach Niveau, Zugang oder Hilfe im Arbeitsauftrag sichtbar verankern. |
+| Lehrwerk nur frontal | Lehrwerksaufgaben laufen fast nur in Einzelarbeit oder im Plenum; alle Blicke hängen im Buch. | Aufgaben für Partner- und Gruppenarbeit umbauen (siehe E4). |
+| Grammatikstunde im kommunikativen Gewand | Der Lehrwerkstext oder das Video dient fünf Minuten als Aufhänger, danach folgen 35 Minuten Konjugationsdrill; die *tâche* am Ende fällt regelmäßig "aus Zeitgründen" weg. | Zeit für die Anwendungsphase sichern; die sprachlichen Mittel dienen der Aufgabe. |
+| Klischees unreflektiert | Baguette, Béret und Eiffelturm als Frankreichbild; veraltete Jugendbilder werden unkommentiert übernommen, fiktive Chatseiten im Buch rein analog abgearbeitet. | Bilder hinterfragen (*Est-ce que c'est toujours vrai ?*), mediale Aufgaben realitätsnah umsetzen (siehe D9). |
 
 ## Beobachten und beraten
 
-- Welche Funktion hatte das Lehrwerk in der Stunde? War die Auswahl begründet?
-- Passten die Materialien zum Kompetenzziel und zur Lerngruppe?
-- Wurden Materialien adaptiert, und wie? In welcher Sozialform wurden Lehrwerksaufgaben bearbeitet?
+**Beobachten**
+
+- **Funktion und Passung:** Welche Funktion hatte das Lehrwerk in der Stunde? Zahlen die Materialien erkennbar auf ein kommunikatives Ziel ein, und wissen die Lernenden, wozu sie Text oder Übung bearbeiten?
+- **Adaption und Ergänzung:** Wurden Lehrwerksaufgaben passend geöffnet, gekürzt oder kommunikativ angereichert? Schließen Zusatzmaterialien eine erkennbare Lücke, etwa bei Aktualität, Authentizität oder Lebensweltbezug?
+- **Material im Einsatz:** Stößt das Material Interaktion auf Französisch an, oder bindet es den Blick aller ins Buch oder aufs Arbeitsblatt? In welcher Sozialform wurden Lehrwerksaufgaben bearbeitet?
+- **Differenzierung:** Werden gestufte Hilfen, Wahlmöglichkeiten und Strategien angesprochen und von den Lernenden selbstständig genutzt?
+- **Authentisches Material:** Sind die Hürden über gestufte Aufgaben und Strategien zu bewältigen, ohne Rückfall ins satzweise Übersetzen?
 - Leitfrage: "Warum dieses Material, und was haben Sie weggelassen?"
+
+**Beraten**
+
+- **Zielbeitrag:** "Welchen Beitrag hat Aufgabe X aus dem Lehrwerk zur heutigen Zielkompetenz geleistet, und was wäre passiert, wenn Sie sie gestrichen oder umgestellt hätten?"
+- **Passung:** "An welcher Stelle war das Material aus dem Buch für Ihre Lerngruppe zu eng, zu schwer oder zu leicht, und wie ließe sich die Aufgabe beim nächsten Mal mit wenig Aufwand anpassen?"
+- **Interaktion:** "Wann wurde das Buch heute zum Gesprächsanlass, und wann wirkte es eher wie eine Barriere zwischen den Lernenden?"
+- **Differenzierung:** "Wie konnten stärkere und schwächere Lernende mit demselben Material unterschiedlich anspruchsvoll arbeiten?"
+- **Authentizität:** "Wie haben Sie Authentizität des Materials und sprachliche Bewältigbarkeit abgewogen, und welche Verstehensstrategie war heute entscheidend?"
 
 ## Reflexionsfragen
 
+- Welches kommunikative Können sollen die Lernenden am Ende der Stunde zeigen, und braucht es dafür das Lehrwerk, eine Adaption oder ein authentisches Zusatzmaterial?
 - Was würde passieren, wenn ich ein Drittel der Lehrwerksübungen streiche?
-- Welches Bild der Frankophonie vermitteln meine Materialien?
+- Welche Bilder von der Welt, von Jugendlichen und von der Frankophonie vermittelt diese Doppelseite, und welche Perspektiven fehlen?
+- Wie sichere ich bei lehrwerkunabhängigem Material, dass neuer Wortschatz gefestigt wird und an die weitere Progression anschließt?
+- Wo zeigten die Lernenden echtes Interesse, und wo arbeiteten sie nur mechanisch ab?
+- Nutzen die Lernenden Grammatikteil, Vokabelverzeichnis, *coups de pouce* und Audios selbstständig, oder steuere ich das noch zu stark?
+- Welche meiner Änderungen am Lehrwerk hat Sprech- oder Denkzeit der Lernenden erhöht, und welche war ein Umweg?
 - Wie viel Zeit stecke ich in Materialerstellung, und lohnt es sich?
+- Wo stehe ich zwischen dem Weitergeben des Buchstoffs und eigenständigem Anpassen, und welchen nächsten Schritt nehme ich mir für die kommende Reihe vor?
 
 ## Bezüge
 
-- **KMK 2023:** Text- und Medienkompetenz und interkulturelle Kompetenz; Kompetenzerwartungen statt Lehrwerksprogression als Bezugspunkt.
-- **GeR-Begleitband 2020:** Der handlungsorientierte Ansatz liefert Kriterien für Aufgaben in Materialien.
+- **KMK 2023, erste Fremdsprache ESA/MSA:** Text- und Medienkompetenz und interkulturelle Kompetenz; Kompetenzerwartungen statt Lehrwerksprogression als Bezugspunkt. Laut Bericht verschieben die Standards vier Akzente, die die Lehrwerkarbeit betreffen: Kommunikation findet "sowohl face-to-face als auch im digitalen Raum" statt; Lernende aktivieren alle sprachlichen und kulturellen Ressourcen (plurilinguale und plurikulturelle Kompetenz); Text- und Medienkompetenz einschließlich literarisch-ästhetischer Kompetenz verlangt früh vielfältige, auch literarische und multimodale Texte wie Kurzlektüren, *bandes dessinées*, Filme und Online-Texte; soziale, kulturelle und herkunftssprachliche Heterogenität ist zu berücksichtigen. Die Standards gelten formal für die erste Fremdsprache; für Französisch als zweite Fremdsprache dienen sie laut Bericht als Referenz mit flacherer Erwartung, am Ende der Sek I meist A2+ bis B1.
+- **KMK 2012, fortgeführte Fremdsprache Abitur:** Leitbild ist Diskursfähigkeit, Zielniveau B2; sprachliche Mittel und Strategien haben dienende Funktion. Laut Bericht verlangen die Standards das Verstehen authentischer Texte, "sofern repräsentative Varietäten der Zielsprache gesprochen werden", auf erhöhtem Niveau auch schneller oder nicht standardsprachlicher Äußerungen. Wer zu lange bei bereinigten Lehrwerkstexten bleibt, verfehlt diesen Anspruch (siehe F4).
+- **GeR-Begleitband 2020:** Der handlungsorientierte Ansatz liefert Kriterien für Aufgaben in Materialien: Lernende bewältigen als soziale Akteure bedeutsame Aufgaben in analogen und digitalen Kontexten. Für die Analyse und Ergänzung von Lehrwerken wichtig sind die Skalen zur Mediation von Texten, Konzepten und Kommunikation, die eigenen Deskriptoren für Online-Interaktion und -Transaktion, die plurilinguale und plurikulturelle Kompetenz statt eines Muttersprachlerideals und die neuen Skalen zu kreativen Texten einschließlich Literatur.
 - **Thüringen:** Im Lehrplan Französisch 2026 sind die Themenfelder der verbindliche inhaltliche Rahmen; über Art und Reihenfolge der Behandlung entscheiden die Lehrkräfte, und es sind didaktisierte und authentische Texte heranzuziehen (Abschnitt 3.5.1). Klassenstufe 10 schließt den vorrangig lehrwerksgestützten Lehrgang der zweiten Fremdsprache ab und bereitet auf lehrwerksunabhängiges, themenorientiertes Arbeiten in der Qualifikationsphase vor (Abschnitt 3.4). Stoffverteilungspläne der Verlage ersetzen den Lehrplan nicht und können sich noch auf den Vorgängerlehrplan beziehen. Ob ein Lehrwerk zugelassen sein muss, nach den Thüringer Lernmittelregeln prüfen.
+- **Thüringen, Stoffverteilung:** Für *Découvertes* gibt es einen Thüringer Stoffverteilungsplan für das erste Lernjahr in Klasse 6 mit drei Wochenstunden, gültig ab 1. August 2025 (siehe G1); auf welchen Lehrplan er sich bezieht, *prüfen*.
+- **Thüringen, Abgleich laut zweitem Bericht:** Der Bericht nennt vier Dokumente, an denen die Lehrwerkarbeit im Fachseminar zu spiegeln ist. Für Thüringen: (1) Lehrplan: Kompetenzerwartungen und Themenfelder mit dem eingeführten Lehrwerk abgleichen (siehe oben); die Niveaustufen, die der Bericht als typisch nennt (A1 bis A1+ nach dem ersten, A2 nach dem zweiten oder dritten Lernjahr, A2+ bis B1 am Ende der Sek I), am Lehrplan *prüfen*. (2) Lernmittel: Zulassung von Lehrwerken und digitalen Ausgaben sowie den Datenschutz bei Verlagsplattformen, Apps und KI-gestützten Arbeitsheften nach den Thüringer Regeln *prüfen*. (3) Schulinterner Lehrplan: die Verbindlichkeit von Pflicht- und Wahlteilen wie den *Ateliers*, vereinbarte Lektüren und Prüfungsformate in der Fachkonferenz klären; das zeigt Lehramtsanwärterinnen und Lehramtsanwärtern ihren Spielraum für Adaptionen. (4) Medienbildung: digitale Lehrwerksteile und Online-Ressourcen mit dem Rahmenplan "Medienkompetenzen in einer Kultur der Digitalität" (2024) verknüpfen, auf den der Lehrplan verweist (Abschnitt 1.4.2; siehe G1).
+- **Thüringen Vorbereitungsdienst:** Kompetenzbereich Unterrichten (§ 2 Abs. 1 ThürAZStPLVO).
 
 ## Forschungslage
 
 - Lehrwerke prägen den Fremdsprachenunterricht stark; im Durchschnitt ist etwa die Hälfte der Unterrichtszeit lehrwerkbasiert (Angabe bei Franke 2024).
-- In 133 beobachteten Französisch- und Spanischstunden der Sekundarstufe I (Berlin und Brandenburg) wurden gut drei Viertel der Lehrwerksaktivitäten in Einzelarbeit oder im Plenum bearbeitet und knapp 90 Prozent nicht differenziert. Differenzierte Materialien und offene Aufgaben der Lehrwerke blieben weitgehend ungenutzt. Die Studie ist nicht repräsentativ (Franke 2024).
+- In 133 beobachteten Französisch- und Spanischstunden der Sekundarstufe I (Berlin und Brandenburg) wurden gut drei Viertel der Lehrwerksaktivitäten in Einzelarbeit oder im Plenum bearbeitet und knapp 90 Prozent nicht differenziert. Differenzierte Materialien und offene Aufgaben der Lehrwerke blieben weitgehend ungenutzt; wirksam werden sie erst, wenn Lehrkräfte sie ausdrücklich und adaptiv einbinden. Die Studie ist nicht repräsentativ (Franke 2024).
+- Kostenlose Online-Materialien ergänzen das Lehrwerk im Französischunterricht bisher zurückhaltend: Laut Bericht setzten in einer deutschlandweiten Erhebung nur 8,1 Prozent der Französischlehrkräfte sie häufig oder in jeder Stunde ein, im Englischunterricht 18,8 Prozent (Matthes & Neumann 2017).
+- **Materialien im Einsatz:** Ein Themenheft des Modern Language Journal verschob 2021 den Blick von der Produktanalyse auf die reale Nutzung (Guerrettaz, Engman & Matsumoto 2021). Eine Fallstudie aus einem Französischkurs zeigt, wie physische und textuelle Materialien Interaktionsmuster lenken oder begrenzen (Guerrettaz 2021). Laut Bericht fasst eine Forschungsagenda Befunde zusammen, wonach gerade angehende Lehrkräfte Mühe haben, Lehrwerke lerngruppengerecht anzupassen und sinnvoll zu ergänzen (Guerrettaz et al. 2022).
 - Die Forschung zur Materialentwicklung betont Kriterien wie Bedeutungsorientierung, kognitive und affektive Beteiligung und Anpassbarkeit (Tomlinson 2012).
+- **Mehrsprachigkeit:** Im Salzburger Lehrwerkprojekt zu den romanischen Sprachen erwiesen sich Lehrwerke als zentraler Faktor für ein Gesamtsprachencurriculum, ihre Wirkung hing aber von Einstellungen und Routinen der Lehrkräfte ab; Grammatik- und Wortschatzübungen dominierten (Rückl 2018, nicht verifiziert). Auch die Handreichungen (*livres du maître*) entscheiden mit darüber, ob Lehrkräfte plurilinguale Ansätze mit dem Lehrwerk verbinden (Pogranova & Waltermann 2026, nicht verifiziert).
 - Lehrwerksanalysen zeigen Lücken, etwa bei komplexen Mediationsaufgaben in französischen Lehrwerken für die Sekundarstufe (Melo-Pfeifer & Schröder-Sura 2018; siehe B5).
-- Offen: wie digitale Lehrwerke und KI-generierte Materialien Planung und Lernen verändern (siehe G1, G2).
+- **Authentizität:** Authentizität ist in der Lehrkräftebildung eine fest verankerte Überzeugung, zwischen Ideal und Unterrichtspraxis klafft aber eine Lücke; der Fokus verschiebt sich vom authentischen Träger zur authentischen Kommunikationssituation (Riquois 2023; Bento & Riquois 2022, nicht verifiziert). Authentische Alltagsinteraktionen aus dem Korpus FLEURON bieten viel für Mündlichkeit und Strategien, doch ohne Begleitung, Tutorials und Austausch unter Lehrkräften schrecken viele vor der Nutzung zurück (André 2023, nicht verifiziert).
+- **Kontrovers, mit oder ohne Lehrwerk:** Kritiker werfen Lehrwerken vor, Grammatik als Ware zu verpacken, zu standardisieren und wenig lebensnah zu sein. Befürworter betonen Entlastung, Chancengerechtigkeit und gesicherte Progression, gerade in der zweiten Fremdsprache mit drei bis vier Wochenstunden. Es zeichnet sich ein flexibler, adaptiver Mittelweg ab.
+- **Kontrovers, Authentizität im Anfangsunterricht:** Ab wann und wie viel unbearbeitete authentische Texte in der zweiten Fremdsprache sinnvoll sind, bleibt umstritten. Die einen fordern frühen Kontakt mit realer Sprache, auch mit gesprochenem Französisch und Varietäten, die anderen warnen vor Überlastung und plädieren für behutsam didaktisierte Brückentexte.
+- **Kontrovers, digitale Verlagsangebote:** Lehrwerke integrieren zunehmend interaktive Übungen und automatisches Feedback. Strittig ist, ob das individuelles, kommunikatives Lernen fördert oder kleinschrittigen Drill im digitalen Gewand fortschreibt und neue Abhängigkeiten von geschlossenen Verlagsplattformen schafft (siehe G1, G2).
+- **Offen:** Längsschnittliche Studien, die vergleichen, wie sich Formen der Lehrwerkadaption auf den Kompetenzerwerb auswirken, fehlen weiterhin. Kaum erforscht ist auch, wie Kompetenzen der Lehrwerkanalyse aus Studium und Referendariat unter dem Druck des Berufsalltags in die Praxis gelangen und wie generative KI das Vereinfachen, Differenzieren und Didaktisieren von Materialien verändert, mit Fragen nach Qualität, Authentizität und Urheberrecht (siehe G2).
 
 ## Querverweise
 
-A1 Kompetenzorientierung, A2 Aufgabenorientierung und Lernaufgaben, D1 Inter- und transkulturelle Kompetenz, D9 Diversität und Repräsentation, E1 Differenzierung und Inklusion, E4 Kooperatives Lernen und Unterrichtsgespräch, G1 Digitale Medien, H1 Unterrichtsplanung
+A1 Kompetenzorientierung, A2 Aufgabenorientierung und Lernaufgaben, B1 Hör- und Hör-Sehverstehen, B2 Leseverstehen, B5 Sprachmittlung, D1 Inter- und transkulturelle Kompetenz, D5 Frankophonie und Varietäten, D9 Diversität und Repräsentation, E1 Differenzierung und Inklusion, E4 Kooperatives Lernen und Unterrichtsgespräch, E9 Szenisches Lernen und Theater, F4 Oberstufe und Abitur, G1 Digitale Medien, G2 Künstliche Intelligenz, H1 Unterrichtsplanung
 
 ## Bibliografie
 
 **Grundlagen**
 
+- Shawer, S. F. (2010). Classroom-level curriculum development: EFL teachers as curriculum-developers, curriculum-makers and curriculum-transmitters. *Teaching and Teacher Education, 26*(2), 173–184. https://doi.org/10.1016/j.tate.2009.03.015
 - Tomlinson, B. (Hrsg.) (2011). *Materials Development in Language Teaching* (2. Aufl.). Cambridge University Press.
+- Mishan, F. & Timmis, I. (2015). *Materials Development for TESOL.* Edinburgh University Press.
+- Burwitz-Melzer, E., Mehlhorn, G., Riemer, C., Bausch, K.-R. & Krumm, H.-J. (Hrsg.) (2016). *Handbuch Fremdsprachenunterricht* (6., völlig überarb. und erw. Aufl.). Narr Francke Attempto. Darin: Funk, H., Lehr-/Lernmaterialien und Medien im Überblick, ab S. 435; Rösler, D., Prinzipien der Entwicklung und Evaluation von Lernmaterialien und Medien, ab S. 471. *(Genaue Endseiten in der Verlagsvorschau nicht verifiziert.)*
 - McGrath, I. (2016). *Materials Evaluation and Design for Language Teaching* (2. Aufl.). Edinburgh University Press.
+- Fäcke, C. (2017). *Fachdidaktik Französisch. Eine Einführung* (überarb. und erw. Aufl.). Narr Francke Attempto. *(Auflagenzählung nicht verifiziert: Die Berichte nennen die 2. bzw. 3. Auflage.)*
+- Nieweler, A. (Hrsg.) (2017). *Fachdidaktik Französisch. Das Handbuch für Theorie und Praxis.* Klett.
+- Hallet, W., Königs, F. G. & Martinez, H. (Hrsg.) (2020). *Handbuch Methoden im Fremdsprachenunterricht.* Klett Kallmeyer. Darin: Kurtz, J., Lehrwerkarbeit, S. 198–203.
+- Tomlinson, B. (Hrsg.) (2023). *Developing Materials for Language Teaching* (3. Aufl.). Bloomsbury Academic.
 
 **Aktuell und international**
 
 - Tomlinson, B. (2012). Materials development for language learning and teaching. *Language Teaching, 45*(2), 143–179.
-- Nieweler, A. (Hrsg.) (2017). *Fachdidaktik Französisch. Das Handbuch für Theorie und Praxis.* Klett.
+- Fäcke, C. & Mehlmauer-Larcher, B. (Hrsg.) (2017). *Fremdsprachliche Lehrmaterialien – Forschung, Analyse und Rezeption* (Kolloquium Fremdsprachenunterricht, Bd. 60). Peter Lang. Darin: Matthes, E. & Neumann, D., Kostenlose Online-Lehrmaterialien im Fremdsprachenunterricht. Ergebnisse eines Augsburger Forschungsprojektes, S. 21–37.
 - Melo-Pfeifer, S. & Schröder-Sura, A. (2018). Les tâches de médiation dans les manuels de Français Langue Étrangère pour le secondaire en Allemagne. *Recherches en didactique des langues et des cultures, 15*(3).
+- Rückl, M. (2018). Die Rolle von Lehrwerken für die Umsetzung eines Gesamtsprachencurriculums. *Zeitschrift für Fremdsprachenforschung, 29*(2), 169–191. [DGFF](https://dgff.de/assets/Uploads/ausgaben-zff/ZFF-2018/Dateien-Aufsaetze-Heft-2/02-ZFF-2-2018-Ruckl.pdf) *(nicht verifiziert)*
+- Guerrettaz, A. M. (2021). Materials-in-action: Pedagogical ergonomics of a French-as-a-foreign-language classroom. *The Modern Language Journal, 105*(S1), 39–64. https://doi.org/10.1111/modl.12690
+- Guerrettaz, A. M., Engman, M. M. & Matsumoto, Y. (2021). Empirically defining language learning and teaching materials in use through sociomaterial perspectives. *The Modern Language Journal, 105*(S1), 3–20. https://doi.org/10.1111/modl.12691
+- Bento, M. & Riquois, E. (2022). L'authenticité, une notion à géométrie variable à travers les méthodologies. *Documents pour l'histoire du français langue étrangère et seconde, 68.* [OpenEdition](http://journals.openedition.org/dhfles/8648) *(nicht verifiziert)*
+- Guerrettaz, A. M., Mathieu, C. S., Lee, S. & Berwick, A. (2022). Materials use in language classrooms: A research agenda. *Language Teaching, 55*(4), 547–564. https://doi.org/10.1017/S0261444821000021
+- André, V. (2023). De la constitution d'un corpus d'interactions à son exploitation en didactique de l'oral. Quels outils et quel accompagnement pour des pratiques innovantes ? *Recherches en didactique des langues et des cultures, 21*(2). https://doi.org/10.4000/rdlc.12651 *(nicht verifiziert)*
+- Riquois, E. (2023). L'authenticité du document authentique, un mirage pédagogique ? *Études en didactique des langues, 40*, 63–79. [HAL](https://hal.science/hal-04398210/document)
 - Franke, M. (2024). Wie setzen Lehrkräfte das Lehrwerk im Französisch- und Spanischunterricht ein? Eine Studie zu Unterrichtsqualität in der Sekundarstufe I mit Fokus auf Sozialform, Binnendifferenzierung und Feedback. In V. Lohe, A. Lindl & P. Kirchhoff (Hrsg.), *Unterrichtsqualität in schulischen Fremdsprachen* (S. 85–107). Waxmann. (Open Access)
+- Franke, M. & Lachmund, A.-M. (2025). Zwischen Scannen und Verstehen. Digitale fremdsprachliche Lesekompetenz optimal fördern. *Unterricht Französisch*, Heft 193 (*Digitales Lesen*), 2–8. Friedrich. *(Heftnummer und Seiten nicht verifiziert)*
+- Pogranova, S. & Waltermann, E. (2026). Livres du maître et enseignement plurilingue. *Recherches en didactique des langues et des cultures, 24*(1). [OpenEdition](https://journals.openedition.org/rdlc/17134) *(nicht verifiziert)*
 
 **Praxis und Online**
 
-- Lehrerhandreichungen und digitale Zusatzmaterialien zu *À plus !* (Cornelsen) und *Découvertes* (Klett).
-- RFI Savoirs (u. a. *Journal en français facile*) und TV5MONDE: authentische Materialien mit Aufgaben.
+- Lehrerhandreichungen und digitale Zusatzmaterialien zu *À plus !* (Cornelsen), *Découvertes* und *Tous ensemble* (Klett); Konzeptionen: [Découvertes, Ausgabe ab 2020](https://www.klett.de/lehrwerk/decouvertes-ausgabe-ab-2020/konzeption), [Tous ensemble, Ausgabe ab 2022](https://www.klett.de/lehrwerk/tous-ensemble-ausgabe-ab-2022/einstieg).
+- Ernst Klett Verlag (2025). *Stoffverteilungsplan Découvertes, 1. Lernjahr, Klasse 6 (3 Wochenstunden).* Thüringen, gültig ab 1. August 2025.
+- Klett: [Simulation globale](https://www.klett.de/inhalt/simulation-globale/einleitung/332175), Einführung in Planung, Durchführung und Differenzierung begleitend zum Lehrwerk.
+- TV5MONDE: [Enseigner le français](https://enseigner.tv5monde.com/), über tausend kostenlose *fiches pédagogiques* mit authentischen Videos für alle Niveaus, dazu Leitfäden zur Didaktisierung von Videos.
+- RFI: [Le français facile](https://francaisfacile.rfi.fr/), aktuelle Radiobeiträge, *Journal en français facile*, Transkripte und *fiches pédagogiques*.
+- [Audio-Lingua](https://www.audio-lingua.eu/) (Académie de Versailles): frei nutzbare Kurzaufnahmen von Sprecherinnen und Sprechern unter Creative-Commons-Lizenz, filterbar nach GeR-Niveau, Alter und Thema.
+- [1jour1actu](https://www.1jour1actu.com/) (Milan Presse): kurze Erklärvideos der Reihe *1jour1question* (mit France Télévisions) und verständliche Nachrichtentexte für Jugendliche, ab dem zweiten oder dritten Lernjahr adaptierbar.
+- Institut français: [IFprofs](https://ifprofs.org/), Netzwerk für Französischlehrkräfte mit Ressourcensammlungen, Material zu Wettbewerben wie *Cinéfête*, *Francomics* und dem *Prix des lycéens allemands* sowie Fortbildungshinweisen.
+- Europarat (2020). *Gemeinsamer europäischer Referenzrahmen für Sprachen: lernen, lehren, beurteilen. Begleitband.* Klett. [Council of Europe, CEFR](https://www.coe.int/en/web/common-european-framework-of-reference-languages).
+- KMK (2023). [Bildungsstandards für die erste Fremdsprache (Englisch/Französisch) ESA/MSA](https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf), Beschluss vom 22.06.2023.
+- KMK (2012). [Bildungsstandards für die fortgeführte Fremdsprache (Englisch/Französisch) Abitur](https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2012/2012_10_18-Bildungsstandards-Fortgef-FS-Abi.pdf), Beschluss vom 18.10.2012.
+- Thüringer Ministerium für Bildung, Wissenschaft und Kultur (2026). *Lehrplan für das Gymnasium: Französisch* (Erprobungsfassung). Erfurt.
 
-*Hinweis: Neue Quellen im Oktober 2026 einzeln geprüft, die übrigen sind Standardwerke aus Fachwissen. Aus dem Deep-Research-Bericht wurden nur bestätigte Angaben übernommen.*
+*Hinweis: Eigener Entwurf, ergänzt um zwei Deep-Research-Berichte (Oktober und November 2026). Aus dem zweiten Bericht im November 2026 per Websuche geprüft und übernommen: Fäcke und Mehlmauer-Larcher (2017) mit dem Beitrag von Matthes und Neumann, das Handbuch von Hallet, Königs und Martinez (2020), Guerrettaz, Mathieu, Lee und Berwick (2022), Riquois (2023), das Heft Digitales Lesen von Unterricht Französisch mit dem Beitrag von Franke und Lachmund sowie die Ausgaben von Découvertes (ab 2020), À plus ! (ab 2020) und Tous ensemble (ab 2022). Shawer (2010), Mishan und Timmis (2015), das Handbuch Fremdsprachenunterricht (2016), Fäcke (2017), Guerrettaz (2021), Guerrettaz, Engman und Matsumoto (2021) und Tomlinson (2023) sind Standardwerke aus Fachwissen. Prozentwerte, Seitenangaben und die Einzelheiten des Lehrwerksvergleichs stehen wie im Bericht. Nicht verifiziert und so markiert: Rückl (2018), Bento und Riquois (2022), André (2023) sowie Pogranova und Waltermann (2026). Nicht übernommen: die Französisch-Methodik von Krechel und Schulze Wettendorf (2025), die die Websuche nur unter anderen Namen fand und für die schon der Bericht eine Prüfung am Printexemplar empfahl; die zweite, digitale Ausgabe von Tomlinsons Materials Development in Language Teaching, weil die Ausgabe von 2011 schon aufgeführt ist; Defays (2018) als allgemeine Einführung; die Kurzbeiträge von Mischke (2018), Pustka (2022) und Wengler (2023, 2024) in Unterricht Französisch, die sich nicht einzeln prüfen ließen. Der Bericht vermerkt, alle Quellen seien "im Rahmen der Recherche verifiziert", fehlende Detailangaben wie genaue Endseiten von Handbuchkapiteln seien gekennzeichnet, und Studien zu FLE-Lehrwerken aus Québec nach 2015 habe er mangels vollständiger Verifizierung weggelassen. Seine Landesbezüge ließ er als Platzhalter offen; die vier Verknüpfungspunkte sind den Thüringer Angaben zugeordnet. Die Thüringer Angaben aus dem ersten Durchgang sind am Lehrplan 2026 geprüft.*

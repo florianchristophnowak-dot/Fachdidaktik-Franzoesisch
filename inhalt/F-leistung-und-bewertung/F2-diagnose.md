@@ -2,94 +2,172 @@
 
 ## Auf einen Blick
 
-Diagnose erhebt, was Lernende schon können und wo sie stehen, um Unterricht und Förderung daran auszurichten. Sie reicht von Beobachtungen im Unterricht über Schülerprodukte, Fehleranalysen und Selbsteinschätzungen bis zu standardisierten Tests wie Vergleichsarbeiten oder C-Tests. Diagnostische Kompetenz heißt, Lernstände treffend einzuschätzen und daraus passende Förderung abzuleiten. Eine Diagnose ohne Folgen für den Unterricht bleibt wirkungslos.
+Diagnose erhebt, was Lernende schon können und wo sie stehen, um Unterricht und Förderung daran auszurichten. Gemeint ist die systematische, kriteriengeleitete Erhebung, Analyse und Deutung von Lernausgangslagen, Lernprozessen und Kompetenzständen; ihr Ziel ist nicht die Note, sondern begründete pädagogische Entscheidungen und passende Förderung. Sie reicht von Beobachtungen im Unterricht über Schülerprodukte, Fehleranalysen und Selbsteinschätzungen bis zu standardisierten Tests wie Vergleichsarbeiten oder C-Tests. Diagnostische Kompetenz heißt, Lernstände treffend einzuschätzen und daraus passende Förderung abzuleiten. Eine Diagnose ohne Folgen für den Unterricht bleibt wirkungslos.
 
 | Form | Beispiele | Stärke |
 | --- | --- | --- |
-| informell | Beobachtung, Unterrichtsgespräch, Mini-Whiteboards | laufend und ohne Aufwand |
-| semiformell | Schülertexte mit Fehleranalyse, Ich-kann-Listen, Eingangsaufgaben | gezielt und unterrichtsnah |
-| formell | Vergleichsarbeiten (VERA 8), C-Tests, Einstufungstests | vergleichbar, aber selten und grob |
+| informell | Beobachtung, Unterrichtsgespräch, Mini-Whiteboards, *billets de sortie* | laufend und ohne Aufwand |
+| semiformell | Schülertexte mit Fehleranalyse, Ich-kann-Listen mit Belegaufgaben, Eingangsaufgaben, Sprachaufnahmen | gezielt und unterrichtsnah |
+| formell | Vergleichsarbeiten (VERA 8), C-Tests, DIALANG, Einstufungstests | vergleichbar, aber selten und grob |
 
-- **Begriffe:** évaluation diagnostique, diagnostic, bilan, profil d'apprenant, auto-évaluation (frz.); diagnostic assessment, learner profile, teacher judgement accuracy, diagnostic competence (engl.)
-- **Abgrenzung:** Diagnose dient der Förderung, Bewertung dem Urteil (siehe F1). Feedback gibt diagnostische Information an die Lernenden zurück (siehe E3).
-- **Tags:** #Planung #Beratung #SLK #Praxiswissen
-- **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober 2026)
+- **Begriffe:** évaluation diagnostique, diagnostic pédagogique, diagnostic, bilan, test de positionnement, profil d'apprenant, régulation des apprentissages, évaluation dynamique, auto-évaluation, descripteurs « je peux », Portfolio européen des langues (frz.); diagnostic assessment, diagnostic language assessment, placement assessment, learner profile, dynamic assessment, self-assessment, can-do statements, European Language Portfolio, teacher judgement accuracy, diagnostic competence (engl.)
+- **Abgrenzung:** Diagnose dient der Förderung, Bewertung dem Urteil (siehe F1). Beide können dieselben Instrumente nutzen, etwa ein Raster; Diagnose findet aber im geschützten Lernraum statt, Bewertung im Leistungsraum. Feedback gibt diagnostische Information an die Lernenden zurück (siehe E3).
+- **Tags:** #Planung #Unterrichtsbesuch #Beratung #SLK #Praxiswissen
+- **Stand:** Entwurf Claude, ergänzt um Deep Research (Oktober und November 2026)
+
+| Begriff | Bedeutung |
+| --- | --- |
+| Lernausgangslage | Vorwissen, Stärken, Lücken und mehrsprachige Ressourcen vor einer Reihe oder bei Übergängen erfassen (*évaluation diagnostique* oder *prédictive*, *test de positionnement*; diagnostic oder placement assessment). |
+| Lernprozessdiagnose | Laufendes Beobachten während des Lernens, um Unterricht und Unterstützung sofort anzupassen (*évaluation formative*, *régulation des apprentissages*; formative assessment, assessment for learning). |
+| Lernergebnis | Bilanz und gegebenenfalls Zertifizierung erreichter Kompetenzen am Ende einer Einheit, etwa in einer Klassenarbeit oder im DELF (*évaluation sommative* oder *certificative*; summative assessment, assessment of learning; siehe F1). |
+| Dynamische Diagnose | Diagnose und gestufte Hilfe greifen ineinander, um das Lernpotenzial in der Zone der nächsten Entwicklung zu erfassen (*évaluation dynamique*, *médiation*; dynamic assessment, scaffolding). |
+| Selbst- und Peer-Diagnose | Lernende schätzen ihre Kompetenzen nach Kriterien ein, oft mit Ich-kann-Deskriptoren (*auto-évaluation*, *descripteurs « je peux »*; self-assessment, assessment as learning, can-do statements), oder geben sich gegenseitig kriteriengeleitet Rückmeldung (*évaluation par les pairs*, *co-évaluation*; peer assessment). |
+| Standardisierte Lernstandserhebung | Kriteriums- und normorientierte Standortbestimmung an überregionalen Standards, etwa mit VERA 8 oder einem C-Test (*évaluation standardisée* oder *à grande échelle*; large-scale assessment). |
+| Portfolio | Langfristige Dokumentation, Reflexion und Präsentation des eigenen Lernwegs mit Sprachenpass, Sprachenbiografie und Dossier (*Portfolio européen des langues*, *dossier d'apprentissage*; European Language Portfolio, e-portfolio). |
 
 ## Haltung
 
-1. Jede Aufgabe kann diagnostisch genutzt werden. Diagnose ist Teil des Unterrichts, kein Zusatzprogramm.
-2. Diagnose braucht Konsequenzen: erheben, gezielt fördern, die Wirkung überprüfen.
-3. Kompetenzprofile statt Defizitlisten. Stärken sind Ansatzpunkte für Förderung.
+1. Diagnose ist Teil des Unterrichts, kein Zusatzprogramm, und sie ist ein Kreislauf: erheben, zurückmelden, gezielt fördern, die Wirkung überprüfen. Jede Aufgabe kann diagnostisch genutzt werden. "It is not the test which diagnoses, it is the user of the test": Nicht der Test diagnostiziert, sondern wer ihn nutzt, und zu jeder Diagnose gehört eine anschließende Maßnahme (Alderson, Brunfaut & Harding 2015). Die frankophone Didaktik spricht von *régulation*, proaktiv, interaktiv oder retroaktiv (Mottier Lopez 2015; siehe E3).
+2. Kompetenzprofile statt Defizitlisten. Der GeR beschreibt Können mit positiv formulierten Deskriptoren (*descripteurs « je peux »*), und Fehler sind Zwischenstufen der Lernersprache, die den Erwerbsstand anzeigen (siehe A7). Stärken sind Ansatzpunkte für Förderung.
+3. Lernraum und Leistungsraum trennen. Lernende legen Verständnislücken nur offen, wenn keine Note droht; werden Diagnosen benotet, entstehen Vermeidungsverhalten und verzerrte Befunde (Black & Wiliam 2018; Helmke 2022, nicht verifiziert; siehe F1).
 4. Das eigene Urteil kritisch prüfen. Erwartungen, Vornoten und Verhalten färben Einschätzungen.
-5. Lernende einbeziehen: Selbstdiagnose stärkt Sprachlernkompetenz und Verantwortung für das eigene Lernen.
+5. Lernende einbeziehen: Selbstdiagnose stärkt Sprachlernkompetenz und Verantwortung für das eigene Lernen. Selbsteinschätzungen hängen aber nur mittelstark mit der gemessenen Leistung zusammen (Li & Zhang 2021; Butler 2024). Realistisch werden sie erst mit konkreten, aufgabenbezogenen Kriterien, Belegen (*preuves*) und wiederholter Übung.
+6. Potenzial statt nur Status. Statische Tests erfassen, was schon automatisiert ist. Wie Lernende auf gestufte Impulse und Hilfen reagieren (*médiation*, scaffolding), zeigt ihr Lernpotenzial in der Zone der nächsten Entwicklung im Sinne Vygotskys und macht passgenaue Förderung möglich; so arbeitet das Dynamic Assessment, wie es Poehner und Lantolf vertreten.
 
 ## Handlungshinweise
 
+**Für alle Lernjahre**
+
+- In vier Schritten vorgehen: beobachten und zuhören, eine erste Einschätzung bilden, gezielt ein Instrument einsetzen, über die Förderung entscheiden (Harding, Alderson & Brunfaut 2015).
+- Typische Hürden des Französischen gezielt in den Blick nehmen: den Abstand zwischen Schrift und Laut (stummes End-*e*, *-s* und *-ent*, *liaison*, *enchaînement*), die Morphosyntax (*accord*, *passé composé* und *imparfait*, Objektpronomen, *subjonctif*) und den oft großen Abstand zwischen Verstehen und flüssigem Sprechen.
 - Die Lernausgangslage zu Beginn einer Reihe erheben: kurze Eingangsaufgabe, Wortfeld-Mindmap, Selbsteinschätzung (*Je sais déjà ... · Je ne sais pas encore ...*).
 - Schülertexte gezielt auswerten: Fehler nach Bereichen ordnen (Wortschatz, Morphologie, Syntax, Orthografie, Pragmatik) und Muster erkennen, etwa Transfer aus Deutsch, Englisch oder Herkunftssprachen (siehe A3, E2; zur Orthografie siehe C4).
 - Prozesse sichtbar machen: Lernende beim Lesen oder Hören laut denken lassen oder fragen, wie sie vorgegangen sind (siehe B1, B2).
 - Aussprache mit kurzen Sprachaufnahmen und einem Beobachtungsbogen diagnostizieren (siehe C3).
 - Selbsteinschätzung üben: Ich-kann-Sätze mit Beispielaufgaben verbinden (*Je peux comprendre un message vocal simple.*), Einschätzung und Ergebnis danach vergleichen und große Abweichungen besprechen.
 - Portfolio mit Reflexion führen: Lernende wählen Arbeiten aus und begründen die Auswahl (*Ce que j'ai appris · Ce que je veux améliorer*). Erst Auswahl, Kriterien und Selbstreflexion machen aus einer Sammlung ein Portfolio (Paulson, Paulson & Meyer 1991).
-- Standardisierte Ergebnisse nutzen, wo es sie gibt, etwa Vergleichsarbeiten in Klasse 8, wenn Französisch erste Fremdsprache ist, und sie in der Fachkonferenz besprechen.
+- *Billets de sortie* in den letzten drei bis fünf Minuten einsetzen und die Folgestunde danach ausrichten: Wiederholungsschleife oder Vertiefung.
 - Wenige, gut gewählte Verfahren statt vieler Tests: lieber eine Eingangsaufgabe gründlich auswerten als drei Bögen ausfüllen lassen.
 - Diagnose in Förderung übersetzen: konkrete Ziele, passende Übungen, ein fester Zeitpunkt zur Überprüfung.
+
+**Verfahren im Überblick**
+
+| Verfahren | Ziel | Zeitpunkt | Förderung danach |
+| --- | --- | --- | --- |
+| C-Test (Raatz und Klein-Braley; Grotjahn) | allgemeine Sprachkompetenz | Lernausgangslage, etwa ab Ende des dritten Lernjahrs oder beim Übergang in die Oberstufe | differenzierte Textzugänge, Förderpakete zu Wortschatz und Morphologie |
+| Ich-kann-Listen mit Belegaufgaben | alle Teilkompetenzen | vor und nach einer *unité* | selbst gewählte Übungsstationen (*parcours d'entraînement*) |
+| VERA-8-Aufgaben, adaptiert | Hör- und Leseverstehen (A1 bis B1) | Mitte und Ende der Sek I, in der zweiten Fremdsprache ab dem dritten oder vierten Lernjahr | Strategietraining (*écoute globale*, *écoute sélective*), Fehlerursachen am Transkript klären |
+| Analytische Raster | Schreiben, Sprechen, Sprachmittlung | laufend, vor und nach Klassenarbeiten | Feedback auf ein oder zwei Schwerpunkte, dann Überarbeitung |
+| Audio- oder Videoportfolio | Sprechen, Aussprache, Flüssigkeit | laufend in Sek I und Sek II | Audio-Feedback zu *liaison*, Intonation, Konnektoren und Redefluss |
+| *Billets de sortie* | einzelne Punkte zu Grammatik, Wortschatz oder Verstehen | letzte drei bis fünf Minuten einer Stunde | Wiederholung oder Vertiefung zu Beginn der Folgestunde |
+| DIALANG, DELF-Übungstests | Teilkompetenzen von A1 bis C2 | Übergang in die Oberstufe, Qualifikationsphase | Lernvereinbarung (*contrat d'apprentissage*), gezielte Prüfungsvorbereitung |
+
+**Sek I**
+
+- Im ersten und zweiten Lernjahr niedrigschwellig diagnostizieren statt lange zu testen: eine Minute Lautlesen in Partnerarbeit (Zuordnung von Schrift und Laut), ein *billet de sortie* mit drei Sätzen oder eine kleine Zuordnungsaufgabe zu Vorerfahrungen aus Deutsch, Englisch und Herkunftssprachen (siehe A3).
+- Ich-kann-Sätze immer an Belege (*preuves*) koppeln. Abstrakte Aussagen wie "Ich kann über meine Freizeit sprechen" überfordern; besser sind konkrete Mikrohandlungen ("Ich kann drei Hobbys nennen und begründen, warum ich sie mag") direkt neben einer kurzen Aufgabe. Erst nach deren Lösung kreuzen die Lernenden an.
+- Fehlerprofile statt Fehlerzählung: typische Fehlerquellen mit Kürzeln bündeln (etwa A für *accord*, T für *temps*, V für *vocabulaire*, O für *orthographe*) und daraus einen klar begrenzten Förderauftrag ableiten ("Dein Fokus bis Freitag: Endungen im *passé composé* mit *être*").
+- VERA 8 klug nutzen: Die Vergleichsarbeiten Französisch sind für Französisch als erste Fremdsprache gedacht; wer Französisch als zweite Fremdsprache lernt, schreibt in Klasse 8 laut Bericht in der Regel VERA 8 Englisch. Die freigegebenen IQB-Aufgaben Französisch mit Schwerpunkt A2 bis B1 eignen sich ab dem späten dritten oder vierten Lernjahr als kriterienorientierte Diagnose des Hör- und Leseverstehens. Wo es Ergebnisse gibt, sie in der Fachkonferenz besprechen.
+- Das Portfolio schlank und ritualisiert anlegen: ein *dossier de français*, analog oder digital, in das pro Einheit höchstens ein oder zwei ausgewählte Produkte kommen, etwa Entwurf und Endfassung eines Textes oder einer Sprachnachricht, mit einer kurzen Reflexionskarte.
+- Förderzeit nach jeder Diagnose fest einplanen (*temps d'entraînement individualisé*), etwa in zwei oder drei Niveaus (*coup de pouce*, *niveau standard*, *défi*), mit Tandembögen zur Partnerkorrektur oder gestuften Hilfekarten (*boîtes à outils*; siehe E1).
+
+**Sek II**
+
+- Zu Beginn der Oberstufe den Übergang diagnostizieren: Der Sprung vom Lehrwerk zur Arbeit mit authentischen Texten erzeugt oft starke Unterschiede. Geeignet sind ein kurzer französischer C-Test oder das kostenlose Online-Verfahren DIALANG (ab etwa 15 Jahren; Lesen, Hören, Schreiben, Wortschatz, Grammatik), kombiniert mit einer diagnostischen Schreibaufgabe aus *résumé* und kurzem *commentaire*. In Thüringen betrifft das besonders die Einführungsphase mit Lernenden aus der Regelschule (siehe Bezüge, F4).
+- Fokussiert zurückmelden statt alles anzustreichen: Laut Bericht wirkt selektives, kriteriengeleitetes Feedback mit anschließender Überarbeitung besser als ungeordnete Vollkorrekturen (Kang & Han 2015; Karim & Nassaji 2020). In Übungsklausuren zwei oder drei wiederkehrende Muster markieren; die Lernenden führen eine *fiche d'erreurs personnelles*, die vor jeder Klausur als Checkliste dient (siehe E2).
+- Mündlichkeit gezielt diagnostizieren: Weil das Unterrichtsgespräch kaum genaue Einzeldiagnosen erlaubt, eignen sich kurze Audio- oder Videoabgaben von 90 bis 120 Sekunden, etwa ein *commentaire oral* zu einer Karikatur. Getrennt beurteilt werden Inhalt, Flüssigkeit (Sprechtempo, Pausen, Selbstkorrekturen; Tavakoli, Nakatsuhara & Hunter 2020), Aussprache und Verständlichkeit sowie Diskursmittel (siehe B3, C3).
+- Abiturraster und DELF B1/B2 als Anker zur Selbststeuerung nutzen: die Raster in schülernahe Checklisten für Selbst- und Peer-Einschätzung übertragen, etwa "Habe ich bei der Sprachmittlung Adressatenbezug und Textsortenkonventionen beachtet, statt wörtlich zu übersetzen?" (siehe F3, F4).
 
 ## Best Practice Französisch
 
 **1./2. Lernjahr: "Mon bilan avant le contrôle".** Eine Woche vor der Klassenarbeit bearbeiten Lernende einen Selbsttest mit Lösungsblatt und markieren ihre Ich-kann-Liste. Danach wählen sie passende Übungsstationen. An den Listen sieht die Lehrkraft, wen sie gezielt unterstützen sollte.
 
+**2./3. Lernjahr, A1+/A2: "Mon bilan de compétences : raconter un week-end".** Eine Doppelstunde (90 Minuten) zum Schreiben und zum *passé composé* mit *avoir* und *être* samt Zeitmarkern wie *d'abord*, *ensuite* und *finalement*. Ein zweiseitiger Bogen *Mon bilan* stellt vier konkreten Ich-kann-Sätzen je eine kurze Belegaufgabe gegenüber, etwa "Ich kann mindestens fünf Aktivitäten mit *avoir* im *passé composé* richtig aufschreiben" oder "Ich erkenne, wann ich *être* brauche, und passe das Partizip an"; die Belege sind drei bis vier Sätze, ein kurzer Lückentext oder ein Mini-Schreibauftrag. Diagnose und Selbstabgleich (20 Minuten): Die Lernenden lösen zuerst die Belegaufgaben ohne Note, vergleichen selbst mit ausliegenden Lösungen (*auto-correction*) und markieren erst danach ihren Stand auf einer Ampel (*vert*, *jaune*, *rouge*). Förderung (45 Minuten) an drei Stationen (*parcours d'entraînement*): Rot geht zu Station A (*coup de pouce*: Bildkarten, Verb-Baukasten, Musterlösung zur Selbstkontrolle), Gelb zu Station B (*entraînement*: Fehlerdetektiv-Text und Tandembogen zu *avoir* und *être*), Grün zu Station C (*défi*: ein Instagram-Post über ein erfundenes Wochenende in Paris mit Konnektoren und Gefühlsausdrücken, das *imparfait* vorentlastet). An Station A führt die Lehrkraft Mikro-Coachings von zwei bis drei Minuten mit gestuften Hilfen. Re-Check und Portfolio (25 Minuten): eine parallele Transferaufgabe (*Écris un message vocal ou un texto de 6 phrases sur ton week-end.*); beide Fassungen kommen mit dem Satz *Ce que j'ai amélioré aujourd'hui : …* ins *dossier* (siehe C2).
+
 **3./4. Lernjahr: "Enregistrement diagnostique".** Jede Person nimmt einen kurzen Text und eine freie Minute zum Thema *Mes vacances* auf. Die Lehrkraft hört mit einem Beobachtungsbogen (Nasalvokale, stumme Endungen, Liaison, Intonation, Flüssigkeit) und gibt jeder Person zwei gezielte Übungen.
+
+**4. Lernjahr, A2+/B1: "Diagnostic d'écoute".** Eine Stunde (45 bis 60 Minuten) in Klasse 9 oder 10 mit einer freigegebenen VERA-8-Aufgabe Französisch des IQB zum Hörverstehen samt Audiodatei. Durchführung (15 Minuten): Aufgaben lesen, zweimal hören nach IQB-Vorgabe, mit dem ausdrücklichen Hinweis, dass es keine Note gibt. Auswertung (15 Minuten): Mit dem jetzt ausgeteilten Transkript markieren die Lernenden die relevanten Stellen und ordnen jedem Fehler eine von fünf Ursachen zu: zu schnelles Sprechtempo oder nicht erkannte *liaison*, unbekanntes Schlüsselwort, Aufgabe oder Ablenker falsch gelesen, Aufmerksamkeit verloren, zweites Hören nicht gezielt genutzt. Per Handzeichen oder digitaler Kurzumfrage entsteht ein Klassenprofil der häufigsten Hürden. Förderung (15 bis 20 Minuten) in zwei oder drei Kleingruppen: Gruppe 1 übt das Segmentieren von *liaison* und *élision* an zwei kurzen Sätzen in einem kleinen *dictogloss*, Gruppe 2 markiert Schlüsselwörter und Synonyme in Aufgabenstellungen, Gruppe 3 arbeitet mit einer anspruchsvolleren authentischen Kurzreportage von *1jour1actu* (siehe B1).
 
 **Sek II: "Bilan de rentrée".** Zu Beginn der Einführungsphase kommen Lernende aus verschiedenen Klassen und Schulen zusammen. Eine Eingangsdiagnose mit kurzen Aufgaben zu Lesen, Schreiben und sprachlichen Mitteln und eine Selbsteinschätzung führen zu einem Wiederholungsplan und individuellen Lernzielen (*contrat d'apprentissage*).
 
 **Sek II: "Comment j'ai écouté".** Vor einem Hörtext, etwa einer kurzen Radioreportage, notieren Lernende Vermutungen zum Inhalt. Nach dem Hören vergleichen Paare ihre Notizen, markieren Stellen, an denen das Verstehen abbrach, und kreuzen auf einer Strategieliste an, was geholfen hat (Schlüsselwörter, Vorwissen, Intonation, Wiederholungen). Im Plenum werden typische Hürden gesammelt, etwa Zahlen, Eigennamen oder schnelles Sprechen. Daraus folgen gezielte Übungen für die nächsten Stunden (siehe B1).
 
+**Sek II, B1+/B2: "Portfolio de progrès".** Ein digitales Schreib- und Sprechportfolio über drei Wochen in der Qualifikationsphase zu einem abiturrelevanten Thema wie *L'engagement des jeunes* oder den deutsch-französischen Beziehungen, auf der schulischen Lernplattform. Maßstab ist ein kompaktes Raster mit vier Dimensionen (*structure et cohérence*, *argumentation et nuances*, *richesse lexicale et connecteurs*, *correction linguistique*) und Indikatoren für B1+ und B2; dazu führen die Lernenden eine persönliche *fiche de progrès*. Version 1: ein Textentwurf von etwa 200 bis 250 Wörtern (*commentaire personnel*) und eine Sprachnotiz von 90 Sekunden, in der die Lernenden ihre Kernthese frei begründen. Peer-Feedback (20 Minuten im Unterricht): Tandems prüfen den Entwurf nach nur zwei Kriterien, Struktur und Konnektoren, und markieren eine gelungene Stelle (*étoile*) und einen konkreten Verbesserungsvorschlag (*souhait*). Die Lehrkraft gibt asynchron ein Audio-Feedback von einer Minute zur Sprachnotiz (Verständlichkeit, Pausen, Schlüsselstrukturen) und markiert im Text indirekt höchstens zwei grammatische Fehlerkategorien, ohne Vollkorrektur. Die Lernenden überarbeiten mit ihren Hilfen (*boîte à outils*), laden Version 2 hoch und notieren zwei Ziele für die nächste Klausur (siehe B4, G1).
+
 ## Stolpersteine
 
-| Stolperstein | Woran man es erkennt |
-| --- | --- |
-| Diagnose ohne Folgen | Diagnosebögen werden ausgefüllt, der Unterricht bleibt gleich. |
-| Defizitblick | Erfasst werden nur Fehler, Stärken tauchen nicht auf. |
-| Datensammeln ohne Frage | Viele Tests, keine Zeit für Auswertung und Förderung. |
-| Urteilsfehler | Schriftbild, Verhalten oder Vornoten färben die Einschätzung. |
-| Diagnose erst in der Klassenarbeit | Schwierigkeiten werden sichtbar, wenn die Note schon feststeht. |
-| Selbsteinschätzung ohne Anleitung | Alle kreuzen "kann ich" an, die Einschätzung sagt wenig über den tatsächlichen Stand. |
-| Portfolio als Sammelmappe | Arbeiten werden abgeheftet, aber nie ausgewählt, reflektiert oder besprochen. |
+| Stolperstein | Woran man es erkennt | Folge |
+| --- | --- | --- |
+| Diagnose ohne Folgen | Diagnosebögen oder *bilans* werden am Stundenende ausgefüllt und abgeheftet, die nächste Stunde läuft für alle gleich. | Lernende erleben Diagnose als Bürokratie, der Kreislauf von Diagnose und Förderung bricht ab. |
+| Lern- und Leistungsraum vermischt | Ein als Lernstandscheck angekündigter Kurztest wird eingesammelt und offen oder verdeckt für die sonstige Mitarbeit gewertet. | Lernende verbergen Schwächen oder schreiben ab; Aussagekraft und Vertrauen gehen verloren. |
+| Vage Ich-kann-Sätze | Sätze wie "Ich kann das *imparfait*" oder "Ich verstehe französische Texte gut", ohne konkrete Sprachhandlung und ohne Belegaufgabe. | Gemessen wird eher das Bauchgefühl als das Können; viele schätzen sich falsch ein. |
+| Selbsteinschätzung ohne Abgleich | Alle kreuzen "kann ich" an. Lernende teilen sich ohne Gegenprobe selbst in Niveaugruppen ein; schwächere wählen zu leichte oder aus Selbstüberschätzung zu schwere Aufgaben, stärkere unterfordern sich. | Fehleinschätzungen sind gerade im unteren Leistungsbereich häufig (laut Bericht Li & Zhang 2021); die Förderung geht in die falsche Richtung. |
+| Überdiagnostik | Viele Tests, keine Zeit für Auswertung und Förderung: Portfolios von 15 Seiten, Diagnosebögen von 25 Minuten in einer 45-Minuten-Stunde, wochenlange Auswertung. | Die Rückmeldung kommt zu spät, Sprech- und Übungszeit geht verloren. |
+| Defizit- und Grammatikblick | Erfasst werden nur Fehler, vor allem isolierte Verbformen und Rechtschreibung; Stärken, Hör- und Lesestrategien, Flüssigkeit, kommunikative Wirkung und Mehrsprachigkeit fehlen. | Widerspricht der Kompetenzorientierung und entmutigt gerade schwächere Lernende. |
+| Urteilsfehler | Schriftbild, Verhalten oder Vornoten färben die Einschätzung. | Förderbedarf wird übersehen oder unterstellt. |
+| Diagnose erst in der Klassenarbeit | Schwierigkeiten werden sichtbar, wenn die Note schon feststeht. | Für Förderung ist es zu spät. |
+| Portfolio als Sammelmappe | Arbeiten werden abgeheftet, aber nie ausgewählt, reflektiert oder besprochen. | Die Lernenden erfahren nichts über ihren Lernweg. |
 
 ## Beobachten und beraten
 
-- Wie wurde die Lernausgangslage erhoben, und wie zeigt sie sich in der Planung?
-- Welche diagnostischen Informationen lieferte die Stunde, etwa Schülerprodukte oder typische Fehler?
-- Hat die Lehrkraft im Verlauf auf beobachtete Schwierigkeiten reagiert?
-- Wie waren die Lernenden selbst an der Diagnose beteiligt?
+**Beobachten**
+
+- **Planung und Transparenz:** Wie wurde die Lernausgangslage erhoben, und wie zeigt sie sich in der Planung? Sind Ziel der Diagnose, Bezug zu den Kompetenzerwartungen und die geplante Förderung im Entwurf verzahnt? Ist für die Lerngruppe erkennbar, dass es um einen Lernraum ohne Noten geht?
+- **Qualität der Instrumente:** Passen die Aufgaben zu Niveau und Zielkompetenz? Werden Ich-kann-Sätze durch Aufgaben oder Sprachprodukte überprüfbar?
+- **Diagnose im Unterrichtsgespräch:** Nutzt die Lehrkraft Fehler, Stockungen und Nachfragen als diagnostische Fenster, statt die Lösung vorzusagen oder über Fehler hinwegzugehen? Bietet sie gestufte Hilfen an, und hat sie im Verlauf auf beobachtete Schwierigkeiten reagiert?
+- **Rückmeldung und Förderung:** Welche diagnostischen Informationen lieferte die Stunde, etwa Schülerprodukte oder typische Fehler? Bezieht sich das Feedback auf Kriterien und den nächsten Lernschritt (*feed-forward*) statt auf ein pauschales *Très bien !*? Gibt es im Anschluss passende, differenzierte Übungen?
+- **Beteiligung der Lernenden:** Kontrollieren die Lernenden selbst, analysieren sie Fehlerursachen, geben sie Peer-Feedback und formulieren sie Ziele? Wird ihre Selbsteinschätzung mit Kriterien oder Lösungen abgeglichen?
 - Leitfrage: "Woran haben Sie erkannt, was die Lerngruppe schon kann, und was folgt daraus für die nächste Stunde?"
+
+**Beraten**
+
+- **Funktion:** "Welche Informationen über den Lernstand einzelner Schülerinnen und Schüler haben Sie heute gewonnen, die Sie vor der Stunde noch nicht hatten?"
+- **Förderung:** "Wenn Sie auf die drei Lernenden schauen, bei denen heute eine Hürde sichtbar wurde: Was ist Ihr nächster, diagnostisch begründeter Schritt in der Folgestunde?"
+- **Selbsteinschätzung:** "Woran konnten die Lernenden prüfen, ob ihr Kreuz auf dem Ich-kann-Bogen zu ihrem tatsächlichen Können passt?"
+- **Fehlerkultur:** "Welche Signale haben den Lernenden gezeigt, dass Fehler in dieser Phase erwünschte Lernhinweise sind und kein Risiko für die Note?"
+- **Ökonomie:** "Welcher Teil Ihres Instruments hat den größten Informationsgewinn pro Minute gebracht, und worauf ließe sich im Schulalltag verzichten?"
+- **Sprachspezifik:** "Hat Ihre Diagnose gezeigt, ob die Schwierigkeit im Verstehen (Wortschatz, Segmentieren beim Hören), im Formulieren oder in der Aufgabenstellung lag?"
 
 ## Reflexionsfragen
 
 - Was weiß ich über einzelne Lernende jenseits ihrer Note?
-- Wen überschätze oder unterschätze ich möglicherweise, und warum?
-- Was ist aus meiner letzten Diagnose im Unterricht tatsächlich geworden?
+- Welches diagnostische Interesse verfolge ich, Ausgangslage, Hürde im Lernprozess oder Kompetenzstand, und passt mein Verfahren zeitlich und fachlich dazu?
+- Welche zwei oder drei typischen Schwierigkeiten erwarte ich bei diesem Phänomen, etwa in Aussprache, Morphosyntax oder Textstrategie, und welche Förderangebote halte ich dafür bereit?
+- Unterstütze ich bei Schwierigkeiten zuerst mit gestuften Impulsen (*coups de pouce*), um zu sehen, wie viel Hilfe tatsächlich nötig ist?
+- Trenne ich sprachlich und im Handeln klar zwischen Lernraum und Leistungsraum?
+- Wo deckte sich meine Einschätzung mit den tatsächlichen Leistungen, wen überschätze oder unterschätze ich möglicherweise, und warum?
+- Welches konkrete, kleinschrittige *feed-forward* gebe ich, damit die Lernenden wissen, woran und wie sie bis zur nächsten Überprüfung arbeiten?
+- Was ist aus meiner letzten Diagnose im Unterricht tatsächlich geworden, und wie sichere ich, dass Ergebnisse aus Selbsteinschätzungen, Portfolios oder Tests in die Planung der nächsten Wochen einfließen?
 
 ## Bezüge
 
-- **KMK 2023:** Kompetenzerwartungen als Bezugsrahmen für Diagnose; zur Sprachlernkompetenz gehört, den eigenen Lernstand einzuschätzen.
-- **GeR-Begleitband 2020:** Deskriptoren als Grundlage für Kompetenzraster, Ich-kann-Listen und das Europäische Sprachenportfolio.
+- **KMK 2023:** Kompetenzerwartungen als Bezugsrahmen für Diagnose; zur Sprachlernkompetenz gehört, den eigenen Lernstand einzuschätzen. Die Standards gelten formal für die erste Fremdsprache, sind aber auch für Französisch als zweite Fremdsprache die zentrale überregionale Referenz und Grundlage von VERA 8. Diagnostisch wichtig sind die gestärkten übergreifenden Kompetenzen Text- und Medienkompetenz, Sprachbewusstheit und Sprachlernkompetenz, darunter den eigenen Lernstand nach Kriterien einschätzen, Lernbedarf erkennen und passende Strategien wählen. Laut Bericht sind die Standards an die Kompetenzstufenmodelle des IQB angebunden, die für VERA Mindest-, Regel-, Regel-plus- und Optimalstandards markieren.
+- **KMK 2012 Abitur:** Die Standards gelten unmittelbar für Französisch als fortgeführte Fremdsprache. Fünf funktionale kommunikative Teilkompetenzen mit dienender Funktion der sprachlichen Mittel schließen eine rein grammatikzentrierte Diagnose aus; Sprachlernkompetenz und Sprachbewusstheit stützen alle Bereiche. Aufgaben- und Bewertungsstandards einschließlich der Poolaufgaben lassen sich in diagnostische Raster für die Qualifikationsphase übertragen (siehe F4).
+- **GeR-Begleitband 2020:** Deskriptoren als Grundlage für Kompetenzraster, Ich-kann-Listen und das Europäische Sprachenportfolio. Pre-A1-Deskriptoren und ausgebaute Plus-Niveaus wie A2+ und B1+ erlauben eine feinere Diagnose in den ersten Lernjahren. Neue Skalen zu Mediation, Online-Interaktion, kreativen Texten einschließlich Literatur und zu plurilingualer und plurikultureller Kompetenz eröffnen Kategorien jenseits der vier Fertigkeiten. Die überarbeitete Skala zur phonologischen Kontrolle stellt Verständlichkeit statt eines Muttersprachlerideals ins Zentrum, wichtig für die Diagnose der Aussprache (siehe C3; zum Assessment Vogt in Vogt & Quetz 2021).
 - **Thüringen:** Die ThürSchulO enthält in § 59a ein Gespräch zur Lernentwicklung; Inhalt und Geltungsbereich in der aktuellen Fassung prüfen. Nachteilsausgleich: § 59 Abs. 5 (siehe E1).
 - **Thüringen, Lehrplan:** Der Lehrplan Französisch 2026 verlangt differenzierte Lernangebote auf Grundlage diagnostizierter Lernvoraussetzungen (Kapitel 1). In jedem Lernbereich gehört die Einschätzung der eigenen Kompetenzentwicklung zur Selbst- und Sozialkompetenz, etwa mit einem Portfolio. Für die Einführungsphase mit Lernenden aus der Regelschule hält er fest, dass der Kompetenzstand zunächst unterschiedlich ist und der Unterricht ein einheitliches Ausgangsniveau für die Qualifikationsphase schaffen soll (Kapitel 4).
+- **Thüringen, Abgleich laut zweitem Bericht:** Der Bericht nennt vier Anker im Landeslehrplan. Für Thüringen: (1) Auftrag zur individuellen Förderung: Der Lehrplan verlangt differenzierte Lernangebote auf Grundlage diagnostizierter Lernvoraussetzungen (siehe oben); die einschlägige Vorschrift im ThürSchulG und den Inhalt des Gesprächs zur Lernentwicklung nach § 59a ThürSchulO *prüfen*. (2) Zielniveaus für Französisch als zweite Fremdsprache: am Ende von Klassenstufe 10 B1, in der Qualifikationsphase B2 auf beiden Anforderungsniveaus, in der Einführungsphase für Lernende mit Realschulabschluss von A2/A2+ zu B1 (siehe F4). Die Zwischenstufen der Sek I, die der Bericht mit A1 nach dem ersten oder zweiten Lernjahr und A2/A2+ bis B1 am Ende der Sek I angibt, am Lehrplan *prüfen*. (3) Lernstandserhebungen: ob und wie Französisch als zweite Fremdsprache an VERA 8 teilnimmt, *prüfen*; am Ende von Klassenstufe 10 steht die besondere Leistungsfeststellung, in der Fremdsprache meist eine mündliche Partnerprüfung (siehe F4). Portfolioarbeit sieht der Lehrplan für die Einschätzung der eigenen Kompetenzentwicklung vor (siehe oben). (4) Bewertungs- und Feedbackvorgaben: Kapitel 7 des Lehrplans regelt die Leistungseinschätzung (siehe F1); beim Sprechen hat Verständlichkeit Vorrang vor Korrektheit (Abschnitte 1.3.2 und 3.1.3, siehe B3). Vorgaben zur Dokumentation individueller Lernentwicklung *prüfen*.
 - **Thüringen Vorbereitungsdienst:** Kompetenzbereiche Beurteilen und Beraten (§ 2 Abs. 1 ThürAZStPLVO).
 
 ## Forschungslage
 
-- Lehrkräfte schätzen Leistungen insgesamt recht treffend ein: Die mittlere Korrelation zwischen Urteil und Testleistung liegt bei etwa 0,63, mit großer Streuung zwischen Lehrkräften (Südkamp, Kaiser & Möller 2012).
-- Selbsteinschätzungen hängen mittelstark mit gemessener Sprachleistung zusammen (r ≈ 0,47 über 67 Studien). Übung im Selbsteinschätzen und klare Kriterien gehen mit höherer Übereinstimmung einher, die eingeschätzte Fertigkeit macht dagegen keinen bedeutsamen Unterschied (Li & Zhang 2021). Wie treffend Lernende sich einschätzen, hängt auch von ihrer Erfahrung mit der jeweiligen Fertigkeit ab (Ross 1998).
+- Lehrkräfte schätzen Leistungen insgesamt recht treffend ein: Die mittlere Korrelation zwischen Urteil und Testleistung liegt bei etwa 0,63, mit großer Streuung zwischen Lehrkräften (Südkamp, Kaiser & Möller 2012). Laut Bericht gelingen globale Rangreihen relativ sicher, die genaue Diagnose spezifischer Fehlerursachen, etwa im Hör- und Leseverstehen, und ihre Übersetzung in adaptive Förderung bleiben dagegen anspruchsvoll und brauchen Training (Alderson, Brunfaut & Harding 2015; Helmke 2022, nicht verifiziert).
+- Selbsteinschätzungen hängen mittelstark mit gemessener Sprachleistung zusammen (r ≈ 0,47 über 67 Studien). Übung im Selbsteinschätzen und klare Kriterien gehen mit höherer Übereinstimmung einher, die eingeschätzte Fertigkeit macht dagegen keinen bedeutsamen Unterschied (Li & Zhang 2021). Wie treffend Lernende sich einschätzen, hängt auch von ihrer Erfahrung mit der jeweiligen Fertigkeit ab (Ross 1998). Butler (2024) ordnet die Einflüsse in drei Gruppen: Formulierung und Durchführung der Items, wobei konkrete, aufgabennahe und digital gestützte Items genauer sind; Merkmale der Lernenden, vor allem das Sprachniveau, wobei schwächere Lernende sich eher überschätzen; und der Kontext. Laut Bericht bestätigen neuere Experimente, dass mündliche Kompetenzen wie die eigene Verständlichkeit besonders schwer einzuschätzen sind, wiederholte Übung mit Kriterien die Einschätzung aber verbessert.
 - Diagnostische Fremdsprachentests sollen Stärken und Schwächen differenziert sichtbar machen. Dafür müssen sie Teilfähigkeiten trennen und zu konkreten Fördermaßnahmen führen (Alderson 2005; Harding, Alderson & Brunfaut 2015).
-- Formatives Assessment, in dem Diagnose und Feedback zusammenwirken, verbessert Lernen (Black & Wiliam 1998; siehe E3).
-- Offen: welche Förderformate nach einer Diagnose im Französischunterricht am besten wirken. Dazu fehlt fachspezifische Forschung.
+- Formatives Assessment, in dem Diagnose und Feedback zusammenwirken, verbessert Lernen (Black & Wiliam 1998; siehe E3). Nachhaltig wirkt es nur, wenn es in eine stimmige fachliche Theorie des Lehrens und Lernens eingebettet ist (Black & Wiliam 2018).
+- Schriftliches korrektives Feedback kann die grammatische Korrektheit verbessern; die Effekte hängen stark von Sprachniveau, Kontext und Textsorte ab (Kang & Han 2015). Zu unterscheiden sind die Genauigkeit bei der Überarbeitung und der Transfer auf neue Texte (Karim & Nassaji 2020); laut Bericht bleibt der Transfer bei unreflektiert übernommenen Korrekturen oft schwach (siehe E2).
+- Diagnose und Evaluation gelten unter Lehrenden der Fremdsprachendidaktik als fester Bereich des fachdidaktischen Basiswissens angehender Lehrkräfte (Caspari & Grünewald 2022, nicht verifiziert).
+- Laut Bericht zeigen internationale Studien zum interaktionistischen, gruppenbasierten und computergestützten Dynamic Assessment positive Effekte auf Lese-, Hör- und Schreibkompetenz, Selbstregulation und Motivation sowie weniger Sprechangst. Eine systematische Übersicht zum selbstregulierten Lernen spricht laut Bericht dafür, Strategievermittlung, formatives Feedback und Selbst- und Peer-Einschätzung zu verbinden, wenn das über längere Zeit geschieht und die Lehrkräfte über hohe Beurteilungskompetenz verfügen.
+- Teilaspekte der mündlichen Flüssigkeit wie Sprechtempo, Pausen und Selbstkorrekturen entwickeln sich nicht linear über die Niveaus A2 bis C1. Das spricht gegen allzu einfache Diagnose- und Bewertungsraster (Tavakoli, Nakatsuhara & Hunter 2020).
+- **Kontrovers, Standardtest oder Prozessdiagnose:** VERA 8, C-Test und DIALANG bieten Objektivität und Vergleichbarkeit. Kritiker halten punktuelle Standardtests aber oft für zu grob, um individuelle Lernprozesse im Unterricht zu steuern (Alderson, Brunfaut & Harding 2015; Mottier Lopez 2015).
+- **Kontrovers, Portfolio zwischen Autonomie und Kontrolle:** Das Europäische Sprachenportfolio gehört den Lernenden und dient ihrer Reflexion. In der Schulpraxis gerät es oft unter Noten- und Kontrolldruck, und aus Selbstreflexion wird strategische Anpassung.
+- **Kontrovers, Reichweite der Deskriptoren:** Ich-kann-Skalen schaffen Transparenz. Die deutschsprachige Rezeption des Begleitbands warnt aber vor einer technokratischen Verengung komplexer Bildungsziele, etwa literarisch-ästhetischer oder interkultureller Prozesse, auf überprüfbare Deskriptoren (Vogt & Quetz 2021).
+- **Kontrovers, direkt oder indirekt korrigieren:** Wann direkte Korrekturen mit vorgegebener Lösung und wann indirekte Hinweise wie markierte Fehlerstellen oder Codes besser wirken, bleibt umstritten; laut Bericht entscheiden vor allem Sprachniveau und Art des Fehlers (siehe E2).
+- **Offen:** welche Förderformate nach einer Diagnose im Französischunterricht am besten wirken. Dazu fehlt fachspezifische Forschung: Die meisten Studien zu Diagnose, Dynamic Assessment, Feedback und Selbsteinschätzung stammen aus dem Englischen als Fremd- oder Zweitsprache, Längsschnittstudien zum schulischen Französischunterricht in Deutschland mit weniger Stunden, späterem Beginn und eigener Morphologie und Orthografie sind selten. Offen ist auch, wie KI-gestützte Diagnose- und Feedbackwerkzeuge valide, datenschutzkonform und lernförderlich eingesetzt werden können und wie diagnostische Schreibaufgaben aussagekräftig bleiben, wenn Lernende zu Hause generative KI nutzen (siehe G2); wie sich feine Prozessdiagnose und individuelle Förderung in Französischklassen mit drei oder vier Wochenstunden und 25 bis 30 Lernenden auf Dauer ökonomisch umsetzen lassen; und wie sich mehrsprachige Repertoires und Transfer zwischen Deutsch, Englisch, Herkunftssprachen und Französisch alltagstauglich diagnostizieren lassen (siehe A3).
 
 ## Querverweise
 
-A3 Mehrsprachigkeitsdidaktik, B1 Hör- und Hör-Sehverstehen, B2 Leseverstehen, C3 Aussprache und Intonation, C4 Orthografie, E1 Differenzierung und Inklusion, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, F1 Leistungsfeststellung und Bewertung
+A3 Mehrsprachigkeitsdidaktik, A7 Spracherwerb und Lernersprache, B1 Hör- und Hör-Sehverstehen, B2 Leseverstehen, B3 Sprechen, B4 Schreiben, C2 Grammatikvermittlung, C3 Aussprache und Intonation, C4 Orthografie, E1 Differenzierung und Inklusion, E2 Fehlerkultur und Korrektur, E3 Feedback und Lernbegleitung, F1 Leistungsfeststellung und Bewertung, F3 DELF scolaire und Zertifikate, F4 Oberstufe und Abitur, G1 Digitale Medien, G2 Künstliche Intelligenz
 
 ## Bibliografie
 
@@ -99,17 +177,42 @@ A3 Mehrsprachigkeitsdidaktik, B1 Hör- und Hör-Sehverstehen, B2 Leseverstehen, 
 - Ross, S. (1998). Self-assessment in second language testing: A meta-analysis and analysis of experiential factors. *Language Testing, 15*(1), 1–20.
 - Alderson, J. C. (2005). *Diagnosing Foreign Language Proficiency: The Interface between Learning and Assessment.* Continuum.
 - Helmke, A. (2009). *Unterrichtsqualität und Lehrerprofessionalität. Diagnose, Evaluation und Verbesserung des Unterrichts.* Kallmeyer.
+- Krechel, H.-L. (Hrsg.) (2015). *Französisch-Didaktik. Praxishandbuch für die Sekundarstufe I und II.* Cornelsen. *(ISBN 978-3-589-22078-6)* *(nicht verifiziert)*
+- Burwitz-Melzer, E., Mehlhorn, G., Riemer, C., Bausch, K.-R. & Krumm, H.-J. (Hrsg.) (2016). *Handbuch Fremdsprachenunterricht* (6., völlig überarb. und erw. Aufl.). A. Francke / UTB. https://doi.org/10.36198/9783838586557 *(Hinweis: Eine 7., vollständig überarbeitete Auflage ist ebenfalls bei UTB gelistet, https://www.utb.de/doi/book/10.36198/9783838588506; genaues Erscheinungsjahr der 7. Aufl. in dieser Recherche nicht verifiziert.)*
+- Fäcke, C. (2017). *Fachdidaktik Französisch. Eine Einführung* (überarb. und erw. Aufl.). Narr Francke Attempto. *(ISBN 978-3-8233-8063-4)* *(Auflagenzählung nicht verifiziert: Die Berichte nennen die 2. bzw. 3. Auflage.)*
+- Nieweler, A. (Hrsg.) (2017). *Fachdidaktik Französisch. Das Handbuch für Theorie und Praxis.* Klett Sprachen. *(ISBN 978-3-12-920373-6)*
+- Europarat (2020). *Gemeinsamer europäischer Referenzrahmen für Sprachen: lernen, lehren, beurteilen. Begleitband.* Klett. [Council of Europe, CEFR](https://www.coe.int/en/web/common-european-framework-of-reference-languages) *(Hinweis: Verlags-ISBN der deutschen Druckausgabe hier nicht aus dem Impressum verifiziert.)*
+- Helmke, A. (2022). *Unterrichtsqualität und Lehrerprofessionalität. Diagnose, Evaluation und Verbesserung des Unterrichts.* Klett Kallmeyer. *(ISBN 978-3-7800-1009-4)* *(nicht verifiziert: Unter diesem Titel erschien das Buch 2009; per Websuche fand sich bei Klett Kallmeyer ein neueres Werk Helmkes mit dem Titel Unterrichtsqualität und Professionalisierung.)*
 
 **Aktuell und international**
 
 - Südkamp, A., Kaiser, J. & Möller, J. (2012). Accuracy of teachers' judgments of students' academic achievement: A meta-analysis. *Journal of Educational Psychology, 104*(3), 743–762.
-- Harding, L., Alderson, J. C. & Brunfaut, T. (2015). Diagnostic assessment of reading and listening in a second or foreign language: Elaborating on diagnostic principles. *Language Testing, 32*(3), 317–336.
-- Li, M. & Zhang, X. (2021). A meta-analysis of self-assessment and language performance in language testing and assessment. *Language Testing, 38*(2), 189–218.
+- Alderson, J. C., Brunfaut, T. & Harding, L. (2015). Towards a theory of diagnosis in second and foreign language assessment: Insights from professional practice across diverse fields. *Applied Linguistics, 36*(2), 236–260. https://doi.org/10.1093/applin/amt046
+- Harding, L., Alderson, J. C. & Brunfaut, T. (2015). Diagnostic assessment of reading and listening in a second or foreign language: Elaborating on diagnostic principles. *Language Testing, 32*(3), 317–336. https://doi.org/10.1177/0265532214564505
+- Kang, E. & Han, Z. (2015). The efficacy of written corrective feedback in improving L2 written accuracy: A meta-analysis. *The Modern Language Journal, 99*(1), 1–18. https://doi.org/10.1111/modl.12189
+- Mottier Lopez, L. (2015). *Évaluations formative et certificative des apprentissages. Enjeux pour l'enseignement.* De Boeck. *(Nachweis über Archive ouverte UNIGE: https://archive-ouverte.unige.ch/unige:106923; Rezension von S. Béland, 2016, in Revue des sciences de l'éducation, 42(2), 217–218, https://doi.org/10.7202/1038472ar)*
+- Philipp, E. (2015). Differenziert unterrichten – gleich bewerten? Möglichkeiten der Differenzierung in Leistungsüberprüfungen. *Französisch heute, 46*(2), 15–23. [Fachportal Pädagogik](https://www.fachportal-paedagogik.de/literatur/vollanzeige.html?FId=3236853) *(nicht verifiziert)*
+- Scallon, G. (2015). *Des savoirs aux compétences. Explorations en évaluation des apprentissages.* ERPI. *(Verifiziert über das Literaturverzeichnis in Béland, 2016, https://doi.org/10.7202/1038472ar; keine Verlags-DOI verfügbar.)*
+- Black, P. & Wiliam, D. (2018). Classroom assessment and pedagogy. *Assessment in Education: Principles, Policy & Practice, 25*(6), 551–575. https://doi.org/10.1080/0969594X.2018.1441807
+- Karim, K. & Nassaji, H. (2020). The revision and transfer effects of direct and indirect comprehensive corrective feedback on ESL students' writing. *Language Teaching Research, 24*(4), 519–539. https://doi.org/10.1177/1362168818802469
+- Tavakoli, P., Nakatsuhara, F. & Hunter, A.-M. (2020). Aspects of fluency across assessed levels of speaking proficiency. *The Modern Language Journal.* https://doi.org/10.1111/modl.12620 *(Hinweis: Band-, Heft- und Seitenzahlen in den eingesehenen Nachweisen nicht ausgewiesen; über DOI eindeutig identifizierbar.)*
+- Li, M. & Zhang, X. (2021). A meta-analysis of self-assessment and language performance in language testing and assessment. *Language Testing, 38*(2), 189–218. https://doi.org/10.1177/0265532220932481
+- Vogt, K. & Quetz, J. (Hrsg.) (2021). *Der neue Begleitband zum Gemeinsamen europäischen Referenzrahmen für Sprachen.* Peter Lang. https://doi.org/10.3726/b18077 Darin laut Bericht Vogt, K., Der Begleitband zum Gemeinsamen europäischen Referenzrahmen: Konsequenzen für das Assessment in schulischen Kontexten, ab S. 185.
+- Caspari, D. & Grünewald, A. (2022). Auf dem Weg zur Bestimmung fachdidaktischen Wissens angehender Lehrkräfte: Ergebnisse einer Umfrage unter Lehrenden an Universitäten und Pädagogischen Hochschulen. *Zeitschrift für Fremdsprachenforschung, 33*(1), 97–121. [DGFF](https://dgff.de/assets/Uploads/ausgaben-zff/ZFF-2022/Heft_ZFF_1_2022_Caspari_Gruenewald.pdf) *(nicht verifiziert)*
+- Butler, Y. G. (2024). Self-assessment in second language learning. *Language Teaching, 57*(1), 42–56. https://doi.org/10.1017/S0261444822000489
+- Sobel, M. (2024). Besser Feedback geben. *Unterricht Französisch*, Heft 189. [UTB eLibrary](https://elibrary.utb.de/toc/fuf/2024/189) *(Hinweis: Vollständiger Untertitel und exakte Seitenzahlen im frei zugänglichen Inhaltsverzeichnis nicht ausgewiesen. Siehe zudem das Themenheft "Feedback fördern", Ausgabe 201 [Juni 2026], https://elibrary.utb.de/journal/FUF.)* *(nicht verifiziert; Heft 189 heißt laut Verlagsseite [Prozessorientierte Leistungsbewertung](https://www.friedrich-verlag.de/shop/prozessorientierte-leistungsbewertung-527189))*
 
 **Praxis und Online**
 
-- IQB: Vergleichsarbeiten (VERA 8) mit Aufgabenbeispielen für die erste Fremdsprache.
-- Europarat: Europäisches Sprachenportfolio mit Ich-kann-Listen.
+- IQB: Aufgabenbeispiele und didaktische Handreichungen zu VERA 8 Französisch, etwa die [Didaktische Handreichung VERA 8 2024, Teil III](https://www.iqb.hu-berlin.de/media/exercise_group_files/VERA-8_Franz%C3%B6sisch/V8-2024_FRZ-Did-Hdrg-Teil_III_Module_2023-12-18.pdf); dazu [Lernaufgaben Französisch Sek I](https://www.iqb.hu-berlin.de/de/schule/aufgaben/seki/lernaufgaben-franzoesisch/).
+- KMK (2023). [Bildungsstandards für die erste Fremdsprache (Englisch/Französisch) ESA/MSA](https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf), Beschluss vom 22.06.2023.
+- KMK (2012). [Bildungsstandards für die fortgeführte Fremdsprache (Englisch/Französisch) Abitur](https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2012/2012_10_18-Bildungsstandards-Fortgef-FS-Abi.pdf), Beschluss vom 18.10.2012.
+- [DIALANG](https://dialangweb.lancaster.ac.uk/) (Universität Lancaster): kostenloses mehrsprachiges Online-Diagnoseverfahren, auch für Französisch, für Lesen, Hören, Schreiben, Wortschatz und Grammatik mit Selbsteinschätzung und Rückmeldung nach GeR-Niveaus; [Projekt DIALANG 2.0](https://wp.lancs.ac.uk/ltrg/projects/dialang-2-0/).
+- Europarat: Europäisches Sprachenportfolio mit Ich-kann-Listen. Frei zugängliche Fassungen: [ESP 15+ des Österreichischen Sprachen-Kompetenz-Zentrums](https://www.oesz.at/download/publikationen/esp15_gesamt_webversion.pdf) für die Sek II mit Checklisten, Sprachenpass und Reflexionsimpulsen; [Mein Europäisches Sprachenportfolio](https://men.public.lu/dam-assets/catalogue-publications/scolarisation-des-eleves-etrangers/informations-generales/mein-europasches-sparchenportfolio-fr-en-de.pdf) des luxemburgischen Bildungsministeriums mit französischsprachigen Deskriptoren.
 - NCSSFL-ACTFL (2017). *Can-Do Statements: Performance Indicators for Language Learners.* ACTFL. Englischsprachige Ich-kann-Sätze für Selbsteinschätzung und Zielsetzung.
+- France Éducation international: Beispielaufgaben und Bewertungsraster für DELF junior und scolaire von A1 bis B2 (siehe F3).
+- QUA-LiS NRW (2025). *Fachdidaktische Hinweise zu VERA 8 Französisch, Hör- und Leseverstehen*, mit Erläuterungen zu Kompetenzstufen, Auswertung und Förderung. [qua-lis.nrw.de](https://www.qua-lis.nrw.de/system/files/media/document/file/fachdidaktische_hinweise_hoer_und_leseverstehen.pdf) *(nicht verifiziert)*
+- BiSS-Transfer: [Tool-Beschreibung C-Test](https://www.biss-sprachbildung.de/btools/c-test/) mit Einordnung und Praxisbewertung des C-Tests als ökonomisches Verfahren der Sprachstandsdiagnose. *(nicht verifiziert)*
+- IQSH, Fachportal Schleswig-Holstein: [Übersicht Diagnose- und Förderinstrumente Englisch und Französisch](https://fachportal.lernnetz.de/sh/faecher/franzoesisch/distancelearning.html?file=files/Inhalte%20der%20Unterrichtsf%C3%A4cher/Franz%C3%B6sisch/Hauptseite%20Franz%C3%B6sisch/Diagnose-Foerderinstrumente%20%28E-Fr%29.pdf&cid=7328), frei verfügbare Online-Angebote für Sek I und Sek II, darunter die Aufgabendatenbank des ÖSZ für Französisch und DIALANG. *(nicht verifiziert)*
 
-*Hinweis: Neue Quellen im Oktober 2026 einzeln geprüft, die übrigen sind Standardwerke aus Fachwissen. Aus dem Deep-Research-Bericht wurden nur bestätigte Angaben übernommen.*
+*Hinweis: Eigener Entwurf, ergänzt um zwei Deep-Research-Berichte (Oktober und November 2026). Aus dem zweiten Bericht im November 2026 per Websuche geprüft und übernommen: Alderson, Brunfaut und Harding (2015), Butler (2024), Karim und Nassaji (2020), Tavakoli, Nakatsuhara und Hunter (2020), Vogt und Quetz (2021), Scallon (2015, über die Rezension in der Revue des sciences de l'éducation), DIALANG, die VERA-8-Materialien des IQB und die Sprachenportfolios von ÖSZ und luxemburgischem Bildungsministerium. Black und Wiliam (2018), Kang und Han (2015), Mottier Lopez (2015), Burwitz-Melzer et al. (2016), Fäcke (2017), Nieweler (2017) und der GeR-Begleitband sind Standardwerke aus Fachwissen. Nicht verifiziert und so markiert: Krechel (2015), Helmke (2022), Philipp (2015), Caspari und Grünewald (2022), Sobel (2024), die Hinweise von QUA-LiS NRW, die Tool-Beschreibung von BiSS-Transfer, die Übersicht des IQSH sowie die im Bericht ohne Quelle genannten Studien zu Dynamic Assessment, selbstreguliertem Lernen und zur Selbsteinschätzung der Verständlichkeit. Nicht übernommen: die Implementationsbroschüre der KMK zu den Standards von 2023 (wie in E3) und der Test Ev@lang (nicht geprüft); die Adressen des Berichts für die VERA-8-Seite des IQB, das ÖSZ-Portfolio und den Begleitband sind durch geprüfte Adressen ersetzt. Für Li und Zhang (2021) nennt der Bericht r = .46; die im ersten Durchgang geprüfte Angabe r ≈ 0,47 bleibt stehen. Der Bericht vermerkt selbst, nur verifizierte Titel aufgenommen und nicht abschließend prüfbare Metadaten gekennzeichnet zu haben; diese Kennzeichnungen stehen an den Einträgen. Einen Artikel der Zeitschrift Recherches en didactique des langues et des cultures ab 2015 zur évaluation diagnostique im schulischen Französischunterricht konnte er nach eigener Angabe nicht vollständig absichern und hat deshalb keinen konstruiert. Seine Platzhalter für das Bundesland sind auf Thüringen bezogen. Die Thüringer Angaben aus dem ersten Durchgang sind im November 2026 am Lehrplan geprüft, die Zielniveaus stammen aus F4.*
