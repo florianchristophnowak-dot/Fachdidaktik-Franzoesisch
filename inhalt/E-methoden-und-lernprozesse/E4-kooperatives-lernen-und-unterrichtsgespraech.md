@@ -194,7 +194,7 @@ A2 Aufgabenorientierung und Lernaufgaben, A3 Mehrsprachigkeitsdidaktik, A4 Einsp
 - Waring, H. Z. (2016). *Theorizing Pedagogical Interaction: Insights from Conversation Analysis.* Routledge.
 - Buchs, C., Filippou, D., Pulfrey, C. & Volpé, Y. (2017). Challenges for cooperative learning implementation: Reports from elementary school teachers. *Journal of Education for Teaching, 43*(3), 296–306. *(DOI und Seitenzahlen bitte verifizieren; Forschungsgruppe der Universitäten Genf/Lausanne, Schweiz.)*
 - Connac, S. (2017). *La coopération entre élèves.* Réseau Canopé.
-- Fäcke, C. (2017). *Fachdidaktik Französisch. Eine Einführung* (3., überarb. und erw. Aufl.). Narr Francke Attempto.
+- Fäcke, C. (2017). *Fachdidaktik Französisch. Eine Einführung* (überarb. und erw. Aufl.). Narr Francke Attempto. *(Auflagenzählung nicht verifiziert: Die Berichte nennen die 2. bzw. 3. Auflage.)*
 - Nieweler, A. (Hrsg.) (2017). *Fachdidaktik Französisch. Das Handbuch für Theorie und Praxis* (2., völlig neu bearb. Aufl.). Klett Kallmeyer.
 - Loewen, S. & Sato, M. (2018). Interaction and instructed second language acquisition. *Language Teaching, 51*(3), 285–329. *(DOI und Seitenzahlen bitte verifizieren.)*
 - Lyster, R. (2018). *Content-Based Language Teaching.* Routledge.
